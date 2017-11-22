@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_assignto" table="x_sogd_hacn_hacn" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_assignto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3rd Service</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>0</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-22 07:09:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>adebeb06dbe60740d13efa9ebf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-22 07:09:19</sys_updated_on>
+            <value>3rd Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_assignto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Center</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>1</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-22 07:09:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31ebeb06dbe60740d13efa9ebf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-22 07:09:20</sys_updated_on>
+            <value>Center</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_assignto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Control</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>2</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-22 07:09:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdebeb06dbe60740d13efa9ebf96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-22 07:09:20</sys_updated_on>
+            <value>Control</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_assignto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer IT</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>3</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-22 07:09:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bdebeb06dbe60740d13efa9ebf96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-22 07:09:20</sys_updated_on>
+            <value>Customer IT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_assignto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer Vender</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>4</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-22 07:09:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7debeb06dbe60740d13efa9ebf9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-22 07:09:20</sys_updated_on>
+            <value>Customer Vender</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_assignto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Helpdesk</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>5</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-22 07:09:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0eebeb06dbe60740d13efa9ebf9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-22 07:09:21</sys_updated_on>
+            <value>Helpdesk</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_assignto</element>
+            <name>x_sogd_hacn_hacn</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-22 07:09:19</sys_created_on>
+            <sys_id>e9ebeb06dbe60740d13efa9ebf96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_assignto</sys_name>
+            <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+            <sys_update_name>sys_choice_x_sogd_hacn_hacn_u_assignto</sys_update_name>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-22 07:09:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

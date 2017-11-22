@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_servicetime" table="x_sogd_hacn_hacn" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_servicetime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mon-Fri; 8:15-18:30</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>0</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-22 07:17:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95bd2f46dbe60740d13efa9ebf961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-22 07:17:13</sys_updated_on>
+            <value>Mon-Fri; 8:15-18:30</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_servicetime</element>
+            <name>x_sogd_hacn_hacn</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-22 07:17:13</sys_created_on>
+            <sys_id>d1bd2f46dbe60740d13efa9ebf961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_servicetime</sys_name>
+            <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+            <sys_update_name>sys_choice_x_sogd_hacn_hacn_u_servicetime</sys_update_name>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-22 07:17:13</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
