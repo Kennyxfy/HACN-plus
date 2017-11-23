@@ -1,249 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="u_trip" table="x_sogd_hacn_hacn" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="u_trip0" table="x_sogd_hacn_hacn" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_trip</element>
+            <element>u_trip0</element>
             <hint/>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
             <label>Advice</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
             <sequence>0</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:48:18</sys_created_on>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a8d4b78adbe60740d13efa9ebf9619bd</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_id>0ba4d92adbe24740d13efa9ebf96190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
-            <value>Choice 1</value>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
+            <value>Advice</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_trip</element>
+            <element>u_trip0</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Onsite</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>0</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:36:47</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>7312bf0adbe60740d13efa9ebf9619fd</sys_id>
-            <sys_mod_count>6</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
-            <value>onsite</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_trip</element>
-            <hint/>
-            <inactive>true</inactive>
             <label>Cancel</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
             <sequence>1</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:48:18</sys_created_on>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>68d4b78adbe60740d13efa9ebf9619bf</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_id>8ba4d92adbe24740d13efa9ebf96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
-            <value>Choice 2</value>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
+            <value>Cancel</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_trip</element>
+            <element>u_trip0</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Other</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>1</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:38:47</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>a492bf0adbe60740d13efa9ebf9619b0</sys_id>
-            <sys_mod_count>5</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
-            <value>other</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_trip</element>
-            <hint/>
-            <inactive>true</inactive>
             <label>Delivery Service</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
             <sequence>2</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:48:18</sys_created_on>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>28d4b78adbe60740d13efa9ebf9619c1</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_id>4ba4d92adbe24740d13efa9ebf96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
-            <value>Choice 3</value>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
+            <value>Delivery Service</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_trip</element>
+            <element>u_trip0</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Phone Support</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>2</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:37:28</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>f322bf0adbe60740d13efa9ebf9619af</sys_id>
-            <sys_mod_count>5</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
-            <value>phone support</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_trip</element>
-            <hint/>
-            <inactive>true</inactive>
             <label>Escalation</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
             <sequence>3</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:58:00</sys_created_on>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fa07f38edbe60740d13efa9ebf9619bc</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_id>0ba4d92adbe24740d13efa9ebf961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
             <value>Escalation</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_trip</element>
+            <element>u_trip0</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Scheduled</label>
+            <label>Onsite</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
-            <sequence>3</sequence>
+            <sequence>4</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:38:27</sys_created_on>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6f62fb0adbe60740d13efa9ebf961998</sys_id>
-            <sys_mod_count>6</sys_mod_count>
+            <sys_id>c7a4d92adbe24740d13efa9ebf961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
-            <value>scheduled</value>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
+            <value>Onsite</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_trip</element>
+            <element>u_trip0</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>5</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87a4d92adbe24740d13efa9ebf961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_trip0</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Phone Support</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>6</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>47a4d92adbe24740d13efa9ebf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
+            <value>Phone Support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_trip0</element>
             <hint/>
             <inactive>false</inactive>
             <label>Remote Support</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
-            <sequence>4</sequence>
+            <sequence>7</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:58:00</sys_created_on>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3207f38edbe60740d13efa9ebf9619bf</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_id>07a4d92adbe24740d13efa9ebf961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
             <value>Remote Support</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_trip</element>
+            <element>u_trip0</element>
             <hint/>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
             <label>Repair</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
-            <sequence>4</sequence>
+            <sequence>8</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:58:00</sys_created_on>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fe07f38edbe60740d13efa9ebf9619c0</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_id>c3a4d92adbe24740d13efa9ebf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
             <value>Repair</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_trip</element>
+            <element>u_trip0</element>
             <hint/>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
+            <label>Scheduled</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>9</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83a4d92adbe24740d13efa9ebf96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
+            <value>Scheduled</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_trip0</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Standby</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
-            <sequence>5</sequence>
+            <sequence>10</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:58:00</sys_created_on>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3207f38edbe60740d13efa9ebf9619c3</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_id>43a4d92adbe24740d13efa9ebf96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
             <value>Standby</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_trip</element>
+            <element>u_trip0</element>
             <hint/>
             <inactive>false</inactive>
             <label>X</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
-            <sequence>5</sequence>
+            <sequence>11</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:36:26</sys_created_on>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ac12bf0adbe60740d13efa9ebf9619a7</sys_id>
-            <sys_mod_count>5</sys_mod_count>
+            <sys_id>03a4d92adbe24740d13efa9ebf961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:21</sys_updated_on>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
             <value>X</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>u_trip</element>
+            <element>u_trip0</element>
             <name>x_sogd_hacn_hacn</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:36:26</sys_created_on>
-            <sys_id>ba12bf0adbe60740d13efa9ebf9619ac</sys_id>
+            <sys_created_on>2017-11-23 09:25:34</sys_created_on>
+            <sys_id>47a4d92adbe24740d13efa9ebf96190c</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>u_trip</sys_name>
+            <sys_name>u_trip0</sys_name>
             <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
             <sys_policy/>
             <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
-            <sys_update_name>sys_choice_x_sogd_hacn_hacn_u_trip</sys_update_name>
+            <sys_update_name>sys_choice_x_sogd_hacn_hacn_u_trip0</sys_update_name>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 07:36:26</sys_updated_on>
+            <sys_updated_on>2017-11-23 09:25:34</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

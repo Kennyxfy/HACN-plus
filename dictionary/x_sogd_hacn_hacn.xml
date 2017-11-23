@@ -238,16 +238,26 @@
         <element attributes="edge_encryption_enabled=true" label="Symptom" max_length="40" name="u_symptom" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Trip" max_length="40" name="u_trip" type="string">
             <choice>
-                <element label="Advice" sequence="0" value="Choice 1"/>
                 <element label="Onsite" sequence="0" value="onsite"/>
-                <element label="Cancel" sequence="1" value="Choice 2"/>
                 <element label="Other" sequence="1" value="other"/>
-                <element label="Delivery Service" sequence="2" value="Choice 3"/>
                 <element label="Phone Support" sequence="2" value="phone support"/>
-                <element label="Escalation" sequence="3" value="Escalation"/>
                 <element label="Scheduled" sequence="3" value="scheduled"/>
+                <element label="Remote Support" sequence="4" value="Remote Support"/>
+                <element label="X" sequence="5" value="X"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Trip0" max_length="40" name="u_trip0" type="string">
+            <choice>
+                <element label="Advice" sequence="0" value="Advice"/>
+                <element label="Cancel" sequence="1" value="Cancel"/>
+                <element label="Delivery Service" sequence="2" value="Delivery Service"/>
+                <element label="Escalation" sequence="3" value="Escalation"/>
+                <element label="Onsite" sequence="4" value="Onsite"/>
+                <element label="Other" sequence="5" value="Other"/>
+                <element label="Phone Support" sequence="6" value="Phone Support"/>
                 <element label="Remote Support" sequence="7" value="Remote Support"/>
                 <element label="Repair" sequence="8" value="Repair"/>
+                <element label="Scheduled" sequence="9" value="Scheduled"/>
                 <element label="Standby" sequence="10" value="Standby"/>
                 <element label="X" sequence="11" value="X"/>
             </choice>

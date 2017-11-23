@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="u_trip" label="Trip" language="en" table="x_sogd_hacn_hacn">
+    <sys_documentation element="u_trip0" label="Trip0" language="en" table="x_sogd_hacn_hacn">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_trip</element>
+            <element>u_trip0</element>
             <help/>
             <hint/>
-            <label>Trip</label>
+            <label>Trip0</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
-            <plural>Trips</plural>
+            <plural>Trip0s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 03:08:28</sys_created_on>
-            <sys_id>65c4be02db660740d13efa9ebf961966</sys_id>
-            <sys_mod_count>4</sys_mod_count>
-            <sys_name>Trip</sys_name>
+            <sys_created_on>2017-11-23 09:25:31</sys_created_on>
+            <sys_id>66a4992adbe24740d13efa9ebf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Trip0</sys_name>
             <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
             <sys_policy/>
             <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
-            <sys_update_name>sys_documentation_x_sogd_hacn_hacn_u_trip_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_sogd_hacn_hacn_u_trip0_en</sys_update_name>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 09:22:22</sys_updated_on>
+            <sys_updated_on>2017-11-23 09:25:31</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
