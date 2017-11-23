@@ -1,34 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" type="collection">
+    <element extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Action" max_length="40" name="u_action" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action1" max_length="40" name="u_action1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action2" max_length="40" name="u_action2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action3" max_length="40" name="u_action3" type="string"/>
         <element label="Actual arrival" max_length="40" name="u_actualarrival" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Asset No" max_length="40" name="u_assetno" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Assign To" max_length="40" name="u_assignto" type="string">
+        <element attributes="edge_encryption_enabled=true" choice_field="hardware_status" choice_table="cmdb_ci_hardware" label="Asset No" max_length="40" name="u_assetno" reference="alm_asset" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Assign To" mandatory="true" max_length="40" name="u_assignto" type="string">
             <choice>
-                <element label="3rd Service" sequence="0" value="3rd Service"/>
                 <element label="Center" sequence="1" value="Center"/>
                 <element label="Control" sequence="2" value="Control"/>
                 <element label="Customer IT" sequence="3" value="Customer IT"/>
-                <element label="Customer Vender" sequence="4" value="Customer Vender"/>
                 <element label="Helpdesk" sequence="5" value="Helpdesk"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Call From" mandatory="true" max_length="40" name="u_callfrom" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Call Source" max_length="40" name="u_callsource" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Call Source" mandatory="true" max_length="40" name="u_callsource" type="string">
             <choice>
                 <element label="Email" sequence="0" value="Email"/>
-                <element label="Internet" sequence="1" value="Internet"/>
                 <element label="Phone" sequence="2" value="Phone"/>
-                <element label="Voice Mail" sequence="3" value="Voice Mail"/>
-                <element label="Walk In" sequence="4" value="Walk In"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Call Type" max_length="40" name="u_calltype" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Call Type" mandatory="true" max_length="40" name="u_calltype" type="string">
             <choice>
                 <element label="Incident" sequence="0" value="Incident"/>
                 <element label="Request" sequence="1" value="Request"/>
@@ -37,51 +32,41 @@
                 <element label="Compliment" sequence="4" value="Compliment"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Cat1" max_length="40" name="u_cat1" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Cat1" mandatory="true" max_length="40" name="u_cat1" type="string">
             <choice>
                 <element label="Hardware" sequence="0" value="Hardware"/>
                 <element label="Software" sequence="1" value="Software"/>
-                <element label="LAN" sequence="2" value="LAN"/>
                 <element label="Service" sequence="3" value="Service"/>
-                <element label="Inquiry" sequence="4" value="Inquiry"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_cat1" dependent_on_field="u_cat1" label="Cat2" max_length="40" name="u_cat2" type="string" use_dependent_field="true">
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_cat1" dependent_on_field="u_cat1" label="Cat2" mandatory="true" max_length="40" name="u_cat2" type="string" use_dependent_field="true">
             <choice>
                 <element dependent_value="Hardware" label="Desktop" sequence="0" value="Desktop"/>
                 <element dependent_value="Hardware" label="Laptop" sequence="1" value="Laptop"/>
                 <element dependent_value="Hardware" label="Server" sequence="2" value="Server"/>
                 <element dependent_value="Hardware" label="Printer" sequence="3" value="Printer"/>
-                <element dependent_value="LAN" label="Network" sequence="4" value="Network"/>
                 <element dependent_value="Hardware" label="Monitor" sequence="5" value="Monitor"/>
                 <element dependent_value="Hardware" label="POS Hardware" sequence="6" value="POS Hardware"/>
                 <element dependent_value="Hardware" label="Storage" sequence="7" value="Storage"/>
                 <element dependent_value="Hardware" label="General" sequence="8" value="General"/>
-                <element label="Other" sequence="9" value="Other"/>
                 <element dependent_value="Software" label="OS" sequence="10" value="OS"/>
                 <element dependent_value="Software" label="POS Software" sequence="11" value="POS Software"/>
                 <element dependent_value="Software" label="Office" sequence="12" value="Office"/>
-                <element label="Email" sequence="13" value="Email"/>
-                <element label="System" sequence="14" value="System"/>
                 <element dependent_value="Software" label="Antivirus" sequence="15" value="Antivirus"/>
                 <element dependent_value="Software" label="Network Setting" sequence="16" value="Network Setting"/>
                 <element dependent_value="Software" label="Driver" sequence="17" value="Driver"/>
                 <element dependent_value="Software" label="Internet Explorer" sequence="18" value="Internet Explorer"/>
                 <element dependent_value="Software" label="Other Software" sequence="19" value="Other Software"/>
-                <element dependent_value="LAN" label="A single PC" sequence="20" value="A single PC"/>
                 <element dependent_value="Service" label="Install" sequence="21" value="Install"/>
                 <element dependent_value="Service" label="Calling" sequence="22" value="Calling"/>
                 <element dependent_value="Service" label="Health Check" sequence="23" value="Health Check"/>
                 <element dependent_value="Service" label="Delivery" sequence="24" value="Delivery"/>
                 <element dependent_value="Service" label="Standby" sequence="25" value="Standby"/>
                 <element dependent_value="Service" label="Other Service" sequence="26" value="Other Service"/>
-                <element dependent_value="Inquiry" label="Quote Price" sequence="27" value="Quote Price"/>
-                <element dependent_value="Inquiry" label="Info" sequence="28" value="Info"/>
-                <element dependent_value="Inquiry" label="Other Inquiry" sequence="29" value="Other Inquiry"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Center" max_length="40" name="u_center" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="City" max_length="40" name="u_city" reference="cmn_location" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="City" mandatory="true" max_length="40" name="u_city" reference="cmn_location" type="string">
             <choice>
                 <element label="上海" sequence="0" value="上海"/>
                 <element label="北京" sequence="1" value="北京"/>
@@ -114,12 +99,13 @@
         <element attributes="edge_encryption_enabled=true" label="Contact Person" max_length="40" name="u_contactperson" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Contact Phone No" max_length="40" name="u_contactphoneno" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Contract No" max_length="40" name="u_contractno" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contract Remark" max_length="3000" name="u_contractremark" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Contract Type" max_length="40" name="u_contracttype" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Create Note" max_length="40" name="u_createnote" type="string"/>
         <element choice_field="country" label="District" max_length="40" name="u_district" type="script"/>
         <element attributes="edge_encryption_enabled=true" label="District" max_length="40" name="u_district1" type="string"/>
         <element label="Effective Date" max_length="40" name="u_effectivedate" type="glide_date_time"/>
-        <element label="End Time1" max_length="40" name="u_endtime" type="glide_date_time"/>
+        <element label="End Time" max_length="40" name="u_endtime" type="glide_date_time"/>
         <element label="End Time2" max_length="40" name="u_endtime2" type="glide_date_time"/>
         <element label="End Time3" max_length="40" name="u_endtime3" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Equipment Email" max_length="40" name="u_equipmentemail" type="string"/>
@@ -156,14 +142,14 @@
         <element attributes="edge_encryption_enabled=true" label="Rootcase1" max_length="40" name="u_rootcase1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Rootcase2" max_length="40" name="u_rootcase2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="RootCase3" max_length="40" name="u_rootcase3" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Serial No" max_length="40" name="u_serialno" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial No" max_length="40" name="u_serialno" reference="alm_asset" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Service Level" max_length="40" name="u_servicelevel" type="string">
             <choice>
                 <element label="2Hr" sequence="0" value="2Hr"/>
                 <element label="4Hr" sequence="1" value="4Hr"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_city" dependent_on_field="u_city" label="Service Loc" max_length="40" name="u_serviceloc" type="string" use_dependent_field="true">
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_city" dependent_on_field="u_city" label="Service Loc" mandatory="true" max_length="40" name="u_serviceloc" type="string" use_dependent_field="true">
             <choice>
                 <element dependent_value="上海" label="总行上海证券大厦" sequence="0" value="总行上海证券大厦"/>
                 <element dependent_value="上海" label="总行恒生银行大厦" sequence="1" value="总行恒生银行大厦"/>
@@ -223,6 +209,7 @@
                 <element label="Mon-Fri; 8:15-18:30" sequence="0" value="Mon-Fri; 8:15-18:30"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="SOG Ticket No" max_length="40" name="u_sogticketno" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Solution" max_length="40" name="u_solution" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="SO Type" max_length="40" name="u_sotype" type="string">
             <choice>
@@ -237,10 +224,12 @@
         <element label="Start Time" max_length="40" name="u_starttime1" type="glide_date_time"/>
         <element label="Start Time2" max_length="40" name="u_starttime2" type="glide_date_time"/>
         <element label="Start Time3" max_length="40" name="u_starttime3" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="Open" label="Status" max_length="40" name="u_status" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Open" label="Status" mandatory="true" max_length="40" name="u_status" type="string">
             <choice>
+                <element label="Cancel" sequence="0" value="cancel"/>
                 <element label="Open" sequence="0" value="Open"/>
                 <element label="Pending" sequence="1" value="Pending"/>
+                <element label="Work in Progress" sequence="1" value="Work in Progress"/>
                 <element label="Dispatch" sequence="2" value="Dispatch"/>
                 <element label="Complete" sequence="3" value="Complete"/>
                 <element label="Resolved" sequence="4" value="Resolved"/>
@@ -250,9 +239,13 @@
         <element attributes="edge_encryption_enabled=true" choice="1" label="Trip" max_length="40" name="u_trip" type="string">
             <choice>
                 <element label="Advice" sequence="0" value="Choice 1"/>
+                <element label="Onsite" sequence="0" value="onsite"/>
                 <element label="Cancel" sequence="1" value="Choice 2"/>
+                <element label="Other" sequence="1" value="other"/>
                 <element label="Delivery Service" sequence="2" value="Choice 3"/>
+                <element label="Phone Support" sequence="2" value="phone support"/>
                 <element label="Escalation" sequence="3" value="Escalation"/>
+                <element label="Scheduled" sequence="3" value="scheduled"/>
                 <element label="Remote Support" sequence="7" value="Remote Support"/>
                 <element label="Repair" sequence="8" value="Repair"/>
                 <element label="Standby" sequence="10" value="Standby"/>

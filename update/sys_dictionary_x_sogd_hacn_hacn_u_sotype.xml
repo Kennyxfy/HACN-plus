@@ -48,14 +48,14 @@
         <sys_created_by>Fayu.xu</sys_created_by>
         <sys_created_on>2017-11-22 03:26:08</sys_created_on>
         <sys_id>1cd832c2db660740d13efa9ebf961924</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>SO Type</sys_name>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_dictionary_x_sogd_hacn_hacn_u_sotype</sys_update_name>
         <sys_updated_by>Fayu.xu</sys_updated_by>
-        <sys_updated_on>2017-11-22 07:09:26</sys_updated_on>
+        <sys_updated_on>2017-11-23 08:32:47</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

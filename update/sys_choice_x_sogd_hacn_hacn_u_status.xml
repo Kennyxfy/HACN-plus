@@ -6,6 +6,25 @@
             <element>u_status</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Cancel</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>0</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-23 08:17:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1815056edba24740d13efa9ebf9619a6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-23 08:44:18</sys_updated_on>
+            <value>cancel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Open</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
@@ -38,6 +57,25 @@
             <sys_updated_by>Fayu.xu</sys_updated_by>
             <sys_updated_on>2017-11-22 07:09:25</sys_updated_on>
             <value>Pending</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>1</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-11-23 08:22:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41e5816edba24740d13efa9ebf961992</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-11-23 08:44:37</sys_updated_on>
+            <value>Work in Progress</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -87,13 +125,13 @@
             <name>x_sogd_hacn_hacn</name>
             <sequence>4</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:09:25</sys_created_on>
+            <sys_created_on>2017-11-23 08:32:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c3eb2f06dbe60740d13efa9ebf96192c</sys_id>
+            <sys_id>b99885eedba24740d13efa9ebf961934</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 07:09:25</sys_updated_on>
+            <sys_updated_on>2017-11-23 08:32:46</sys_updated_on>
             <value>Resolved</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">

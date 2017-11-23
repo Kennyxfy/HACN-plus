@@ -6,25 +6,6 @@
             <element>u_assignto</element>
             <hint/>
             <inactive>false</inactive>
-            <label>3rd Service</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>0</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:09:19</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>adebeb06dbe60740d13efa9ebf961999</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 07:09:19</sys_updated_on>
-            <value>3rd Service</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_assignto</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>Center</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
@@ -76,25 +57,6 @@
             <sys_updated_by>Fayu.xu</sys_updated_by>
             <sys_updated_on>2017-11-22 07:09:20</sys_updated_on>
             <value>Customer IT</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_assignto</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Customer Vender</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>4</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:09:20</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>7debeb06dbe60740d13efa9ebf9619a1</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 07:09:20</sys_updated_on>
-            <value>Customer Vender</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>

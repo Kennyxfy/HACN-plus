@@ -25,25 +25,6 @@
             <element>u_callsource</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Internet</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>1</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:09:15</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>68ebeb06dbe60740d13efa9ebf961910</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 07:09:15</sys_updated_on>
-            <value>Internet</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_callsource</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>Phone</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
@@ -57,44 +38,6 @@
             <sys_updated_by>Fayu.xu</sys_updated_by>
             <sys_updated_on>2017-11-22 07:09:15</sys_updated_on>
             <value>Phone</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_callsource</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Voice Mail</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>3</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:09:15</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>acebeb06dbe60740d13efa9ebf961920</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 07:09:15</sys_updated_on>
-            <value>Voice Mail</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_callsource</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Walk In</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>4</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:09:15</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6cebeb06dbe60740d13efa9ebf961922</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 07:09:15</sys_updated_on>
-            <value>Walk In</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_callsource</element>

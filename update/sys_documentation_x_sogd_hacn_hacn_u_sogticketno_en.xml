@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="u_endtime" label="End Time" language="en" table="x_sogd_hacn_hacn">
+    <sys_documentation element="u_sogticketno" label="SOG Ticket No" language="en" table="x_sogd_hacn_hacn">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_endtime</element>
+            <element>u_sogticketno</element>
             <help/>
             <hint/>
-            <label>End Time</label>
+            <label>SOG Ticket No</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
-            <plural>End Times</plural>
+            <plural>SOG Ticket Nos</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 03:43:20</sys_created_on>
-            <sys_id>58ccf646db660740d13efa9ebf96198b</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_name>End Time</sys_name>
+            <sys_created_on>2017-11-23 08:32:45</sys_created_on>
+            <sys_id>a19845eedba24740d13efa9ebf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SOG Ticket No</sys_name>
             <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
             <sys_policy/>
             <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
-            <sys_update_name>sys_documentation_x_sogd_hacn_hacn_u_endtime_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_sogd_hacn_hacn_u_sogticketno_en</sys_update_name>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-23 08:45:21</sys_updated_on>
+            <sys_updated_on>2017-11-23 08:32:45</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
