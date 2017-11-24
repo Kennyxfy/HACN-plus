@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="1" type="collection">
+    <element extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="2" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Action" max_length="40" name="u_action" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action1" max_length="40" name="u_action1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action2" max_length="40" name="u_action2" type="string"/>
@@ -211,7 +211,7 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="SOG Ticket No" max_length="40" name="u_sogticketno" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Solution" max_length="40" name="u_solution" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="SO Type" max_length="40" name="u_sotype" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Contracted" label="SO Type" max_length="40" name="u_sotype" type="string">
             <choice>
                 <element label="Contracted" sequence="0" value="Contracted"/>
                 <element label="Others" sequence="1" value="Others"/>
