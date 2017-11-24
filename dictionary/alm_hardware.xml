@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="alm_asset" label="ハードウェア" max_length="40" name="alm_hardware" type="collection">
+        <element choice="2" label="HACN MA Number" max_length="40" name="x_sogd_hacn_hacn_ma_number" type="string">
+            <choice/>
+        </element>
+    </element>
+</database>

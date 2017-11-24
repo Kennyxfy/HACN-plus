@@ -102,7 +102,6 @@
         <element attributes="edge_encryption_enabled=true" label="Contract Remark" max_length="3000" name="u_contractremark" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Contract Type" max_length="40" name="u_contracttype" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Create Note" max_length="40" name="u_createnote" type="string"/>
-        <element choice_field="country" label="District" max_length="40" name="u_district" type="script"/>
         <element attributes="edge_encryption_enabled=true" label="District" max_length="40" name="u_district1" type="string"/>
         <element label="Effective Date" max_length="40" name="u_effectivedate" type="glide_date_time"/>
         <element label="End Time" max_length="40" name="u_endtime" type="glide_date_time"/>
@@ -120,7 +119,7 @@
         <element label="Job Code2" max_length="32" name="u_jobcode2" reference="u_job_code" type="reference"/>
         <element label="Job Code3" max_length="32" name="u_jobcode3" reference="u_job_code" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Model No" max_length="40" name="u_modelno" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Model Type" max_length="40" name="u_modeltype" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model Type" max_length="40" name="u_modeltype" reference="alm_asset" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name1" max_length="40" name="u_name1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name2" max_length="40" name="u_name2" type="string"/>
@@ -233,6 +232,17 @@
                 <element label="Dispatch" sequence="2" value="Dispatch"/>
                 <element label="Complete" sequence="3" value="Complete"/>
                 <element label="Resolved" sequence="4" value="Resolved"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Sub Model" max_length="40" name="u_sub_model" type="string">
+            <choice>
+                <element label="Desktop" sequence="0" value="Desktop"/>
+                <element label="Laptop" sequence="1" value="Laptop"/>
+                <element label="iPad" sequence="2" value="iPad"/>
+                <element label="Printer" sequence="3" value="Printer"/>
+                <element label="Server" sequence="4" value="Server"/>
+                <element label="Scanner" sequence="5" value="Scanner"/>
+                <element label="NAS Storage" sequence="6" value="NAS Storage"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Symptom" max_length="40" name="u_symptom" type="string"/>
