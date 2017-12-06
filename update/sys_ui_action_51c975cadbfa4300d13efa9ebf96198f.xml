@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name/>
+        <active>true</active>
+        <client>true</client>
+        <comments> </comments>
+        <condition/>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_style/>
+        <hint/>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <name>Customer Email </name>
+        <onclick>showHkItSupportTeamEmailTemplate()</onclick>
+        <order>900</order>
+        <script><![CDATA[var emails='';
+function showHkItSupportTeamEmailTemplate(){
+	var assignTo=g_form.getValue("u_assignto").replace(/\s/g,"").toLowerCase();
+	if(assignTo.indexOf("Customer IT".replace(/\s/g,"").toLowerCase())>=0 ){
+		sendHkItSupportTeam();
+	}
+}
+
+function sendHkItSupportTeam(){
+	var body="Dear All %0d%0a %0d%0a";
+	
+	body+="TICKET NO："+g_form.getValue('number')+" %0d%0a";
+	body+="CATEGORY：HUB Issue  %0d%0a";
+	body+="ISSUE BY： "+g_form.getValue('sys_created_by')+"%0d%0a %0d%0a";
+	
+	body+="ALL IN DATE："+g_form.getValue('sys_created_on')+" %0d%0a";
+	body+="CUSTOMER：恒生银行有限公司 %0d%0a";
+	body+="USER NAME："+g_form.getValue('u_contactperson')+" %0d%0a";
+	body+="USER CONTACT TEL："+g_form.getValue('u_contactphoneno')+" %0d%0a";
+	body+="SYMPTOM/REQUEST："+g_form.getValue('u_symptom')+" %0d%0a";
+	body+="REMARK：请尽快帮助用户排除故障，谢谢。";
+	var emails='ithelpdesk@hangseng.com';
+	// 	var cc='ims';
+	var cc='ims@sogservice.com.cn; Tan Jie (SOG CN) <jie.tan@sogservice.com.cn>;   user email';
+	var subject='Ticket No.'+g_form.getValue('number');
+	sendEmail(emails,cc,subject,body);
+}
+function sendEmail(emails,cc,subject,body){
+	//g_form.addInfoMessage('mailto:'+emails+'&subject='+subject+'&body='+body);
+	location.href = 'mailto:'+emails+'&subject='+subject+' &body='+body+'&cc='+cc;
+	g_form.addInfoMessage("outlook 触发成功,emails:"+emails);
+}
+
+//获取当前时间
+function getNowTime(addM){
+	var date=new Date();
+	if(addM){
+		date=addMinutes(date,addM);
+	}
+	var h=date.getHours();
+	var m=date.getMinutes();
+	var nowTime=date.getFullYear()+"-"+getTwo(date.getMonth()+1)+"-"+getTwo(date.getDate())+" "+getTwo(h)+":"+getTwo(m)+":"+getTwo(date.getSeconds());
+	return nowTime;
+}
+
+function getTwo(num){
+	return num <=9 ? ("0"+num) :num;
+}
+
+
+]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>Peng.yanyong</sys_created_by>
+        <sys_created_on>2017-12-04 09:06:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>51c975cadbfa4300d13efa9ebf96198f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Customer Email </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_ui_action_51c975cadbfa4300d13efa9ebf96198f</sys_update_name>
+        <sys_updated_by>Peng.yanyong</sys_updated_by>
+        <sys_updated_on>2017-12-04 09:08:42</sys_updated_on>
+        <table>x_sogd_hacn_hacn</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>true</ui16_compatible>
+    </sys_ui_action>
+</record_update>

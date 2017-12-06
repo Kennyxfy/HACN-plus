@@ -9,7 +9,7 @@
         <element label="Floor" max_length="40" name="x_sogd_hacn_floor" type="string"/>
         <element label="House name" max_length="40" name="x_sogd_hacn_house_name" type="string"/>
         <element label="Machine Name" max_length="100" name="x_sogd_hacn_machine_name" type="string"/>
-        <element label="MA Number" max_length="100" name="x_sogd_hacn_ma_number" type="string"/>
+        <element display="true" label="MA Number" max_length="100" name="x_sogd_hacn_ma_number" type="string"/>
         <element label="Seat Number" max_length="40" name="x_sogd_hacn_seat_number" type="string"/>
         <element label="SubModel" max_length="40" name="x_sogd_hacn_submodel" type="string"/>
     </element>

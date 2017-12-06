@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_assignto</field>
+        <global>true</global>
+        <messages/>
+        <name>sendEmail</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading || newValue === '') {
+		return;
+	}
+	var assignTo=g_form.getValue("u_assignto").replace(/\s/g,"").toLowerCase();
+// 	g_form.addInfoMessage("assignTo"+assignTo);
+	if(assignTo.indexOf("Control".replace(/\s/g,"").toLowerCase())>=0 ){
+		sendControl();
+	}
+	if(assignTo.indexOf("Customer IT".replace(/\s/g,"").toLowerCase())>=0 ){
+		sendHkItSupportTeam();
+	}
+	
+}
+
+function sendControl(){
+	var body="";
+	body+="SOG Ticket Number: "+g_form.getValue('number')+" %0d%0a";
+	body+="Customer: 恒生银行有限公司 %0d%0a";
+	body+="Call Date/Time: "+getNowTime()+" %0d%0a";
+	body+="Contract No: "+g_form.getValue('u_contractno')+" %0d%0a";
+	body+="Service Type : "+g_form.getValue('u_contracttype')+" %0d%0a";
+	body+="City: "+g_form.getValue('u_city')+" %0d%0a";
+	body+="Address: "+g_form.getValue('u_address')+" %0d%0a";
+	body+="Call From: "+g_form.getValue('u_callform')+" %0d%0a";
+	body+="Phone No: "+g_form.getValue('u_phoneno')+" %0d%0a";
+	body+="Contact Person: "+g_form.getValue('u_contactperson')+" %0d%0a";
+	body+="Issue and problem: "+g_form.getValue('u_symptom')+" %0d%0a";
+	body+="Product Type:  %0d%0a";
+	body+="Model:  "+g_form.getValue('u_sub_model')+"%0d%0a";
+	body+="Serial Number:  "+g_form.getValue('u_serialno')+"%0d%0a"; 
+	body+="Ref. No.:  "+g_form.getValue('u_ref_no')+"%0d%0a";
+	body+="Escalate Contents:  "+g_form.getValue('u_createnote')+"%0d%0a";
+// 	var emails='ims';
+	var emails='Hu Fengquan (SOG CN)<fengquan.hu@sogservice.com.cn>; ricky.huang@sogservice.com<ricky.huang@sogservice.com>; Fu guang (SOGCN)<guang.fu@sogservice.com.cn>; ims<ims@sogservice.com.cn>; Tan Jie(SOG CN)<jie.tan@sogservice.com.cn>';
+	sendEmail(emails,'','Escalation - 恒生银行有限公司 Request Service',body);
+}
+
+function sendHkItSupportTeam(){
+	var body="Dear All %0d%0a %0d%0a";
+	
+	body+="TICKET NO："+g_form.getValue('number')+" %0d%0a";
+	body+="CATEGORY：HUB Issue  %0d%0a";
+	body+="ISSUE BY： "+g_form.getValue('sys_created_by')+"%0d%0a %0d%0a";
+	
+	body+="ALL IN DATE："+g_form.getValue('sys_created_on')+" %0d%0a";
+	body+="CUSTOMER：恒生银行有限公司 %0d%0a";
+	body+="USER NAME："+g_form.getValue('u_contactperson')+" %0d%0a";
+	body+="USER CONTACT TEL："+g_form.getValue('u_contactphoneno')+" %0d%0a";
+	body+="SYMPTOM/REQUEST："+g_form.getValue('u_symptom')+" %0d%0a";
+	body+="REMARK：请尽快帮助用户排除故障，谢谢。";
+	var emails='ithelpdesk@hangseng.com';
+// 	var cc='ims';
+	var cc='Chen Zihao (SOG CN) <zihao.chen@sogservice.com.cn>; HKTEAM_BACKUP <hkteam_backup@sogservice.com.cn>; Hu Fengquan (SOG CN) <fengquan.hu@sogservice.com.cn>; Huang Junbo (SOG CN) <junbo.huang@sogservice.com.cn>; Huang Yi (SOG CN) <yi.huang@sogservice.com.cn>; Lai Weilin (SOG CN) <weilin.lai@sogservice.com.cn>; Lei Mingjiang (SOG CN) <mingjiang.lei@sogservice.com.cn>; Lin Zhuoming (SOG CN) <zhuoming.lin@sogservice.com.cn>; Luo Weidong (SOG CN) <weidong.luo@sogservice.com.cn>; Ma Ruidong (SOG CN) <ruidong.ma@sogservice.com.cn>; Wen Suihua (SOG CN) <suihua.wen@sogservice.com.cn>; Wu Shaozan (SOG CN) <shaozan.wu@sogservice.com.cn>; Zeng Jiancheng (SOG CN) <jiancheng.zeng@sogservice.com.cn>; Zhou Jiahao (SOG CN) <jiahao.zhou@sogservice.com.cn>; Tan Jie (SOG CN) <jie.tan@sogservice.com.cn>;   user email';
+	var subject='Ticket No.'+g_form.getValue('number');
+	sendEmail(emails,cc,subject,body);
+}
+
+function sendEmail(emails,cc,subject,body){
+	//g_form.addInfoMessage('mailto:'+emails+'&subject='+subject+'&body='+body);
+	location.href = 'mailto:'+emails+'&subject='+subject+' &body='+body+'&cc='+cc;
+	g_form.addInfoMessage("outlook 触发成功,emails:"+emails);
+}
+
+//获取当前时间
+function getNowTime(addM){
+	var date=new Date();
+	if(addM){
+		date=addMinutes(date,addM);
+	}
+	var h=date.getHours();
+	var m=date.getMinutes(); 
+	var nowTime=date.getFullYear()+"-"+getTwo(date.getMonth()+1)+"-"+getTwo(date.getDate())+" "+getTwo(h)+":"+getTwo(m)+":"+getTwo(date.getSeconds());
+	return nowTime;
+}
+
+function getTwo(num){
+	return num <=9 ? ("0"+num) :num;
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>Peng.yanyong</sys_created_by>
+        <sys_created_on>2017-11-27 01:30:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0c8a883fdb66c740d13efa9ebf96192b</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>sendEmail</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_script_client_0c8a883fdb66c740d13efa9ebf96192b</sys_update_name>
+        <sys_updated_by>Peng.yanyong</sys_updated_by>
+        <sys_updated_on>2017-12-04 09:03:55</sys_updated_on>
+        <table>x_sogd_hacn_hacn</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

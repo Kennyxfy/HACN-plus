@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_sogd_hacn.AstContract</api_name>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>AstContract</name>
+        <script><![CDATA[var AstContract = Class.create();
+AstContract.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	type: 'AstContract',
+	getAstContract:function(){
+		var contractno=this.getParameter("sysparm_contractno").trim();
+		var glideRecord=new GlideRecord("ast_contract");
+		glideRecord.addQuery("short_description","CONTAINS",contractno);
+		// 		glideRecord.addActiveQuery();
+		glideRecord.query();
+		// 		gs.info(">>>>>>JK:"+contractno);
+		while(glideRecord.next()){
+// 			var remark=glideRecord.description;
+// 			remark=remark.replace(/:/g,"@").replace(/：/g,"@");
+// 			var data='{"contract_model":"'+glideRecord. contract_model.display_name+'","starts":"'+glideRecord.starts+'","ends":"'+glideRecord.ends+
+// 				'","description":"'+remark+'"}';
+				// 			gs.info(">>>>>>JK:data="+data);
+			var data=glideRecord. contract_model.display_name+'@'+glideRecord.starts+'@'+glideRecord.ends+'@'+glideRecord.description;
+				return data;
+			}
+			return "";
+		}
+	});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>Peng.yanyong</sys_created_by>
+        <sys_created_on>2017-11-29 11:54:18</sys_created_on>
+        <sys_id>d440bce4dbbe0b40d13efa9ebf961928</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>AstContract</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_script_include_d440bce4dbbe0b40d13efa9ebf961928</sys_update_name>
+        <sys_updated_by>Peng.yanyong</sys_updated_by>
+        <sys_updated_on>2017-11-29 13:06:06</sys_updated_on>
+    </sys_script_include>
+</record_update>
