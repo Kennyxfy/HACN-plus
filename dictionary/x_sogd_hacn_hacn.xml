@@ -106,13 +106,13 @@
         <element attributes="edge_encryption_enabled=true" label="Complete Date" max_length="40" name="u_completedate" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Contact Person" mandatory="true" max_length="40" name="u_contactperson" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Contact Phone No" mandatory="true" max_length="40" name="u_contactphoneno" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Contract No" mandatory="true" max_length="40" name="u_contractno" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="SOGSVSO15015M" label="Contract No" mandatory="true" max_length="40" name="u_contractno" type="string">
             <choice>
                 <element label="SOGSVSO15015M" sequence="0" value="SOGSVSO15015M"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Contract Remark" max_length="3000" name="u_contractremark" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Contract Type" max_length="40" name="u_contracttype" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Contract Type" mandatory="true" max_length="40" name="u_contracttype" type="string">
             <choice>
                 <element label="MA" sequence="0" value="MA"/>
                 <element label="Delivery" sequence="1" value="Delivery"/>
