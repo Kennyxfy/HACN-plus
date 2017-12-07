@@ -40,7 +40,7 @@ function sendControl(){
 	body+="Service Type : "+g_form.getValue('u_contracttype')+" %0d%0a";
 	body+="City: "+g_form.getValue('u_city')+" %0d%0a";
 	body+="Address: "+g_form.getValue('u_address')+" %0d%0a";
-	body+="Call From: "+g_form.getValue('u_callform')+" %0d%0a";
+	body+="Call From: "+g_form.getValue('u_callfrom')+" %0d%0a";
 	body+="Phone No: "+g_form.getValue('u_phoneno')+" %0d%0a";
 	body+="Contact Person: "+g_form.getValue('u_contactperson')+" %0d%0a";
 	body+="Issue and problem: "+g_form.getValue('u_symptom')+" %0d%0a";
@@ -49,6 +49,7 @@ function sendControl(){
 	body+="Serial Number:  "+g_form.getValue('u_serialno')+"%0d%0a";
 	body+="Ref. No.:  "+g_form.getValue('u_ref_no')+"%0d%0a";
 	body+="Escalate Contents:  "+g_form.getValue('u_createnote')+"%0d%0a";
+	body=body.replace(/&/g,'-');
 	// 	var emails='ims';
 	var emails='Hu Fengquan (SOG CN)<fengquan.hu@sogservice.com.cn>; ricky.huang@sogservice.com<ricky.huang@sogservice.com>; Fu guang (SOGCN)<guang.fu@sogservice.com.cn>; ims<ims@sogservice.com.cn>; Tan Jie(SOG CN)<jie.tan@sogservice.com.cn>';
 	sendEmail(emails,'','Escalation - 恒生银行有限公司 Request Service',body);
@@ -87,7 +88,7 @@ function getTwo(num){
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d798b98adbfa4300d13efa9ebf96197c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Control  Email </sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -95,7 +96,7 @@ function getTwo(num){
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_ui_action_d798b98adbfa4300d13efa9ebf96197c</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-12-04 09:05:03</sys_updated_on>
+        <sys_updated_on>2017-12-06 06:28:24</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>true</ui16_compatible>

@@ -20,35 +20,38 @@
         <list_link>false</list_link>
         <list_save_with_form_button>false</list_save_with_form_button>
         <list_style/>
-        <name>Customer Email </name>
-        <onclick>showHkItSupportTeamEmailTemplate()</onclick>
+        <name>Center Email</name>
+        <onclick>showCenteEmailTemplate()</onclick>
         <order>900</order>
         <script><![CDATA[var emails='';
-function showHkItSupportTeamEmailTemplate(){
+function showCenteEmailTemplate(){
 	var assignTo=g_form.getValue("u_assignto").replace(/\s/g,"").toLowerCase();
-	if(assignTo.indexOf("Customer IT".replace(/\s/g,"").toLowerCase())>=0 ){
+	if(assignTo.indexOf("Center".replace(/\s/g,"").toLowerCase())>=0 ){
 		sendHkItSupportTeam();
 	}
 }
 
 function sendHkItSupportTeam(){
-	var body="Dear All %0d%0a %0d%0a";
-	
-	body+="TICKET NO："+g_form.getValue('number')+" %0d%0a";
-	body+="CATEGORY：HUB Issue  %0d%0a";
-	body+="ISSUE BY： "+g_form.getValue('sys_created_by')+"%0d%0a %0d%0a";
-	
-	body+="ALL IN DATE："+g_form.getValue('sys_created_on')+" %0d%0a";
+	var body="Dear Center, %0d%0a %0d%0a";
+	body+='Please kindly follow up the ticket ASAP.%0d%0a %0d%0a';
+	body+="SO No："+g_form.getValue('u_sogticketno')+" %0d%0a";
+	body+="Created By："+g_form.getValue('sys_created_by')+"  %0d%0a";
 	body+="CUSTOMER：恒生银行有限公司 %0d%0a";
-	body+="USER NAME："+g_form.getValue('u_contactperson')+" %0d%0a";
-	body+="USER CONTACT TEL："+g_form.getValue('u_contactphoneno')+" %0d%0a";
-	body+="SYMPTOM/REQUEST："+g_form.getValue('u_symptom')+" %0d%0a";
-	body+="REMARK：请尽快帮助用户排除故障，谢谢。";
+	body+="Center： "+g_form.getValue('u_center')+"%0d%0a %0d%0a";
+	
+	body+="City："+g_form.getValue('u_city')+" %0d%0a";
+	
+	body+="District："+g_form.getValue('u_district1')+" %0d%0a";
+	body+="Contact Person："+g_form.getValue('u_contactperson')+" %0d%0a";
+	body+="Phone No："+g_form.getValue('u_contactphoneno')+" %0d%0a";
+	body+="Symptom："+g_form.getValue('u_symptom')+" %0d%0a";
+	body+="Service Time："+g_form.getValue('u_servicetime')+" %0d%0a";
+	body+="REMARK：";
 	body=body.replace(/&/g,'-');
-	var emails='ithelpdesk@hangseng.com';
-	// 	var cc='ims';
-	var cc='ims@sogservice.com.cn; Tan Jie (SOG CN) <jie.tan@sogservice.com.cn>;   user email';
-	var subject='Ticket No.'+g_form.getValue('number');
+	var emails='IMSCoordinator-SZ<IMSCoordinator-SZ@sogservice.com.cn>; ims<ims@sogservice.com.cn>';
+		var cc='';
+// 	var cc='ims@sogservice.com.cn; Tan Jie (SOG CN) <jie.tan@sogservice.com.cn>;   user email';
+	var subject='Alert to center--Follow up SO '+g_form.getValue('number')+' ASAP!!';
 	sendEmail(emails,cc,subject,body);
 }
 function sendEmail(emails,cc,subject,body){
@@ -81,19 +84,19 @@ function getTwo(num){
         <show_update>true</show_update>
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>Peng.yanyong</sys_created_by>
-        <sys_created_on>2017-12-04 09:06:23</sys_created_on>
+        <sys_created_on>2017-12-06 06:00:41</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>51c975cadbfa4300d13efa9ebf96198f</sys_id>
+        <sys_id>2472afeedb3e8300d13efa9ebf96196d</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Customer Email </sys_name>
+        <sys_name>Center Email</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
-        <sys_update_name>sys_ui_action_51c975cadbfa4300d13efa9ebf96198f</sys_update_name>
+        <sys_update_name>sys_ui_action_2472afeedb3e8300d13efa9ebf96196d</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-12-06 06:30:03</sys_updated_on>
+        <sys_updated_on>2017-12-06 06:29:29</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>true</ui16_compatible>

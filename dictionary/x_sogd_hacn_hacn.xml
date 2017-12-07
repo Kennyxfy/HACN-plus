@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="16" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="25" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Action" max_length="40" name="u_action" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action1" max_length="40" name="u_action1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action2" max_length="40" name="u_action2" type="string"/>
@@ -108,12 +108,16 @@
         <element attributes="edge_encryption_enabled=true" label="Contact Phone No" mandatory="true" max_length="40" name="u_contactphoneno" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Contract No" mandatory="true" max_length="40" name="u_contractno" type="string">
             <choice>
-                <element label="SOGSVSO15015M/Delivery" sequence="0" value="SOGSVSO15015M/Delivery"/>
-                <element label="SOGSVSO15015M/MA" sequence="1" value="SOGSVSO15015M/MA"/>
+                <element label="SOGSVSO15015M" sequence="0" value="SOGSVSO15015M"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Contract Remark" max_length="3000" name="u_contractremark" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Contract Type" max_length="40" name="u_contracttype" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Contract Type" max_length="40" name="u_contracttype" type="string">
+            <choice>
+                <element label="MA" sequence="0" value="MA"/>
+                <element label="Delivery" sequence="1" value="Delivery"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Create Note" max_length="40" name="u_createnote" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="District" max_length="40" name="u_district1" type="string"/>
         <element label="Effective Date" max_length="40" name="u_effectivedate" type="glide_date_time"/>
@@ -130,6 +134,7 @@
         <element label="Expected Onsite Time" max_length="40" name="u_expected_onsite_time" type="glide_date_time"/>
         <element label="Expiry Date" max_length="40" name="u_expirydate" type="glide_date_time"/>
         <element label="Expiry Date" max_length="40" name="u_expiry_date" type="glide_date"/>
+        <element label="Get IMS ticket No" max_length="40" name="u_get_ims_ticket_no" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Job" max_length="40" name="u_job" type="string"/>
         <element label="Job Code" max_length="32" name="u_jobcode" reference="u_job_code" type="reference"/>
         <element label="Job Code1" max_length="32" name="u_jobcode1" reference="u_job_code" type="reference"/>
