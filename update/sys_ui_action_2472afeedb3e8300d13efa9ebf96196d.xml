@@ -48,7 +48,9 @@ function sendHkItSupportTeam(){
 	body+="Service Time："+g_form.getValue('u_servicetime')+" %0d%0a";
 	body+="REMARK：";
 	body=body.replace(/&/g,'-');
-	var emails='IMSCoordinator-SZ<IMSCoordinator-SZ@sogservice.com.cn>; ims<ims@sogservice.com.cn>';
+	
+	var center=g_form.getValue('u_center');
+	var emails='IMSCoordinator-'+center+'<IMSCoordinator-'+center+'@sogservice.com.cn>; ims<ims@sogservice.com.cn>';
 		var cc='';
 // 	var cc='ims@sogservice.com.cn; Tan Jie (SOG CN) <jie.tan@sogservice.com.cn>;   user email';
 	var subject='Alert to center--Follow up SO '+g_form.getValue('number')+' ASAP!!';
@@ -88,7 +90,7 @@ function getTwo(num){
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2472afeedb3e8300d13efa9ebf96196d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Center Email</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -96,7 +98,7 @@ function getTwo(num){
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_ui_action_2472afeedb3e8300d13efa9ebf96196d</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-12-06 06:29:29</sys_updated_on>
+        <sys_updated_on>2017-12-08 01:45:26</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>true</ui16_compatible>

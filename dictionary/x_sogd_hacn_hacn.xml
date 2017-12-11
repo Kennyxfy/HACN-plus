@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="25" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="40" type="collection">
+        <element label="Activities(filtered)(Formatter)" max_length="4000" name="activities_filtered_formatter" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Action" max_length="40" name="u_action" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action1" max_length="40" name="u_action1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action2" max_length="40" name="u_action2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action3" max_length="40" name="u_action3" type="string"/>
+        <element label="Activities(filtered)(Formatter)" max_length="32" name="u_activities_filtered_formatter" reference="v_cluster_transaction" type="reference"/>
         <element label="Actual arrival" max_length="40" name="u_actualarrival" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice_field="hardware_status" choice_table="cmdb_ci_hardware" label="Asset No" max_length="40" name="u_assetno" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>

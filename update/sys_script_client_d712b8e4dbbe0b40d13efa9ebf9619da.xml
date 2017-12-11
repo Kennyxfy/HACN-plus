@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sys_script_client">
     <sys_script_client action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
         <description/>
-        <field>u_contractno</field>
+        <field>u_contracttype</field>
         <global>true</global>
         <messages/>
         <name>fillingFromContractNo</name>
@@ -18,6 +18,7 @@
 	var ga = new GlideAjax('AstContract'); 
 	ga.addParam('sysparm_name','getAstContract'); 
 	ga.addParam('sysparm_contractno',g_form.getValue("u_contractno")); 
+	ga.addParam('sysparm_contractType',g_form.getValue("u_contracttype")); 
 	ga.getXML(callback); 
 	
 }
@@ -33,10 +34,10 @@ function callback(response) {
 // 	g_form.addInfoMessage(contract.contract_model);
 // 	g_form.addInfoMessage(location.street);
 	var contracts=contract.split('@');
-	g_form.setValue('u_contracttype',contracts[0]);
-	g_form.setValue('u_effective_date',contracts[1]);
-	g_form.setValue('u_expiry_date',contracts[2]);
-	g_form.setValue('u_contractremark',contracts[3]);
+// 	g_form.setValue('u_contracttype',contracts[0]);
+	g_form.setValue('u_effective_date',contracts[0]);
+	g_form.setValue('u_expiry_date',contracts[1]);
+// 	g_form.setValue('u_contractremark',contracts[3]);
 }
 
 ]]></script>
@@ -46,7 +47,7 @@ function callback(response) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d712b8e4dbbe0b40d13efa9ebf9619da</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>21</sys_mod_count>
         <sys_name>fillingFromContractNo</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -54,7 +55,7 @@ function callback(response) {
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_script_client_d712b8e4dbbe0b40d13efa9ebf9619da</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-12-06 05:59:19</sys_updated_on>
+        <sys_updated_on>2017-12-08 01:41:20</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
