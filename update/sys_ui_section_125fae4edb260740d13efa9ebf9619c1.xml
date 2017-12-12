@@ -5,503 +5,489 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>11952f62db7e8300d13efa9ebf9619b9</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>58f82660db878700d13efa9ebf961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_sogticketno</element>
-            <position>1</position>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>95952f62db7e8300d13efa9ebf9619b9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>19952f62db7e8300d13efa9ebf9619b9</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d8f82660db878700d13efa9ebf961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_by</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>99952f62db7e8300d13efa9ebf9619b9</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>5cf82660db878700d13efa9ebf961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_on</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>1d952f62db7e8300d13efa9ebf9619b9</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>dcf82660db878700d13efa9ebf961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>9d952f62db7e8300d13efa9ebf9619b9</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>50f82660db878700d13efa9ebf961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>11952f62db7e8300d13efa9ebf9619ba</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d0f82660db878700d13efa9ebf961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_callfrom</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>91952f62db7e8300d13efa9ebf9619ba</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>54f82660db878700d13efa9ebf961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_city</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>15952f62db7e8300d13efa9ebf9619ba</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d4f82660db878700d13efa9ebf961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_serviceloc</element>
-            <position>9</position>
+            <position>8</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>95952f62db7e8300d13efa9ebf9619ba</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>58f82660db878700d13efa9ebf961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_contactperson</element>
-            <position>10</position>
+            <position>9</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>19952f62db7e8300d13efa9ebf9619ba</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d8f82660db878700d13efa9ebf961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>11</position>
+            <position>10</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>99952f62db7e8300d13efa9ebf9619ba</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>5cf82660db878700d13efa9ebf961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_phoneno</element>
-            <position>12</position>
+            <position>11</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>1d952f62db7e8300d13efa9ebf9619ba</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>dcf82660db878700d13efa9ebf961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_district1</element>
-            <position>13</position>
+            <position>12</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>9d952f62db7e8300d13efa9ebf9619ba</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>50f82660db878700d13efa9ebf961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_address</element>
-            <position>14</position>
+            <position>13</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>11952f62db7e8300d13efa9ebf9619bb</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d0f82660db878700d13efa9ebf961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_contactphoneno</element>
-            <position>15</position>
+            <position>14</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>91952f62db7e8300d13efa9ebf9619bb</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>54f82660db878700d13efa9ebf961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>16</position>
+            <position>15</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>15952f62db7e8300d13efa9ebf9619bb</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d4f82660db878700d13efa9ebf961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>17</position>
+            <position>16</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>95952f62db7e8300d13efa9ebf9619bb</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>58f82660db878700d13efa9ebf961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_callsource</element>
-            <position>18</position>
+            <position>17</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>19952f62db7e8300d13efa9ebf9619bb</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d8f82660db878700d13efa9ebf961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_cat1</element>
-            <position>19</position>
+            <position>18</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>99952f62db7e8300d13efa9ebf9619bb</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>5cf82660db878700d13efa9ebf961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_assignto</element>
-            <position>20</position>
+            <position>19</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>1d952f62db7e8300d13efa9ebf9619bb</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>dcf82660db878700d13efa9ebf961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_servicelevel</element>
-            <position>21</position>
+            <position>20</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>9d952f62db7e8300d13efa9ebf9619bb</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>50f82660db878700d13efa9ebf961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_createnote</element>
-            <position>22</position>
+            <position>21</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>11952f62db7e8300d13efa9ebf9619bc</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d0f82660db878700d13efa9ebf961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_satisfaction_level</element>
-            <position>23</position>
+            <position>22</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>91952f62db7e8300d13efa9ebf9619bc</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>54f82660db878700d13efa9ebf961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_get_ims_ticket_no</element>
-            <position>24</position>
+            <position>23</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>15952f62db7e8300d13efa9ebf9619bc</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d4f82660db878700d13efa9ebf961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>25</position>
+            <position>24</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>95952f62db7e8300d13efa9ebf9619bc</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>58f82660db878700d13efa9ebf961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_calltype</element>
-            <position>26</position>
+            <position>25</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>19952f62db7e8300d13efa9ebf9619bc</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d8f82660db878700d13efa9ebf961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_cat2</element>
-            <position>27</position>
+            <position>26</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>99952f62db7e8300d13efa9ebf9619bc</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>5cf82660db878700d13efa9ebf961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_status</element>
-            <position>28</position>
+            <element>state</element>
+            <position>27</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>1d952f62db7e8300d13efa9ebf9619bc</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>dcf82660db878700d13efa9ebf961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_reopen_reason</element>
-            <position>29</position>
+            <position>28</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>9d952f62db7e8300d13efa9ebf9619bc</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>50f82660db878700d13efa9ebf961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_cancel_reason</element>
-            <position>30</position>
+            <position>29</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>11952f62db7e8300d13efa9ebf9619bd</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d0f82660db878700d13efa9ebf961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_pendingreason</element>
-            <position>31</position>
+            <position>30</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>91952f62db7e8300d13efa9ebf9619bd</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>54f82660db878700d13efa9ebf961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_servicetime</element>
-            <position>32</position>
+            <position>31</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>15952f62db7e8300d13efa9ebf9619bd</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d4f82660db878700d13efa9ebf961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>closed_at</element>
-            <position>33</position>
+            <position>32</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>95952f62db7e8300d13efa9ebf9619bd</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>58f82660db878700d13efa9ebf961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_trip</element>
-            <position>34</position>
+            <position>33</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>19952f62db7e8300d13efa9ebf9619bd</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>d8f82660db878700d13efa9ebf961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_expected_onsite_time</element>
-            <position>35</position>
+            <position>34</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-06 06:14:23</sys_created_on>
-            <sys_id>99952f62db7e8300d13efa9ebf9619bd</sys_id>
+            <sys_created_on>2017-12-12 06:57:18</sys_created_on>
+            <sys_id>5cf82660db878700d13efa9ebf961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">125fae4edb260740d13efa9ebf9619c1</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-06 06:14:23</sys_updated_on>
+            <sys_updated_on>2017-12-12 06:57:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

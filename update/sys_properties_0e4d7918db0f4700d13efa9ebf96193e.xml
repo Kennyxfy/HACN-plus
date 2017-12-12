@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>HACN activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_sogd_hacn_hacn_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2017-12-11 09:08:03</sys_created_on>
+        <sys_id>0e4d7918db0f4700d13efa9ebf96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_sogd_hacn_hacn_activity.fields</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_properties_0e4d7918db0f4700d13efa9ebf96193e</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2017-12-11 09:08:03</sys_updated_on>
+        <type>string</type>
+        <value>cmdb_ci,opened_by,work_notes,comments,*Attachments*,u_action,u_action1,u_action2,u_action3,u_assetno,u_assignto,u_address,u_callfrom,u_calltype,u_callsource,u_cancel_reason,u_cat1,u_cat2,u_center,u_city,u_codedescription,u_codedescription1,u_codedescription2,u_codedescription3,u_contactperson,u_contactphoneno,contact_type,u_contractno,u_district1,u_pendingreason,u_phoneno,u_refno,u_ref_no,u_reopen_reason</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=0e4d7918db0f4700d13efa9ebf96193e"/>
+</record_update>

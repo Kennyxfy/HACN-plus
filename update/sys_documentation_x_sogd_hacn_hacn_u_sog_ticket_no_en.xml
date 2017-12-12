@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_sog_ticket_no" label="SOG Ticket No" language="en" table="x_sogd_hacn_hacn">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_sog_ticket_no</element>
+            <help/>
+            <hint/>
+            <label>SOG Ticket No</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <plural>SOG Ticket Nos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>IMS.SOG</sys_created_by>
+            <sys_created_on>2017-12-12 06:22:06</sys_created_on>
+            <sys_id>30e0a22cdb478700d13efa9ebf9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SOG Ticket No</sys_name>
+            <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+            <sys_update_name>sys_documentation_x_sogd_hacn_hacn_u_sog_ticket_no_en</sys_update_name>
+            <sys_updated_by>IMS.SOG</sys_updated_by>
+            <sys_updated_on>2017-12-12 06:22:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
