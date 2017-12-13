@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="50" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="57" type="collection">
         <element label="Activities(filtered)(Formatter)" max_length="4000" name="activities_filtered_formatter" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Action" max_length="40" name="u_action" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action1" max_length="40" name="u_action1" type="string"/>
@@ -136,7 +136,7 @@
         <element label="Expected Onsite Time" max_length="40" name="u_expected_onsite_time" type="glide_date_time"/>
         <element label="Expiry Date" max_length="40" name="u_expirydate" type="glide_date_time"/>
         <element label="Expiry Date" max_length="40" name="u_expiry_date" type="glide_date"/>
-        <element label="Get IMS ticket No" max_length="40" name="u_get_ims_ticket_no" type="boolean"/>
+        <element default="true" label="Get IMS ticket No" max_length="40" name="u_get_ims_ticket_no" read_only="true" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Job" max_length="40" name="u_job" type="string"/>
         <element label="Job Code" max_length="32" name="u_jobcode" reference="u_job_code" type="reference"/>
         <element label="Job Code1" max_length="32" name="u_jobcode1" reference="u_job_code" type="reference"/>
@@ -286,76 +286,72 @@
         <element attributes="edge_encryption_enabled=true" label="Symptom" mandatory="true" max_length="40" name="u_symptom" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Trip" max_length="40" name="u_trip" type="string">
             <choice>
-                <element label="Onsite" sequence="0" value="11"/>
-                <element label="Other" sequence="1" value="9"/>
+                <element label="Onsite" sequence="0" value="6"/>
+                <element label="Other" sequence="1" value="12"/>
                 <element label="Phone Support" sequence="2" value="7"/>
                 <element label="Scheduled" sequence="3" value="5"/>
                 <element label="Remote Support" sequence="4" value="4"/>
-                <element label="X" sequence="5" value="12"/>
+                <element label="X" sequence="5" value="1"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Trip0" max_length="40" name="u_trip0" type="string">
             <choice>
-                <element label="Advice" sequence="0" value="1"/>
-                <element label="Cancel" sequence="1" value="11"/>
-                <element label="Delivery Service" sequence="2" value="10"/>
-                <element label="Escalation" sequence="3" value="9"/>
-                <element label="Onsite" sequence="4" value="8"/>
-                <element label="Other" sequence="5" value="7"/>
-                <element label="Phone Support" sequence="6" value="6"/>
-                <element label="Remote Support" sequence="7" value="5"/>
-                <element label="Repair" sequence="8" value="4"/>
-                <element label="Scheduled" sequence="9" value="3"/>
-                <element label="Standby" sequence="10" value="2"/>
-                <element label="X" sequence="11" value="12"/>
+                <element label="Advice" sequence="0" value="2"/>
+                <element label="Cancel" sequence="1" value="3"/>
+                <element label="Delivery Service" sequence="2" value="4"/>
+                <element label="Escalation" sequence="3" value="5"/>
+                <element label="Onsite" sequence="4" value="6"/>
+                <element label="Other" sequence="5" value="12"/>
+                <element label="Remote Support" sequence="7" value="8"/>
+                <element label="Repair" sequence="8" value="9"/>
+                <element label="Scheduled" sequence="9" value="10"/>
+                <element label="Standby" sequence="10" value="11"/>
+                <element label="X" sequence="11" value="1"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Trip1" max_length="40" name="u_trip1" type="string">
             <choice>
-                <element label="Advice" sequence="0" value="1"/>
-                <element label="Cancel" sequence="1" value="11"/>
-                <element label="Delivery Service" sequence="2" value="10"/>
-                <element label="Escalation" sequence="3" value="9"/>
-                <element label="Onsite" sequence="4" value="8"/>
-                <element label="Other" sequence="5" value="7"/>
-                <element label="Phone Support" sequence="6" value="6"/>
-                <element label="Remote Support" sequence="7" value="5"/>
-                <element label="Repair" sequence="8" value="4"/>
-                <element label="Scheduled" sequence="9" value="3"/>
-                <element label="Standby" sequence="10" value="2"/>
-                <element label="X" sequence="11" value="12"/>
+                <element label="Advice" sequence="0" value="2"/>
+                <element label="Cancel" sequence="1" value="3"/>
+                <element label="Delivery Service" sequence="2" value="4"/>
+                <element label="Escalation" sequence="3" value="5"/>
+                <element label="Onsite" sequence="4" value="6"/>
+                <element label="Other" sequence="5" value="12"/>
+                <element label="Remote Support" sequence="7" value="8"/>
+                <element label="Repair" sequence="8" value="9"/>
+                <element label="Scheduled" sequence="9" value="10"/>
+                <element label="Standby" sequence="10" value="11"/>
+                <element label="X" sequence="11" value="1"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Trip2" max_length="40" name="u_trip2" type="string">
             <choice>
-                <element label="Advice" sequence="0" value="1"/>
-                <element label="Cancel" sequence="1" value="11"/>
-                <element label="Delivery Service" sequence="2" value="10"/>
-                <element label="Escalation" sequence="3" value="9"/>
-                <element label="Onsite" sequence="4" value="8"/>
-                <element label="Other" sequence="5" value="7"/>
-                <element label="Phone Support" sequence="6" value="6"/>
-                <element label="Remote Support" sequence="7" value="4"/>
-                <element label="Repair" sequence="8" value="5"/>
-                <element label="Scheduled" sequence="9" value="3"/>
-                <element label="Standby" sequence="10" value="2"/>
-                <element label="X" sequence="11" value="12"/>
+                <element label="Advice" sequence="0" value="2"/>
+                <element label="Cancel" sequence="1" value="3"/>
+                <element label="Delivery Service" sequence="2" value="4"/>
+                <element label="Escalation" sequence="3" value="5"/>
+                <element label="Onsite" sequence="4" value="6"/>
+                <element label="Other" sequence="5" value="12"/>
+                <element label="Remote Support" sequence="7" value="8"/>
+                <element label="Repair" sequence="8" value="9"/>
+                <element label="Scheduled" sequence="9" value="10"/>
+                <element label="Standby" sequence="10" value="11"/>
+                <element label="X" sequence="11" value="1"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Trip3" max_length="40" name="u_trip3" type="string">
             <choice>
-                <element label="Advice" sequence="0" value="1"/>
-                <element label="Cancel" sequence="1" value="11"/>
-                <element label="Delivery Service" sequence="2" value="10"/>
-                <element label="Escalation" sequence="3" value="9"/>
-                <element label="Onsite" sequence="4" value="8"/>
-                <element label="Other" sequence="5" value="7"/>
-                <element label="Phone Support" sequence="6" value="6"/>
-                <element label="Remote Support" sequence="7" value="5"/>
-                <element label="Repair" sequence="8" value="4"/>
-                <element label="Scheduled" sequence="9" value="3"/>
-                <element label="Standby" sequence="10" value="2"/>
-                <element label="X" sequence="11" value="12"/>
+                <element label="Advice" sequence="0" value="2"/>
+                <element label="Cancel" sequence="1" value="3"/>
+                <element label="Delivery Service" sequence="2" value="4"/>
+                <element label="Escalation" sequence="3" value="5"/>
+                <element label="Onsite" sequence="4" value="6"/>
+                <element label="Other" sequence="5" value="12"/>
+                <element label="Remote Support" sequence="7" value="8"/>
+                <element label="Repair" sequence="8" value="9"/>
+                <element label="Scheduled" sequence="9" value="10"/>
+                <element label="Standby" sequence="10" value="11"/>
+                <element label="X" sequence="11" value="1"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="User ID" max_length="40" name="u_userid" reference="u_ims_user" type="reference"/>
