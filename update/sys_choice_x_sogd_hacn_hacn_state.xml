@@ -43,6 +43,25 @@
             <dependent_value/>
             <element>state</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Resolved</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence>0</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-12-12 06:57:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94f82660db878700d13efa9ebf961919</sys_id>
+            <sys_mod_count>11</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-12-15 09:12:47</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Open</label>
             <language>en</language>
@@ -57,25 +76,6 @@
             <sys_updated_by>Fayu.xu</sys_updated_by>
             <sys_updated_on>2017-12-15 08:57:34</sys_updated_on>
             <value>0</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>Resolved</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>1</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-12-12 06:57:17</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>94f82660db878700d13efa9ebf961919</sys_id>
-            <sys_mod_count>7</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-15 09:04:47</sys_updated_on>
-            <value>3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
