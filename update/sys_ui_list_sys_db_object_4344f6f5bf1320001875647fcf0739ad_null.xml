@@ -103,10 +103,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2017-12-12 06:20:21</sys_created_on>
+            <sys_created_on>2017-12-15 06:38:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8f7066e8db478700d13efa9ebf961906</sys_id>
+            <sys_id>a75106a90f07c3008e6805ace1050e5a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name/>
             <sys_package/>
@@ -114,7 +114,7 @@
             <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
             <sys_update_name/>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2017-12-12 06:20:21</sys_updated_on>
+            <sys_updated_on>2017-12-15 06:38:19</sys_updated_on>
             <sys_user display_value="IMS SOG">0276c6440fa883008e6805ace1050e1e</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

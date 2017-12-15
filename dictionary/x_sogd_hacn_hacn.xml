@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="60" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="65" type="collection">
         <element label="Activities(filtered)(Formatter)" max_length="4000" name="activities_filtered_formatter" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Action" max_length="40" name="u_action" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action1" max_length="40" name="u_action1" type="string"/>
@@ -136,7 +136,7 @@
         <element label="Expected Onsite Time" max_length="40" name="u_expected_onsite_time" type="glide_date_time"/>
         <element label="Expiry Date" max_length="40" name="u_expirydate" type="glide_date_time"/>
         <element label="Expiry Date" max_length="40" name="u_expiry_date" type="glide_date"/>
-        <element default="true" label="Get IMS ticket No" max_length="40" name="u_get_ims_ticket_no" read_only="true" type="boolean"/>
+        <element default="true" label="Get IMS ticket No" max_length="40" name="u_get_ims_ticket_no" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Job" max_length="40" name="u_job" type="string"/>
         <element label="Job Code" max_length="32" name="u_jobcode" reference="u_job_code" type="reference"/>
         <element label="Job Code1" max_length="32" name="u_jobcode1" reference="u_job_code" type="reference"/>
@@ -272,7 +272,7 @@
                 <element label="Work in Progress" sequence="6" value="Work in Progress"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="2" label="Sub Model" max_length="40" name="u_sub_model" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Sub Model" max_length="40" name="u_sub_model" type="string">
             <choice>
                 <element label="Desktop" sequence="0" value="Desktop"/>
                 <element label="Laptop" sequence="1" value="Laptop"/>

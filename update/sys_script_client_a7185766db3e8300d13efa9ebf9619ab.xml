@@ -11,10 +11,10 @@
         <name>Set State is Work in Progress</name>
         <order/>
         <script><![CDATA[var intervalId;
-var state=g_form.getValue("u_status");
+var state=g_form.getValue("state");
 function onLoad() {
 // 	g_form.addInfoMessage(">>>>>>"+state);
-	if(state=='Open' || state=='Pending' || state=='Reopen'){
+	if(state=='1' || state=='-5' || state=='2'){
 		intervalId=setInterval(judge,1000);
 	}
 }
@@ -29,7 +29,7 @@ function judge(){
 			if(state=='7'){
 				g_form.setValue("close_notes","");
 			}
-			g_form.setValue("u_status","Work in Progress");
+			g_form.setValue("state","7");
 			g_form.setValue('u_expected_onsite_time','');
 			clearInterval(intervalId);
 		}
@@ -56,7 +56,7 @@ function getTwo(num){
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a7185766db3e8300d13efa9ebf9619ab</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Set State is Work in Progress</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -64,7 +64,7 @@ function getTwo(num){
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_script_client_a7185766db3e8300d13efa9ebf9619ab</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-12-08 01:49:44</sys_updated_on>
+        <sys_updated_on>2017-12-15 01:18:52</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl Clm M2m Contract Asset" max_length="40" name="u_imp_tmpl_clm_m2m_contract_asset" sizeclass="7784" type="collection">
+        <element attributes="import_attribute_name=Asset,edge_encryption_enabled=true" label="Asset" max_length="32" name="u_asset" type="string"/>
+        <element attributes="import_attribute_name=Contract,edge_encryption_enabled=true" label="Contract" max_length="32" name="u_contract" type="string"/>
+        <element attributes="import_attribute_name=Date added" label="Date added" max_length="40" name="u_date_added" type="glide_date"/>
+        <element attributes="import_attribute_name=Date removed" label="Date removed" max_length="40" name="u_date_removed" type="glide_date"/>
+    </element>
+</database>

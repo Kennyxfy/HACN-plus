@@ -1,0 +1,2144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="0e8bfda50f07c3008e6805ace1050e55" sys_domain="global" table="u_imp_tmpl_x_sogd_hacn_hacn" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_number</element>
+            <position>1</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name</element>
+            <position>2</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_activities_f_red_formatter_</element>
+            <position>3</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_address</element>
+            <position>4</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_approval</element>
+            <position>5</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_approval_set</element>
+            <position>6</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_assignment_group</element>
+            <position>8</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_call_source</element>
+            <position>9</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_call_type</element>
+            <position>10</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cancel_reason</element>
+            <position>11</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cat1</element>
+            <position>12</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cat2</element>
+            <position>13</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_close_notes</element>
+            <position>15</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>16</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_code_description1</element>
+            <position>17</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_code_description2</element>
+            <position>18</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_code_description3</element>
+            <position>19</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_complete_date</element>
+            <position>20</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>21</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_configuration_item</element>
+            <position>22</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contact_phone_no</element>
+            <position>23</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contact_type</element>
+            <position>24</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contract_no</element>
+            <position>25</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>26</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contract_remark</element>
+            <position>27</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contract_type</element>
+            <position>28</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>29</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>30</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_due_date</element>
+            <position>31</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_effective_da_effectivedate_</element>
+            <position>32</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_effective_da_ffective_date_</element>
+            <position>33</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_end_time</element>
+            <position>34</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_expected__onsite_time</element>
+            <position>35</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_expiry_date_u_expirydate_</element>
+            <position>36</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_expiry_date_u_expiry_date_</element>
+            <position>37</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_follow_up</element>
+            <position>38</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pending_reason</element>
+            <position>39</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>40</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reassignment_count</element>
+            <position>41</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ref_no_u_refno_</element>
+            <position>42</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ref_no_u_ref_no_</element>
+            <position>43</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reopen_reason</element>
+            <position>44</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_rootcase3</element>
+            <position>45</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_serial_no</element>
+            <position>46</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_service_level</element>
+            <position>47</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_service_time</element>
+            <position>48</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>49</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_short_description</element>
+            <position>50</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>51</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sub_model</element>
+            <position>52</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_trip1</element>
+            <position>53</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_trip2</element>
+            <position>54</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_upon_reject</element>
+            <position>55</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user_id1</element>
+            <position>56</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user_id2</element>
+            <position>57</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user_id3</element>
+            <position>58</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user_id_u_user_id_</element>
+            <position>59</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wantneed</element>
+            <position>60</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_action</element>
+            <position>61</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_action1</element>
+            <position>62</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_action2</element>
+            <position>63</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_action3</element>
+            <position>64</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>65</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_activities_f_atter__active_</element>
+            <position>66</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_activities_f_red_formatter0</element>
+            <position>67</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_actual_arrival</element>
+            <position>68</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_asset_no</element>
+            <position>69</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_assigned_to</element>
+            <position>70</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_assign_to</element>
+            <position>71</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_business_service</element>
+            <position>72</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_call_from</element>
+            <position>73</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_center</element>
+            <position>74</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_city</element>
+            <position>75</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_client_ref_</element>
+            <position>76</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_client_user_id</element>
+            <position>77</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_code_description</element>
+            <position>78</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>79</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_comments_and_work_notes</element>
+            <position>80</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>81</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_company</element>
+            <position>82</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>83</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contact_person</element>
+            <position>84</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>85</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_correlation_display</element>
+            <position>86</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_correlation_id</element>
+            <position>87</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>88</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_delivery_plan</element>
+            <position>89</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_delivery_task</element>
+            <position>90</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_district</element>
+            <position>91</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_end_time1</element>
+            <position>92</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_end_time2</element>
+            <position>93</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_end_time3</element>
+            <position>94</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_equipment_email</element>
+            <position>95</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_eta_time</element>
+            <position>96</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_eta_time1</element>
+            <position>97</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_eta_time2</element>
+            <position>98</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_eta_time3</element>
+            <position>99</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_expected_onsite_time</element>
+            <position>100</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_impact</element>
+            <position>101</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job</element>
+            <position>102</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job_code</element>
+            <position>103</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job_code1</element>
+            <position>104</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job_code2</element>
+            <position>105</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job_code3</element>
+            <position>106</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_knowledge</element>
+            <position>107</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_location_code</element>
+            <position>108</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_model_no</element>
+            <position>109</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name1</element>
+            <position>110</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name2</element>
+            <position>111</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name3</element>
+            <position>112</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_opened</element>
+            <position>113</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_opened_by</element>
+            <position>114</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_order</element>
+            <position>115</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_parent</element>
+            <position>116</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_phone_no</element>
+            <position>117</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_priority</element>
+            <position>118</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>119</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_resolved_date</element>
+            <position>120</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_rootcase</element>
+            <position>121</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_rootcase1</element>
+            <position>122</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_rootcase2</element>
+            <position>123</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_satisfaction_level</element>
+            <position>124</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_solution</element>
+            <position>125</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_so_type</element>
+            <position>126</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_start_time</element>
+            <position>127</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_state_u_status_</element>
+            <position>128</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_symptom</element>
+            <position>129</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_trip</element>
+            <position>130</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_trip0</element>
+            <position>131</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_trip3</element>
+            <position>132</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user_id_u_userid_</element>
+            <position>133</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vendor_ref_</element>
+            <position>134</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vendor_warranty</element>
+            <position>135</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_closed_by</element>
+            <position>136</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_create_note</element>
+            <position>137</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_e_remark</element>
+            <position>138</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_location</element>
+            <position>139</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_model_type</element>
+            <position>140</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sog_ticket_no</element>
+            <position>141</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_so_remark</element>
+            <position>142</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_start_time1</element>
+            <position>143</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>468bfda50f07c3008e6805ace1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_start_time2</element>
+            <position>144</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c68bfda50f07c3008e6805ace1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_start_time3</element>
+            <position>145</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4a8bfda50f07c3008e6805ace1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_state_state_</element>
+            <position>146</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ca8bfda50f07c3008e6805ace1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_upon_approval</element>
+            <position>147</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>4e8bfda50f07c3008e6805ace1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_urgency</element>
+            <position>148</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>ce8bfda50f07c3008e6805ace1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>149</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>428bfda50f07c3008e6805ace1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_import_log.message</element>
+            <position>150</position>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_id>c28bfda50f07c3008e6805ace1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_sogd_hacn_hacn" sys_domain="global" view="Default view">0e8bfda50f07c3008e6805ace1050e55</sys_ui_section>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_imp_tmpl_x_sogd_hacn_hacn</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>LingLing</sys_created_by>
+            <sys_created_on>2017-12-15 06:12:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e8bfda50f07c3008e6805ace1050e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_sogd_hacn_hacn</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+            <sys_update_name>sys_ui_section_0e8bfda50f07c3008e6805ace1050e55</sys_update_name>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-15 06:12:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
