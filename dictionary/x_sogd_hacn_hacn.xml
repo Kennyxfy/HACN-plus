@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="65" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="45" type="collection">
         <element label="Activities(filtered)(Formatter)" max_length="4000" name="activities_filtered_formatter" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial No." max_length="40" name="serial_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial No.1" max_length="40" name="serial_no_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial No.2" max_length="40" name="serial_no_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial No.3" max_length="40" name="serial_no_3" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action" max_length="40" name="u_action" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action1" max_length="40" name="u_action1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action2" max_length="40" name="u_action2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action3" max_length="40" name="u_action3" type="string"/>
         <element label="Activities(filtered)(Formatter)" max_length="32" name="u_activities_filtered_formatter" reference="v_cluster_transaction" type="reference"/>
         <element label="Actual arrival" max_length="40" name="u_actualarrival" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" mandatory="true" max_length="40" name="u_address" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice_field="hardware_status" choice_table="cmdb_ci_hardware" label="Asset No" max_length="40" name="u_assetno" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Assign To" mandatory="true" max_length="40" name="u_assignto" type="string">
             <choice>
@@ -121,7 +125,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Create Note" max_length="40" name="u_createnote" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="District" max_length="40" name="u_district1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="District" mandatory="true" max_length="40" name="u_district1" type="string"/>
         <element label="Effective Date" max_length="40" name="u_effectivedate" type="glide_date_time"/>
         <element label="Effective Date" max_length="40" name="u_effective_date" type="glide_date"/>
         <element label="End Time" max_length="40" name="u_endtime" type="glide_date_time"/>
@@ -142,6 +146,22 @@
         <element label="Job Code1" max_length="32" name="u_jobcode1" reference="u_job_code" type="reference"/>
         <element label="Job Code2" max_length="32" name="u_jobcode2" reference="u_job_code" type="reference"/>
         <element label="Job Code3" max_length="32" name="u_jobcode3" reference="u_job_code" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 0-1" max_length="40" name="u_jobcode_01" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 0-2" max_length="40" name="u_jobcode_02" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 0-3" max_length="40" name="u_jobcode_03" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 0-4" max_length="40" name="u_jobcode_04" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 1-1" max_length="40" name="u_jobcode_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 1-2" max_length="40" name="u_jobcode_12" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 1-3" max_length="40" name="u_jobcode_13" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 1-4" max_length="40" name="u_jobcode_14" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 2-1" max_length="40" name="u_jobcode_21" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 2-2" max_length="40" name="u_jobcode_22" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 2-3" max_length="40" name="u_jobcode_23" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 2-4" max_length="40" name="u_jobcode_24" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 3-1" max_length="40" name="u_jobcode_31" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 3-2" max_length="40" name="u_jobcode_32" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 3-3" max_length="40" name="u_jobcode_33" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Code 3-4" max_length="40" name="u_jobcode_34" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Model No" max_length="40" name="u_modelno" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Model Type" max_length="40" name="u_modeltype" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
@@ -182,8 +202,8 @@
         <element attributes="edge_encryption_enabled=true" label="Serial No" max_length="40" name="u_serialno" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Service Level" mandatory="true" max_length="40" name="u_servicelevel" type="string">
             <choice>
-                <element label="2Hr" sequence="0" value="2Hr"/>
-                <element label="4Hr" sequence="1" value="4Hr"/>
+                <element label="2HRS" sequence="0" value="2HRS"/>
+                <element label="4HRS" sequence="1" value="4HRS"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_city" dependent_on_field="u_city" label="Location Code" mandatory="true" max_length="40" name="u_serviceloc" type="string" use_dependent_field="true">
@@ -241,9 +261,9 @@
                 <element dependent_value="济南" label="济南分行" sequence="50" value="济南分行"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="Mon-Fri; 8:15-18:30" label="Service Time" mandatory="true" max_length="40" name="u_servicetime" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Mon.-Fri;8:15--18:30" label="Service Time" mandatory="true" max_length="40" name="u_servicetime" type="string">
             <choice>
-                <element label="Mon-Fri; 8:15-18:30" sequence="0" value="Mon-Fri; 8:15-18:30"/>
+                <element label="Mon.-Fri;8:15--18:30" sequence="0" value="Mon.-Fri;8:15--18:30"/>
             </choice>
         </element>
         <element label="SOG Ticket No" max_length="40" name="u_sog_ticket_no" type="string"/>
@@ -284,13 +304,13 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Symptom" mandatory="true" max_length="40" name="u_symptom" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Trip" max_length="40" name="u_trip" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="6" label="Trip" max_length="40" name="u_trip" type="string">
             <choice>
                 <element label="Onsite" sequence="0" value="6"/>
                 <element label="Other" sequence="1" value="12"/>
                 <element label="Phone Support" sequence="2" value="7"/>
-                <element label="Scheduled" sequence="3" value="5"/>
-                <element label="Remote Support" sequence="4" value="4"/>
+                <element label="Remote Support" sequence="3" value="4"/>
+                <element label="Scheduled" sequence="4" value="5"/>
                 <element label="X" sequence="5" value="1"/>
             </choice>
         </element>
@@ -300,12 +320,13 @@
                 <element label="Cancel" sequence="1" value="3"/>
                 <element label="Delivery Service" sequence="2" value="4"/>
                 <element label="Escalation" sequence="3" value="5"/>
-                <element label="Onsite" sequence="4" value="6"/>
-                <element label="Other" sequence="5" value="12"/>
-                <element label="Remote Support" sequence="7" value="8"/>
-                <element label="Repair" sequence="8" value="9"/>
-                <element label="Scheduled" sequence="9" value="10"/>
-                <element label="Standby" sequence="10" value="11"/>
+                <element label="Other" sequence="4" value="12"/>
+                <element label="Onsite" sequence="5" value="6"/>
+                <element label="Phone Support" sequence="6" value="7"/>
+                <element label="Repair" sequence="7" value="9"/>
+                <element label="Remote Support" sequence="8" value="8"/>
+                <element label="Standby" sequence="9" value="11"/>
+                <element label="Scheduled" sequence="10" value="10"/>
                 <element label="X" sequence="11" value="1"/>
             </choice>
         </element>
@@ -315,12 +336,13 @@
                 <element label="Cancel" sequence="1" value="3"/>
                 <element label="Delivery Service" sequence="2" value="4"/>
                 <element label="Escalation" sequence="3" value="5"/>
-                <element label="Onsite" sequence="4" value="6"/>
-                <element label="Other" sequence="5" value="12"/>
-                <element label="Remote Support" sequence="7" value="8"/>
-                <element label="Repair" sequence="8" value="9"/>
-                <element label="Scheduled" sequence="9" value="10"/>
-                <element label="Standby" sequence="10" value="11"/>
+                <element label="Other" sequence="4" value="12"/>
+                <element label="Onsite" sequence="5" value="6"/>
+                <element label="Phone Support" sequence="6" value="7"/>
+                <element label="Repair" sequence="7" value="9"/>
+                <element label="Remote Support" sequence="8" value="8"/>
+                <element label="Standby" sequence="9" value="11"/>
+                <element label="Scheduled" sequence="10" value="10"/>
                 <element label="X" sequence="11" value="1"/>
             </choice>
         </element>
@@ -330,12 +352,13 @@
                 <element label="Cancel" sequence="1" value="3"/>
                 <element label="Delivery Service" sequence="2" value="4"/>
                 <element label="Escalation" sequence="3" value="5"/>
-                <element label="Onsite" sequence="4" value="6"/>
-                <element label="Other" sequence="5" value="12"/>
-                <element label="Remote Support" sequence="7" value="8"/>
-                <element label="Repair" sequence="8" value="9"/>
-                <element label="Scheduled" sequence="9" value="10"/>
-                <element label="Standby" sequence="10" value="11"/>
+                <element label="Other" sequence="4" value="12"/>
+                <element label="Onsite" sequence="5" value="6"/>
+                <element label="Phone Support" sequence="6" value="7"/>
+                <element label="Repair" sequence="7" value="9"/>
+                <element label="Remote Support" sequence="8" value="8"/>
+                <element label="Standby" sequence="9" value="11"/>
+                <element label="Scheduled" sequence="10" value="10"/>
                 <element label="X" sequence="11" value="1"/>
             </choice>
         </element>
@@ -345,12 +368,13 @@
                 <element label="Cancel" sequence="1" value="3"/>
                 <element label="Delivery Service" sequence="2" value="4"/>
                 <element label="Escalation" sequence="3" value="5"/>
-                <element label="Onsite" sequence="4" value="6"/>
-                <element label="Other" sequence="5" value="12"/>
-                <element label="Remote Support" sequence="7" value="8"/>
-                <element label="Repair" sequence="8" value="9"/>
-                <element label="Scheduled" sequence="9" value="10"/>
-                <element label="Standby" sequence="10" value="11"/>
+                <element label="Other" sequence="4" value="12"/>
+                <element label="Onsite" sequence="5" value="6"/>
+                <element label="Phone Support" sequence="6" value="7"/>
+                <element label="Repair" sequence="7" value="9"/>
+                <element label="Remote Support" sequence="8" value="8"/>
+                <element label="Standby" sequence="9" value="11"/>
+                <element label="Scheduled" sequence="10" value="10"/>
                 <element label="X" sequence="11" value="1"/>
             </choice>
         </element>

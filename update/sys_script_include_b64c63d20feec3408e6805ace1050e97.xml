@@ -30,19 +30,30 @@ CmnLocation.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
 			return data;
 		}
 		return "";
+	},
+	getCmnLocationById:function(){
+		var sysId=this.getParameter("sysparm_sys_id").trim();
+		//gs.info(">>>>>>JK:"+sysId);
+		var glideRecord=new GlideRecord("cmn_location");
+		while(glideRecord.get(sysId)){
+			var data='{"street":"'+glideRecord.street+'","x_sogd_hacn_district":"'+glideRecord.x_sogd_hacn_district+'","phone":"'+glideRecord.phone+'","u_manager":"'+glideRecord.u_manager+'","name":"'+glideRecord.name+'","city":"'+glideRecord.city+'"'+'   }'; 
+			gs.info(">>>>>>JK:"+data);
+			return data;
+		}
+		return "";
 	}
 });]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>Peng.yanyong</sys_created_by>
         <sys_created_on>2017-11-23 01:49:45</sys_created_on>
         <sys_id>b64c63d20feec3408e6805ace1050e97</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_name>CmnLocation</sys_name>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_script_include_b64c63d20feec3408e6805ace1050e97</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-11-23 02:32:29</sys_updated_on>
+        <sys_updated_on>2017-12-17 14:35:09</sys_updated_on>
     </sys_script_include>
 </record_update>

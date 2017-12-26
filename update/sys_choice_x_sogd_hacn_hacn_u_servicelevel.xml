@@ -6,7 +6,7 @@
             <element>u_servicelevel</element>
             <hint/>
             <inactive>false</inactive>
-            <label>2Hr</label>
+            <label>2HRS</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
             <sequence>0</sequence>
@@ -15,17 +15,17 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>caebeb06dbe60740d13efa9ebf9619bb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 07:09:21</sys_updated_on>
-            <value>2Hr</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-18 03:32:20</sys_updated_on>
+            <value>2HRS</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_servicelevel</element>
             <hint/>
             <inactive>false</inactive>
-            <label>4Hr</label>
+            <label>4HRS</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
             <sequence>1</sequence>
@@ -34,10 +34,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4eebeb06dbe60740d13efa9ebf9619bd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 07:09:21</sys_updated_on>
-            <value>4Hr</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-18 03:32:44</sys_updated_on>
+            <value>4HRS</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_servicelevel</element>

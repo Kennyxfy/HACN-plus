@@ -139,19 +139,19 @@
             <element>u_trip</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Scheduled</label>
+            <label>Remote Support</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
             <sequence>3</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:38:27</sys_created_on>
+            <sys_created_on>2017-11-22 07:58:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6f62fb0adbe60740d13efa9ebf961998</sys_id>
-            <sys_mod_count>7</sys_mod_count>
+            <sys_id>3207f38edbe60740d13efa9ebf9619bf</sys_id>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-12 08:48:53</sys_updated_on>
-            <value>5</value>
+            <sys_updated_on>2017-12-26 07:51:10</sys_updated_on>
+            <value>4</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -177,19 +177,19 @@
             <element>u_trip</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Remote Support</label>
+            <label>Scheduled</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
             <sequence>4</sequence>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 07:58:00</sys_created_on>
+            <sys_created_on>2017-11-22 07:38:27</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3207f38edbe60740d13efa9ebf9619bf</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_id>6f62fb0adbe60740d13efa9ebf961998</sys_id>
+            <sys_mod_count>8</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-12 08:48:49</sys_updated_on>
-            <value>4</value>
+            <sys_updated_on>2017-12-26 07:51:11</sys_updated_on>
+            <value>5</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>

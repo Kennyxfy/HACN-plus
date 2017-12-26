@@ -25,9 +25,29 @@
 	   g_form.setValue("u_expiry_date",resp.x_sogd_hacn_expiry_date);
 	   g_form.setValue("u_sub_model",resp.x_sogd_hacn_submodel);
 	   g_form.setValue("u_contractremark",resp.x_sogd_hacn_contract_remark);
+	   
+	   //填充location等信息
+		var ga = new GlideAjax('CmnLocation'); 
+		ga.addParam('sysparm_name','getCmnLocationById'); 
+		ga.addParam('sysparm_sys_id',resp.location); 
+		ga.getXML(callback); 
+	   
    });
    //Type appropriate comment here, and begin script below
    
+}
+
+function callback(response) {
+	var location = response.responseXML.documentElement.getAttribute("answer");
+ 	//g_form.addInfoMessage(location);
+	location=JSON.parse(location);
+// 	g_form.addInfoMessage(location.street);
+	g_form.setValue('u_city',location.city);
+	g_form.setValue('u_serviceloc',location.name);
+	g_form.setValue('u_district1',location.x_sogd_hacn_district);
+	g_form.setValue('u_address',location.street);
+// 	g_form.setValue('u_contactphoneno',location.phone);
+// 	g_form.setValue('u_contactperson',location.u_manager);
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>Peng.yanyong</sys_created_by>
@@ -35,7 +55,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>16247a5cdbba0b40d13efa9ebf961935</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>fillingAssetFromRefNo</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -43,7 +63,7 @@
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_script_client_16247a5cdbba0b40d13efa9ebf961935</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-12-05 02:36:07</sys_updated_on>
+        <sys_updated_on>2017-12-17 14:34:47</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <type>onChange</type>
         <ui_type>10</ui_type>

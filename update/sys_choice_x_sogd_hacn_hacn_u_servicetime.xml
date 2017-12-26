@@ -6,7 +6,7 @@
             <element>u_servicetime</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Mon-Fri; 8:15-18:30</label>
+            <label>Mon.-Fri;8:15--18:30</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
             <sequence>0</sequence>
@@ -15,10 +15,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>95bd2f46dbe60740d13efa9ebf961941</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 07:17:13</sys_updated_on>
-            <value>Mon-Fri; 8:15-18:30</value>
+            <sys_updated_on>2017-12-26 06:06:09</sys_updated_on>
+            <value>Mon.-Fri;8:15--18:30</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_servicetime</element>
