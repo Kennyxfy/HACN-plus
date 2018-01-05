@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>Set State is Work in Progress(HACN)</name>
+        <run_as display_value="Ling Ling">6f7600d1db1c4300d13efa9ebf9619ab</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period>1970-01-01 00:00:30</run_period>
+        <run_start>2017-12-27 07:56:16</run_start>
+        <run_time>1969-12-31 16:00:00</run_time>
+        <run_type>periodically</run_type>
+        <script><![CDATA[var now=new GlideDateTime();
+var glide=new GlideRecord("x_sogd_hacn_hacn");
+// glide.addActiveQuery();
+//New,Pending,re-open
+glide.addQuery("state","IN","0,2,7");
+glide.addQuery("u_expected_onsite_time","<=",now);
+glide.query();
+while(glide.next()){
+// 	gs.info(">>>>>>JK:glide.state="+glide.state);
+	if(glide.state=='7'){
+		glide.close_notes='';
+	}
+	glide.expected_start=glide.expected_start; //;
+	glide.state='1';
+	glide.update();
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>LingLing</sys_created_by>
+        <sys_created_on>2017-12-27 07:58:55</sys_created_on>
+        <sys_id>d24604e90f1b8b008e6805ace1050e1d</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Set State is Work in Progress(HACN)</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sysauto_script_d24604e90f1b8b008e6805ace1050e1d</sys_update_name>
+        <sys_updated_by>LingLing</sys_updated_by>
+        <sys_updated_on>2017-12-27 09:21:52</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

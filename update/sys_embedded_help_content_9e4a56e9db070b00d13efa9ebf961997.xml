@@ -4,7 +4,7 @@
         <active>true</active>
         <category>service-catalog</category>
         <content><![CDATA[ <h1 class="title topictitle1">Service catalog ordered item links</h1>  <div class="body conbody">  <p class="p"><span class="ph">Use ordered item links to provide a link on the                    ordered item screen that provides more information about an item. </span></p>  <p class="p">After you order the catalog item, you can click                    the link to see relevant information about the item ordered, for example, for                    standard delivery terms and conditions. The URL text and link can be defined                    once and reused across multiple items.</p>  <div class="note note"><span class="notetitle">Note:</span> Ordered                    item links cannot be configured for mobile devices. </div> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Add-Ordered-Item-Link&amp;version&#61;jakarta" target="_blank" rel="nofollow">Add an ordered item link</a></div></div></div></div>]]></content>
-        <last_sync>2017-12-15 08:27:11</last_sync>
+        <last_sync>2017-12-30 08:28:05</last_sync>
         <modifier>normal</modifier>
         <name>sc_ordered_item_link_list-normal</name>
         <page>sc_ordered_item_link_list</page>
@@ -17,14 +17,14 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2017-12-15 08:27:11</sys_created_on>
         <sys_id>9e4a56e9db070b00d13efa9ebf961997</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>sc_ordered_item_link_list-normal</sys_name>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_embedded_help_content_9e4a56e9db070b00d13efa9ebf961997</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-12-15 08:27:11</sys_updated_on>
+        <sys_updated_on>2017-12-30 08:28:05</sys_updated_on>
         <version>j</version>
     </sys_embedded_help_content>
     <sys_translated_text action="delete_multiple" query="documentkey=9e4a56e9db070b00d13efa9ebf961997"/>

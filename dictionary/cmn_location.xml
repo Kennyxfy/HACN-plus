@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element attributes="all_tables.text_index_translations=true" label="場所" max_length="40" name="cmn_location" text_index="true" type="collection">
+        <element label="Center" max_length="40" name="x_sogd_hacn_center" type="string"/>
         <element label="District" max_length="32" name="x_sogd_hacn_district" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
         <index name="index">
             <element name="x_sogd_hacn_district"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="45" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="127" type="collection">
         <element label="Activities(filtered)(Formatter)" max_length="4000" name="activities_filtered_formatter" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No." max_length="40" name="serial_no" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No.1" max_length="40" name="serial_no_1" type="string"/>
@@ -22,6 +22,7 @@
                 <element label="Helpdesk" sequence="5" value="Helpdesk"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="u_brand" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Call From" mandatory="true" max_length="40" name="u_callfrom" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Call Source" mandatory="true" max_length="40" name="u_callsource" type="string">
             <choice>
@@ -101,6 +102,8 @@
                 <element label="昆明" sequence="16" value="昆明"/>
                 <element label="成都" sequence="17" value="成都"/>
                 <element label="济南" sequence="18" value="济南"/>
+                <element label="中山" sequence="19" value="中山"/>
+                <element label="Other City" sequence="20" value="Other City"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Client Ref#" max_length="40" name="u_clientref" type="string"/>
@@ -112,7 +115,7 @@
         <element attributes="edge_encryption_enabled=true" label="Complete Date" max_length="40" name="u_completedate" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Contact Person" mandatory="true" max_length="40" name="u_contactperson" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Contact Phone No" mandatory="true" max_length="40" name="u_contactphoneno" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="SOGSVSO15015M" label="Contract No" mandatory="true" max_length="40" name="u_contractno" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Contract No" mandatory="true" max_length="40" name="u_contractno" type="string">
             <choice>
                 <element label="SOGSVSO15015M" sequence="0" value="SOGSVSO15015M"/>
             </choice>
@@ -206,8 +209,24 @@
                 <element label="4HRS" sequence="1" value="4HRS"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_city" dependent_on_field="u_city" label="Location Code" mandatory="true" max_length="40" name="u_serviceloc" type="string" use_dependent_field="true">
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_city" dependent_on_field="u_city" label="Location Code" max_length="40" name="u_serviceloc" type="string" use_dependent_field="true">
             <choice>
+                <element dependent_value="Other City" label="Other City" value="Other City"/>
+                <element dependent_value="上海" label="ZJ机房" value="ZJ机房"/>
+                <element dependent_value="上海" label="上海国金中心" value="上海国金中心"/>
+                <element dependent_value="上海" label="上海汇丰数据中心" value="上海汇丰数据中心"/>
+                <element dependent_value="东莞" label="东莞长安支行" value="东莞长安支行"/>
+                <element dependent_value="中山" label="中山支行" value="中山支行"/>
+                <element dependent_value="南京" label="南京中山东路支行" value="南京中山东路支行"/>
+                <element dependent_value="天津" label="天津滨海支行" value="天津滨海支行"/>
+                <element dependent_value="广州" label="广州淘金路支行" value="广州淘金路支行"/>
+                <element dependent_value="惠州" label="惠州支行-old" value="惠州支行-old"/>
+                <element dependent_value="杭州" label="杭州嘉里中心" value="杭州嘉里中心"/>
+                <element dependent_value="江门" label="江门支行-1" value="江门支行-1"/>
+                <element dependent_value="深圳" label="深圳前海支行" value="深圳前海支行"/>
+                <element dependent_value="深圳" label="深圳华侨新城支行" value="深圳华侨新城支行"/>
+                <element dependent_value="深圳" label="深圳南山华侨城支行" value="深圳南山华侨城支行"/>
+                <element dependent_value="深圳" label="深圳高新区支行" value="深圳高新区支行"/>
                 <element dependent_value="上海" label="总行上海证券大厦" sequence="0" value="总行上海证券大厦"/>
                 <element dependent_value="上海" label="总行恒生银行大厦" sequence="1" value="总行恒生银行大厦"/>
                 <element dependent_value="上海" label="上海分行" sequence="2" value="上海分行"/>
@@ -238,11 +257,9 @@
                 <element dependent_value="广州" label="广州江南西路支行" sequence="27" value="广州江南西路支行"/>
                 <element dependent_value="广州" label="广州天河北路支行" sequence="28" value="广州天河北路支行"/>
                 <element dependent_value="广州" label="广州东山支行" sequence="29" value="广州东山支行"/>
-                <element dependent_value="广州" label="广州越秀支行" sequence="30" value="广州越秀支行"/>
                 <element dependent_value="广州" label="广州中信广场支行" sequence="31" value="广州中信广场支行"/>
                 <element dependent_value="佛山" label="佛山支行" sequence="32" value="佛山支行"/>
-                <element dependent_value="中山" label="中山支行" sequence="33" value="中山支行"/>
-                <element dependent_value="顺德" label="顺德支行" sequence="34" value="顺德支行"/>
+                <element dependent_value="佛山" label="顺德支行" sequence="34" value="顺德支行"/>
                 <element dependent_value="珠海" label="珠海支行" sequence="35" value="珠海支行"/>
                 <element dependent_value="惠州" label="惠州支行" sequence="36" value="惠州支行"/>
                 <element dependent_value="江门" label="江门支行" sequence="37" value="江门支行"/>
@@ -261,9 +278,9 @@
                 <element dependent_value="济南" label="济南分行" sequence="50" value="济南分行"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="Mon.-Fri;8:15--18:30" label="Service Time" mandatory="true" max_length="40" name="u_servicetime" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Mon.-Fri.:8:15--18:30" label="Service Time" mandatory="true" max_length="40" name="u_servicetime" type="string">
             <choice>
-                <element label="Mon.-Fri;8:15--18:30" sequence="0" value="Mon.-Fri;8:15--18:30"/>
+                <element label="Mon.-Fri.:8:15--18:30" sequence="0" value="Mon.-Fri.:8:15--18:30"/>
             </choice>
         </element>
         <element label="SOG Ticket No" max_length="40" name="u_sog_ticket_no" type="string"/>
@@ -304,7 +321,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Symptom" mandatory="true" max_length="40" name="u_symptom" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="6" label="Trip" max_length="40" name="u_trip" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Trip" max_length="40" name="u_trip" type="string">
             <choice>
                 <element label="Onsite" sequence="0" value="6"/>
                 <element label="Other" sequence="1" value="12"/>

@@ -19,7 +19,11 @@
 			g_form.setValue("u_codedescription",resp.u_code_description);
 			var descs=resp.u_code_description.split('>');
 			if(descs.length>0){
-				g_form.setValue("u_rootcase",descs[descs.length-1]);
+				g_form.setValue("u_jobcode_01",descs[0]);
+				g_form.setValue("u_jobcode_02",descs[1]);
+				g_form.setValue("u_jobcode_03",descs[2]);
+				g_form.setValue("u_jobcode_04",descs[3]);
+				//g_form.setValue("u_rootcase",descs[descs.length-1]);
 			}
 			
 		}
@@ -34,7 +38,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>82987f9a0feec3408e6805ace1050e8a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>fillingCodeDescFromJobCode</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -42,7 +46,7 @@
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_script_client_82987f9a0feec3408e6805ace1050e8a</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-11-23 02:49:37</sys_updated_on>
+        <sys_updated_on>2017-12-26 14:57:30</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <type>onChange</type>
         <ui_type>10</ui_type>

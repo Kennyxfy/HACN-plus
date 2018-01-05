@@ -28,7 +28,7 @@
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>20</max_length>
+        <max_length>40</max_length>
         <name>u_imp_tmpl_alm_hardware</name>
         <next_element/>
         <primary>false</primary>

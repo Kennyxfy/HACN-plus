@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">a89a8f51db1bcf00d13efa9ebf96193b</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2017-12-27 11:39:42">cc9b8391db1bcf00d13efa9ebf961931</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2017-12-27 03:39:42</sys_created_on>
+        <sys_id>4c9b8f91db1bcf00d13efa9ebf961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a89a8f51db1bcf00d13efa9ebf96193b</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_4c9b8f91db1bcf00d13efa9ebf961933</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

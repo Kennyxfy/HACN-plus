@@ -20,44 +20,6 @@
             <sys_updated_on>2017-12-07 07:14:27</sys_updated_on>
             <value>SOGSVSO15015M</value>
         </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_contractno</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>SOGSVSO15015M/Delivery</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>0</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-28 07:32:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>0baaee04dbf20b40d13efa9ebf9619b5</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-07 07:14:27</sys_updated_on>
-            <value>SOGSVSO15015M/Delivery</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_contractno</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>SOGSVSO15015M/MA</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>1</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-28 07:32:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>8baaee04dbf20b40d13efa9ebf9619b7</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-07 07:14:27</sys_updated_on>
-            <value>SOGSVSO15015M/MA</value>
-        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_contractno</element>
             <name>x_sogd_hacn_hacn</name>

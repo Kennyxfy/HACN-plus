@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sys_script_client">
     <sys_script_client action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <applies_extended>false</applies_extended>
         <condition/>
         <description>当 currentTime=&gt;expected onsite time 时  state=work in progress</description>
@@ -19,11 +19,13 @@ function onLoad() {
 	}
 }
 
+g_form.addInfoMessage('ling');
+
 function judge(){
 	var expectedStart=g_form.getValue("u_expected_onsite_time").replace(/\s/g,"").replace(/-/g,"").replace(/:/g,"");
 	var currentTime=getNowTime().replace(/\s/g,"").replace(/-/g,"").replace(/:/g,"");
-// 	g_form.addInfoMessage(">>>>>>"+expectedStart);
-// 	g_form.addInfoMessage(">>>>>>"+currentTime);
+ 	g_form.addInfoMessage(">>>>>>"+expectedStart);
+ 	g_form.addInfoMessage(">>>>>>"+currentTime);
 	if(expectedStart!='' && currentTime!=''){
 		if(expectedStart<=currentTime){
 			if(state=='1'){
@@ -56,15 +58,15 @@ function getTwo(num){
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a7185766db3e8300d13efa9ebf9619ab</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Set State is Work in Progress</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_script_client_a7185766db3e8300d13efa9ebf9619ab</sys_update_name>
-        <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-12-17 13:45:22</sys_updated_on>
+        <sys_updated_by>LingLing</sys_updated_by>
+        <sys_updated_on>2017-12-27 07:10:11</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>

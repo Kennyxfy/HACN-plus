@@ -4,7 +4,7 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description/>
+        <description>Assign to 为control, customer IT和 Helpdesk时，State为 Open，Assign to  为Center时  State为 Dispatch</description>
         <field>u_assignto</field>
         <global>true</global>
         <messages/>
@@ -17,7 +17,10 @@
 	var assignTo=g_form.getValue("u_assignto"); 
 	if(assignTo=='Center'){
 		g_form.setValue("state","4");
-	}
+	} else if(assignTo=='Customer IT' || assignTo=='Helpdesk' || assignTo=='Control'){
+		g_form.setValue("state","0");
+	} 
+	
 	
 }
  
@@ -28,7 +31,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4a0cfc2e0f6207408e6805ace1050e5b</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>autoSelectStatusFromAssignTo</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -36,7 +39,7 @@
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_script_client_4a0cfc2e0f6207408e6805ace1050e5b</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-12-17 13:44:29</sys_updated_on>
+        <sys_updated_on>2018-01-03 05:55:22</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <type>onChange</type>
         <ui_type>10</ui_type>

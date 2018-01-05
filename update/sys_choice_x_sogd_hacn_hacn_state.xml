@@ -167,10 +167,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>98f82660db878700d13efa9ebf96192b</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-12-15 08:57:34</sys_updated_on>
-            <value>6</value>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>LingLing</sys_updated_by>
+            <sys_updated_on>2017-12-28 01:34:27</sys_updated_on>
+            <value>3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>

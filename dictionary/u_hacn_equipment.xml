@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="hacn equipment" max_length="40" name="u_hacn_equipment" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="u_brand" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Center" max_length="40" name="u_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Equipement Type" max_length="40" name="u_equipement_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serviceone Reference No" max_length="40" name="u_serviceone_reference_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Service SLA" max_length="40" name="u_service_sla" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Service Time" max_length="40" name="u_service_time" type="string"/>
+    </element>
+</database>

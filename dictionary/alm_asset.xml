@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element audit="true" label="Asset" max_length="40" name="alm_asset" type="collection">
+        <element label="Brand" max_length="40" name="x_sogd_hacn_brand" type="string"/>
+        <element label="Center" max_length="40" name="x_sogd_hacn_center" type="string"/>
         <element label="Contract Number" max_length="40" name="x_sogd_hacn_contract_number" type="string"/>
         <element label="Contract Remark" max_length="1000" name="x_sogd_hacn_contract_remark" type="string"/>
         <element label="Contract Type" max_length="40" name="x_sogd_hacn_contract_type" type="string"/>
         <element label="Effective Date" max_length="40" name="x_sogd_hacn_effective_date" type="glide_date"/>
+        <element label="Equipement Type" max_length="40" name="x_sogd_hacn_equipement_type" type="string"/>
         <element label="Expiry Date" max_length="40" name="x_sogd_hacn_expiry_date" type="glide_date"/>
         <element label="Floor" max_length="40" name="x_sogd_hacn_floor" type="string"/>
         <element label="House name" max_length="40" name="x_sogd_hacn_house_name" type="string"/>
         <element label="Machine Name" max_length="100" name="x_sogd_hacn_machine_name" type="string"/>
-        <element display="true" label="MA Number" max_length="100" name="x_sogd_hacn_ma_number" type="string"/>
         <element label="Seat Number" max_length="40" name="x_sogd_hacn_seat_number" type="string"/>
+        <element label="Serviceone Reference No" max_length="40" name="x_sogd_hacn_serviceone_reference_no" type="string"/>
+        <element label="Service SLA" max_length="40" name="x_sogd_hacn_service_sla" type="string"/>
+        <element label="Service Time" max_length="40" name="x_sogd_hacn_service_time" type="string"/>
         <element label="SubModel" max_length="40" name="x_sogd_hacn_submodel" type="string"/>
     </element>
 </database>

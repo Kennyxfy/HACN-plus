@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_grid_canvas" unload_date="2018-01-05 10:02:07">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA testing">e09a8f51db1bcf00d13efa9ebf96193b</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2017-12-27 03:35:22</sys_created_on>
+        <sys_id>a89a8f51db1bcf00d13efa9ebf96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_grid_canvas_a89a8f51db1bcf00d13efa9ebf96193b</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2017-12-27 03:35:22</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">a89a8f51db1bcf00d13efa9ebf96193b</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2017-12-27 11:39:42">cc9b8391db1bcf00d13efa9ebf961931</portal_widget>
+                <posx>0</posx>
+                <posy>0</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>Fayu.xu</sys_created_by>
+                <sys_created_on>2017-12-27 03:39:42</sys_created_on>
+                <sys_id>4c9b8f91db1bcf00d13efa9ebf961933</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>a89a8f51db1bcf00d13efa9ebf96193b</sys_name>
+                <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_4c9b8f91db1bcf00d13efa9ebf961933</sys_update_name>
+                <sys_updated_by>Fayu.xu</sys_updated_by>
+                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                <width>12</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA testing">e09a8f51db1bcf00d13efa9ebf96193b</page>
+                        <summary>Canceled Ticket Analysis</summary>
+                        <sys_created_by>Fayu.xu</sys_created_by>
+                        <sys_created_on>2017-12-27 03:39:42</sys_created_on>
+                        <sys_id>cc9b8391db1bcf00d13efa9ebf961931</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Fayu.xu</sys_updated_by>
+                        <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">a89a8f51db1bcf00d13efa9ebf96193b</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2017-12-27 11:39:42">cc9b8391db1bcf00d13efa9ebf961931</portal_widget>
+                                <posx>0</posx>
+                                <posy>0</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:42</sys_created_on>
+                                <sys_id>4c9b8f91db1bcf00d13efa9ebf961933</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>a89a8f51db1bcf00d13efa9ebf96193b</sys_name>
+                                <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_4c9b8f91db1bcf00d13efa9ebf961933</sys_update_name>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:42">cc9b8391db1bcf00d13efa9ebf961931</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:42</sys_created_on>
+                                <sys_id>089b8391db1bcf00d13efa9ebf961932</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:42">cc9b8391db1bcf00d13efa9ebf961931</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:42</sys_created_on>
+                                <sys_id>449b8f91db1bcf00d13efa9ebf961933</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                                <value>Canceled Ticket Analysis</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:42">cc9b8391db1bcf00d13efa9ebf961931</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:42</sys_created_on>
+                                <sys_id>809b8f91db1bcf00d13efa9ebf961933</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                                <value>pivot_v2</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:42">cc9b8391db1bcf00d13efa9ebf961931</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:42</sys_created_on>
+                                <sys_id>8c9b8391db1bcf00d13efa9ebf961932</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:42">cc9b8391db1bcf00d13efa9ebf961931</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:42</sys_created_on>
+                                <sys_id>c09b8391db1bcf00d13efa9ebf961932</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                                <value>669a7f48db74cf00d13efa9ebf9619ab</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:42">cc9b8391db1bcf00d13efa9ebf961931</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:42</sys_created_on>
+                                <sys_id>c89b8391db1bcf00d13efa9ebf961932</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA testing">e09a8f51db1bcf00d13efa9ebf96193b</page>
+                        <summary>Monitoring Ticket Analysis_Cat LV2 &amp;amp; ROOT CAUSE LV2</summary>
+                        <sys_created_by>Fayu.xu</sys_created_by>
+                        <sys_created_on>2017-12-27 03:39:14</sys_created_on>
+                        <sys_id>117b8f51db1bcf00d13efa9ebf9619ee</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Fayu.xu</sys_updated_by>
+                        <sys_updated_on>2017-12-27 03:39:14</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">a89a8f51db1bcf00d13efa9ebf96193b</grid_canvas>
+                                <height>14</height>
+                                <portal_widget display_value="Created 2017-12-27 11:39:14">117b8f51db1bcf00d13efa9ebf9619ee</portal_widget>
+                                <posx>0</posx>
+                                <posy>10</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:14</sys_created_on>
+                                <sys_id>5d7b8f51db1bcf00d13efa9ebf9619ef</sys_id>
+                                <sys_mod_count>3</sys_mod_count>
+                                <sys_name>a89a8f51db1bcf00d13efa9ebf96193b</sys_name>
+                                <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_5d7b8f51db1bcf00d13efa9ebf9619ef</sys_update_name>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                                <width>8</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:14">117b8f51db1bcf00d13efa9ebf9619ee</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:14</sys_created_on>
+                                <sys_id>157b8f51db1bcf00d13efa9ebf9619ee</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:14</sys_updated_on>
+                                <value>1311b0cedb24cb00d13efa9ebf9619ed</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:14">117b8f51db1bcf00d13efa9ebf9619ee</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:14</sys_created_on>
+                                <sys_id>1d7b8f51db1bcf00d13efa9ebf9619ee</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:14</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:14">117b8f51db1bcf00d13efa9ebf9619ee</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:14</sys_created_on>
+                                <sys_id>557b8f51db1bcf00d13efa9ebf9619ef</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:14</sys_updated_on>
+                                <value>Monitoring Ticket Analysis_Cat LV2 &amp;amp; ROOT CAUSE LV2</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:14">117b8f51db1bcf00d13efa9ebf9619ee</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:14</sys_created_on>
+                                <sys_id>597b8f51db1bcf00d13efa9ebf9619ee</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:14</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:14">117b8f51db1bcf00d13efa9ebf9619ee</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:14</sys_created_on>
+                                <sys_id>917b8f51db1bcf00d13efa9ebf9619ef</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:14</sys_updated_on>
+                                <value>pivot_v2</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2017-12-27 11:39:14">117b8f51db1bcf00d13efa9ebf9619ee</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:39:14</sys_created_on>
+                                <sys_id>dd7b8f51db1bcf00d13efa9ebf9619ee</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:14</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA testing">e09a8f51db1bcf00d13efa9ebf96193b</page>
+                        <summary>Canceled Ticket Analysis</summary>
+                        <sys_created_by>Fayu.xu</sys_created_by>
+                        <sys_created_on>2017-12-27 03:36:55</sys_created_on>
+                        <sys_id>93ea4391db1bcf00d13efa9ebf961976</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Fayu.xu</sys_updated_by>
+                        <sys_updated_on>2017-12-27 03:36:55</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">a89a8f51db1bcf00d13efa9ebf96193b</grid_canvas>
+                                <height>14</height>
+                                <portal_widget display_value="Created 2017-12-27 11:36:55">93ea4391db1bcf00d13efa9ebf961976</portal_widget>
+                                <posx>8</posx>
+                                <posy>10</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:55</sys_created_on>
+                                <sys_id>dfea4391db1bcf00d13efa9ebf961977</sys_id>
+                                <sys_mod_count>6</sys_mod_count>
+                                <sys_name>a89a8f51db1bcf00d13efa9ebf96193b</sys_name>
+                                <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_dfea4391db1bcf00d13efa9ebf961977</sys_update_name>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                                <width>4</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:55">93ea4391db1bcf00d13efa9ebf961976</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:55</sys_created_on>
+                                <sys_id>17ea4391db1bcf00d13efa9ebf961977</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:55</sys_updated_on>
+                                <value>pivot_v2</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:55">93ea4391db1bcf00d13efa9ebf961976</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:55</sys_created_on>
+                                <sys_id>53ea4391db1bcf00d13efa9ebf961977</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:55</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:55">93ea4391db1bcf00d13efa9ebf961976</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:55</sys_created_on>
+                                <sys_id>97ea4391db1bcf00d13efa9ebf961976</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:55</sys_updated_on>
+                                <value>669a7f48db74cf00d13efa9ebf9619ab</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:55">93ea4391db1bcf00d13efa9ebf961976</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:55</sys_created_on>
+                                <sys_id>9fea4391db1bcf00d13efa9ebf961976</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:55</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:55">93ea4391db1bcf00d13efa9ebf961976</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:55</sys_created_on>
+                                <sys_id>d7ea4391db1bcf00d13efa9ebf961977</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:55</sys_updated_on>
+                                <value>Canceled Ticket Analysis</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:55">93ea4391db1bcf00d13efa9ebf961976</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:55</sys_created_on>
+                                <sys_id>dbea4391db1bcf00d13efa9ebf961976</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:55</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA testing">e09a8f51db1bcf00d13efa9ebf96193b</page>
+                        <summary>30/60/90 Day Desired State Task Aging</summary>
+                        <sys_created_by>Fayu.xu</sys_created_by>
+                        <sys_created_on>2017-12-27 03:36:07</sys_created_on>
+                        <sys_id>33bac391db1bcf00d13efa9ebf9619a9</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Fayu.xu</sys_updated_by>
+                        <sys_updated_on>2017-12-27 03:36:08</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">a89a8f51db1bcf00d13efa9ebf96193b</grid_canvas>
+                                <height>14</height>
+                                <portal_widget display_value="Created 2017-12-27 11:36:07">33bac391db1bcf00d13efa9ebf9619a9</portal_widget>
+                                <posx>0</posx>
+                                <posy>24</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:08</sys_created_on>
+                                <sys_id>f3bac391db1bcf00d13efa9ebf9619ab</sys_id>
+                                <sys_mod_count>13</sys_mod_count>
+                                <sys_name>a89a8f51db1bcf00d13efa9ebf96193b</sys_name>
+                                <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_f3bac391db1bcf00d13efa9ebf9619ab</sys_update_name>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                                <width>8</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:07">33bac391db1bcf00d13efa9ebf9619a9</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:07</sys_created_on>
+                                <sys_id>37bac391db1bcf00d13efa9ebf9619a9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:07</sys_updated_on>
+                                <value>82240486dfb0010068c37a0d3df263b5</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:07">33bac391db1bcf00d13efa9ebf9619a9</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:07</sys_created_on>
+                                <sys_id>3fbac391db1bcf00d13efa9ebf9619a9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:07</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:07">33bac391db1bcf00d13efa9ebf9619a9</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:07</sys_created_on>
+                                <sys_id>77bac391db1bcf00d13efa9ebf9619aa</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:07</sys_updated_on>
+                                <value>30/60/90 Day Desired State Task Aging</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:07">33bac391db1bcf00d13efa9ebf9619a9</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:07</sys_created_on>
+                                <sys_id>7bbac391db1bcf00d13efa9ebf9619a9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:07</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:07">33bac391db1bcf00d13efa9ebf9619a9</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:07</sys_created_on>
+                                <sys_id>b3bac391db1bcf00d13efa9ebf9619aa</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:07</sys_updated_on>
+                                <value>horizontal_bar</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2017-12-27 11:36:07">33bac391db1bcf00d13efa9ebf9619a9</portal_section>
+                                <sys_created_by>Fayu.xu</sys_created_by>
+                                <sys_created_on>2017-12-27 03:36:07</sys_created_on>
+                                <sys_id>ffbac391db1bcf00d13efa9ebf9619a9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Fayu.xu</sys_updated_by>
+                                <sys_updated_on>2017-12-27 03:36:07</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">a89a8f51db1bcf00d13efa9ebf96193b</grid_canvas>
+                <height>14</height>
+                <portal_widget display_value="Created 2017-12-27 11:39:14">117b8f51db1bcf00d13efa9ebf9619ee</portal_widget>
+                <posx>0</posx>
+                <posy>10</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>Fayu.xu</sys_created_by>
+                <sys_created_on>2017-12-27 03:39:14</sys_created_on>
+                <sys_id>5d7b8f51db1bcf00d13efa9ebf9619ef</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_name>a89a8f51db1bcf00d13efa9ebf96193b</sys_name>
+                <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_5d7b8f51db1bcf00d13efa9ebf9619ef</sys_update_name>
+                <sys_updated_by>Fayu.xu</sys_updated_by>
+                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                <width>8</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">a89a8f51db1bcf00d13efa9ebf96193b</grid_canvas>
+                <height>14</height>
+                <portal_widget display_value="Created 2017-12-27 11:36:55">93ea4391db1bcf00d13efa9ebf961976</portal_widget>
+                <posx>8</posx>
+                <posy>10</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>Fayu.xu</sys_created_by>
+                <sys_created_on>2017-12-27 03:36:55</sys_created_on>
+                <sys_id>dfea4391db1bcf00d13efa9ebf961977</sys_id>
+                <sys_mod_count>6</sys_mod_count>
+                <sys_name>a89a8f51db1bcf00d13efa9ebf96193b</sys_name>
+                <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_dfea4391db1bcf00d13efa9ebf961977</sys_update_name>
+                <sys_updated_by>Fayu.xu</sys_updated_by>
+                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                <width>4</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">a89a8f51db1bcf00d13efa9ebf96193b</grid_canvas>
+                <height>14</height>
+                <portal_widget display_value="Created 2017-12-27 11:36:07">33bac391db1bcf00d13efa9ebf9619a9</portal_widget>
+                <posx>0</posx>
+                <posy>24</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>Fayu.xu</sys_created_by>
+                <sys_created_on>2017-12-27 03:36:08</sys_created_on>
+                <sys_id>f3bac391db1bcf00d13efa9ebf9619ab</sys_id>
+                <sys_mod_count>13</sys_mod_count>
+                <sys_name>a89a8f51db1bcf00d13efa9ebf96193b</sys_name>
+                <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_f3bac391db1bcf00d13efa9ebf9619ab</sys_update_name>
+                <sys_updated_by>Fayu.xu</sys_updated_by>
+                <sys_updated_on>2017-12-27 03:39:42</sys_updated_on>
+                <width>8</width>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>

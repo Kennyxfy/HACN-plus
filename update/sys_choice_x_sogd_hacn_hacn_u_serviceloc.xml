@@ -2,6 +2,310 @@
 <record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="u_serviceloc" table="x_sogd_hacn_hacn" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Other City</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other City</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:58:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0cb1ce54db674740d13efa9ebf9619dd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:59:12</sys_updated_on>
+            <value>Other City</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>上海</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ZJ机房</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:37:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78bcfd90db674740d13efa9ebf96193b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:38:12</sys_updated_on>
+            <value>ZJ机房</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>上海</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>上海国金中心</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:36:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef6c7590db674740d13efa9ebf961943</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:36:38</sys_updated_on>
+            <value>上海国金中心</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>上海</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>上海汇丰数据中心</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:36:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>338c7d90db674740d13efa9ebf96195f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:37:17</sys_updated_on>
+            <value>上海汇丰数据中心</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>东莞</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>东莞长安支行</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:25:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ba97150db674740d13efa9ebf961960</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:26:05</sys_updated_on>
+            <value>东莞长安支行</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>中山</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>中山支行</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:53:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a704654db674740d13efa9ebf961910</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:53:51</sys_updated_on>
+            <value>中山支行</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>南京</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>南京中山东路支行</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:32:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d15bb190db674740d13efa9ebf9619be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:32:35</sys_updated_on>
+            <value>南京中山东路支行</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>天津</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>天津滨海支行</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:42:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daadf5d0db674740d13efa9ebf9619c8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:43:00</sys_updated_on>
+            <value>天津滨海支行</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>广州</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>广州淘金路支行</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:30:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>818ab950db674740d13efa9ebf96197c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:30:26</sys_updated_on>
+            <value>广州淘金路支行</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>惠州</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>惠州支行-old</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 06:48:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fafc065cdb674740d13efa9ebf961918</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 06:49:18</sys_updated_on>
+            <value>惠州支行-old</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>杭州</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>杭州嘉里中心</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:30:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>631bb190db674740d13efa9ebf9619af</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:31:26</sys_updated_on>
+            <value>杭州嘉里中心</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>江门</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>江门支行-1</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 06:49:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b21dc6d8db674740d13efa9ebf9619af</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 06:50:16</sys_updated_on>
+            <value>江门支行-1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>深圳</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>深圳前海支行</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:39:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e85dfd90db674740d13efa9ebf961973</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:40:14</sys_updated_on>
+            <value>深圳前海支行</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>深圳</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>深圳华侨新城支行</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:40:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>986d31d0db674740d13efa9ebf961995</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:40:52</sys_updated_on>
+            <value>深圳华侨新城支行</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>深圳</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>深圳南山华侨城支行</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 06:51:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>155d465cdb674740d13efa9ebf9619d8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 06:52:04</sys_updated_on>
+            <value>深圳南山华侨城支行</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>深圳</dependent_value>
+            <element>u_serviceloc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>深圳高新区支行</label>
+            <language>en</language>
+            <name>x_sogd_hacn_hacn</name>
+            <sequence/>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-01-05 05:41:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>628db5d0db674740d13efa9ebf96197c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-01-05 05:41:31</sys_updated_on>
+            <value>深圳高新区支行</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>上海</dependent_value>
             <element>u_serviceloc</element>
             <hint/>
@@ -576,25 +880,6 @@
             <element>u_serviceloc</element>
             <hint/>
             <inactive>false</inactive>
-            <label>广州越秀支行</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>30</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 06:42:25</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>63b52302dbe60740d13efa9ebf9619ee</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 06:50:54</sys_updated_on>
-            <value>广州越秀支行</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value>广州</dependent_value>
-            <element>u_serviceloc</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>广州中信广场支行</label>
             <language>en</language>
             <name>x_sogd_hacn_hacn</name>
@@ -629,26 +914,7 @@
             <value>佛山支行</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value>中山</dependent_value>
-            <element>u_serviceloc</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>中山支行</label>
-            <language>en</language>
-            <name>x_sogd_hacn_hacn</name>
-            <sequence>33</sequence>
-            <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2017-11-22 06:42:25</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>63b52302dbe60740d13efa9ebf9619f4</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 06:48:00</sys_updated_on>
-            <value>中山支行</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value>顺德</dependent_value>
+            <dependent_value>佛山</dependent_value>
             <element>u_serviceloc</element>
             <hint/>
             <inactive>false</inactive>
@@ -661,9 +927,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>63b52302dbe60740d13efa9ebf9619f6</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2017-11-22 06:54:01</sys_updated_on>
+            <sys_updated_on>2018-01-05 05:46:03</sys_updated_on>
             <value>顺德支行</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">

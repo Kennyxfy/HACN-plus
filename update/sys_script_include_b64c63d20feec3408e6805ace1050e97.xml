@@ -13,14 +13,16 @@ CmnLocation.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
 	getCmnLocation:function(){
 		var city=this.getParameter("sysparm_city").trim();
 		var name=this.getParameter("sysparm_uname").trim();
-// 		gs.info(">>>>>>city="+city);
-// 		gs.info(">>>>>>name="+name);
+		//gs.info(">>>>>>JK:city="+city);
+		//gs.info(">>>>>>JK:name="+name);
 		var glideRecord=new GlideRecord("cmn_location");
-		glideRecord.addQuery("name",name);
+		if(name!=null && name!=''){
+			glideRecord.addQuery("name",name);
+		}
 		glideRecord.addQuery("city",city);
 		glideRecord.query();
-		while(glideRecord.next()){
-			var data='{"street":"'+glideRecord.street+'","x_sogd_hacn_district":"'+glideRecord.x_sogd_hacn_district+'","phone":"'+glideRecord.phone+'","u_manager":"'+glideRecord.u_manager+'"}'; 
+		if(glideRecord.next()){
+			var data='{"street":"'+glideRecord.street+'","x_sogd_hacn_district":"'+glideRecord.x_sogd_hacn_district+'","phone":"'+glideRecord.phone+'","u_manager":"'+glideRecord.u_manager+'","center":"'+glideRecord.x_sogd_hacn_center+'"}'; 
 // 			data.street=glideRecord.street;
 // 			data.x_sogd_hacn_district=glideRecord.x_sogd_hacn_district;
 // 			data.phone=glideRecord.phone;
@@ -47,13 +49,13 @@ CmnLocation.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
         <sys_created_by>Peng.yanyong</sys_created_by>
         <sys_created_on>2017-11-23 01:49:45</sys_created_on>
         <sys_id>b64c63d20feec3408e6805ace1050e97</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>33</sys_mod_count>
         <sys_name>CmnLocation</sys_name>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_script_include_b64c63d20feec3408e6805ace1050e97</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-12-17 14:35:09</sys_updated_on>
+        <sys_updated_on>2018-01-03 05:49:58</sys_updated_on>
     </sys_script_include>
 </record_update>

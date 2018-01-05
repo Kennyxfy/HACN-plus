@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="testing">b9c007d9dbd7cf00d13efa9ebf9619c4</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2017-12-27 02:52:34</sys_created_on>
+        <sys_id>71c007d9dbd7cf00d13efa9ebf9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b9c007d9dbd7cf00d13efa9ebf9619c4</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_report_users_groups_71c007d9dbd7cf00d13efa9ebf9619c5</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2017-12-27 02:52:34</sys_updated_on>
+        <user_id display_value="Fayu Xu">80541d150f5043008e6805ace1050e34</user_id>
+    </sys_report_users_groups>
+</record_update>

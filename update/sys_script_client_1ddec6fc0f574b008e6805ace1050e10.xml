@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sys_script_client">
     <sys_script_client action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <applies_extended>false</applies_extended>
         <condition/>
         <description/>
-        <field>u_userid1</field>
+        <field>u_callfrom</field>
         <global>true</global>
         <messages/>
         <name>Web Service</name>
@@ -20,14 +20,31 @@
 		alert(myObj);
 		//g_form.setValue('u_first_update_due', myObj);
 	}
-}]]></script>
+}
+		
+// 		function onChange(control, oldValue, newValue, isLoading) {
+// 			if (oldValue != newValue) {
+// 				var script = doMatchProject(oldValue, newValue);
+// 				var answer = AJAXEvaluateSynchronously(script);
+// 				g_form.addInfoMessage(script);
+// 				g_form.addInfoMessage(answer);
+// 				if(answer != '' && answer != null) {
+// 					var showHistory = confirm("One or more similar Projects currently exist: \n\n" + answer + "\n\n" + "Would you like View Project(s)?");
+// 					if (showHistory == true){
+// 						window.open("pm_project_list.do?&sysparm_query=u_matter_number=" + newValue);
+// 						g_form.addInfoMessage('error');
+// 					}
+// 				}
+// 			}
+// 		}
+		]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>LingLing</sys_created_by>
         <sys_created_on>2017-12-25 09:58:13</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1ddec6fc0f574b008e6805ace1050e10</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>Web Service</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -35,7 +52,7 @@
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_script_client_1ddec6fc0f574b008e6805ace1050e10</sys_update_name>
         <sys_updated_by>LingLing</sys_updated_by>
-        <sys_updated_on>2017-12-25 22:30:58</sys_updated_on>
+        <sys_updated_on>2018-01-03 06:07:40</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
