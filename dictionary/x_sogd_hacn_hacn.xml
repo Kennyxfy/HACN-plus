@@ -284,7 +284,7 @@
             </choice>
         </element>
         <element label="SOG Ticket No" max_length="40" name="u_sog_ticket_no" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Solution" max_length="40" name="u_solution" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Solution" max_length="3000" name="u_solution" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="Contracted" label="SO Type" max_length="40" name="u_sotype" type="string">
             <choice>
                 <element label="Contracted" sequence="0" value="Contracted"/>
