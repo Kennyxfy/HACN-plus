@@ -13,7 +13,7 @@
         <element label="House name" max_length="40" name="x_sogd_hacn_house_name" type="string"/>
         <element label="Machine Name" max_length="100" name="x_sogd_hacn_machine_name" type="string"/>
         <element label="Seat Number" max_length="40" name="x_sogd_hacn_seat_number" type="string"/>
-        <element label="Serviceone Reference No" max_length="40" name="x_sogd_hacn_serviceone_reference_no" type="string"/>
+        <element display="true" label="Serviceone Reference No" max_length="40" name="x_sogd_hacn_serviceone_reference_no" type="string"/>
         <element label="Service SLA" max_length="40" name="x_sogd_hacn_service_sla" type="string"/>
         <element label="Service Time" max_length="40" name="x_sogd_hacn_service_time" type="string"/>
         <element label="SubModel" max_length="40" name="x_sogd_hacn_submodel" type="string"/>

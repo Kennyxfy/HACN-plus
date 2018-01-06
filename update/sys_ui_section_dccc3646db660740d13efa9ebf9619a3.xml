@@ -5,13 +5,13 @@
             <element>watch_list</element>
             <position>0</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf961961</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf961962</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>work_notes_list</element>
             <position>2</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf961962</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>.end_split</element>
             <position>3</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf961962</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.begin_split</element>
             <position>4</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf961962</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>u_userid</element>
             <position>5</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf961962</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>u_jobcode</element>
             <position>6</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf961962</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>serial_no</element>
             <position>7</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>2c7ed7d8db2b4740d13efa9ebf961962</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5affd7ecdb638740d13efa9ebf9619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>u_trip0</element>
             <position>8</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf961962</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>.split</element>
             <position>9</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf961963</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>u_name</element>
             <position>10</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf961963</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,13 +159,13 @@
             <element>u_codedescription</element>
             <position>11</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf961963</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -173,13 +173,13 @@
             <element>u_starttime</element>
             <position>12</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf961963</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -187,13 +187,13 @@
             <element>u_etatime</element>
             <position>13</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf961963</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -201,13 +201,13 @@
             <element>u_endtime</element>
             <position>14</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf961963</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -215,13 +215,13 @@
             <element>.end_split</element>
             <position>15</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>2c7ed7d8db2b4740d13efa9ebf961963</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5affd7ecdb638740d13efa9ebf9619f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -229,13 +229,13 @@
             <element>.begin_split</element>
             <position>16</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf961963</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -243,13 +243,13 @@
             <element>u_jobcode_01</element>
             <position>17</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf961964</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -257,13 +257,13 @@
             <element>u_jobcode_02</element>
             <position>18</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf961964</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -271,13 +271,13 @@
             <element>.split</element>
             <position>19</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf961964</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -285,13 +285,13 @@
             <element>u_jobcode_03</element>
             <position>20</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf961964</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -299,13 +299,13 @@
             <element>u_jobcode_04</element>
             <position>21</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf961964</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -313,13 +313,13 @@
             <element>.end_split</element>
             <position>22</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf961964</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -327,13 +327,13 @@
             <element>u_action</element>
             <position>23</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>2c7ed7d8db2b4740d13efa9ebf961964</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5affd7ecdb638740d13efa9ebf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -341,13 +341,13 @@
             <element>.begin_split</element>
             <position>24</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf961964</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -355,13 +355,13 @@
             <element>u_userid1</element>
             <position>25</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf961965</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -369,13 +369,13 @@
             <element>u_jobcode1</element>
             <position>26</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf961965</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -383,13 +383,13 @@
             <element>serial_no_1</element>
             <position>27</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf961965</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -397,13 +397,13 @@
             <element>u_trip1</element>
             <position>28</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf961965</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -411,13 +411,13 @@
             <element>.split</element>
             <position>29</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf961965</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -425,13 +425,13 @@
             <element>u_name1</element>
             <position>30</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf961965</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -439,13 +439,13 @@
             <element>u_codedescription1</element>
             <position>31</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>2c7ed7d8db2b4740d13efa9ebf961965</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5affd7ecdb638740d13efa9ebf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -453,13 +453,13 @@
             <element>u_starttime1</element>
             <position>32</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf961965</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -467,13 +467,13 @@
             <element>u_etatime1</element>
             <position>33</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf961966</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -481,13 +481,13 @@
             <element>u_endtime1</element>
             <position>34</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf961966</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -495,13 +495,13 @@
             <element>.end_split</element>
             <position>35</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf961966</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -509,13 +509,13 @@
             <element>.begin_split</element>
             <position>36</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf961966</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -523,13 +523,13 @@
             <element>u_jobcode_11</element>
             <position>37</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf961966</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -537,13 +537,13 @@
             <element>u_jobcode_12</element>
             <position>38</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf961966</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -551,13 +551,13 @@
             <element>.split</element>
             <position>39</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>2c7ed7d8db2b4740d13efa9ebf961966</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5affd7ecdb638740d13efa9ebf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -565,13 +565,13 @@
             <element>u_jobcode_13</element>
             <position>40</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf961966</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -579,13 +579,13 @@
             <element>u_jobcode_14</element>
             <position>41</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf961967</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -593,13 +593,13 @@
             <element>.end_split</element>
             <position>42</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf961967</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -607,13 +607,13 @@
             <element>u_action1</element>
             <position>43</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf961967</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -621,13 +621,13 @@
             <element>.begin_split</element>
             <position>44</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf961967</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -635,13 +635,13 @@
             <element>u_userid2</element>
             <position>45</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf961967</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -649,13 +649,13 @@
             <element>u_jobcode2</element>
             <position>46</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf961967</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -663,13 +663,13 @@
             <element>serial_no_2</element>
             <position>47</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>2c7ed7d8db2b4740d13efa9ebf961967</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5affd7ecdb638740d13efa9ebf9619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -677,13 +677,13 @@
             <element>u_trip2</element>
             <position>48</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf961967</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -691,13 +691,13 @@
             <element>.split</element>
             <position>49</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf961968</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -705,13 +705,13 @@
             <element>u_name2</element>
             <position>50</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf961968</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -719,13 +719,13 @@
             <element>u_codedescription2</element>
             <position>51</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf961968</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -733,13 +733,13 @@
             <element>u_starttime2</element>
             <position>52</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf961968</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -747,13 +747,13 @@
             <element>u_etatime2</element>
             <position>53</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf961968</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -761,13 +761,13 @@
             <element>u_endtime2</element>
             <position>54</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf961968</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -775,13 +775,13 @@
             <element>.end_split</element>
             <position>55</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>2c7ed7d8db2b4740d13efa9ebf961968</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5affd7ecdb638740d13efa9ebf9619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -789,13 +789,13 @@
             <element>.begin_split</element>
             <position>56</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf961968</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -803,13 +803,13 @@
             <element>u_jobcode_21</element>
             <position>57</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf961969</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -817,13 +817,13 @@
             <element>u_jobcode_22</element>
             <position>58</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf961969</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -831,13 +831,13 @@
             <element>.split</element>
             <position>59</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf961969</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -845,13 +845,13 @@
             <element>u_jobcode_23</element>
             <position>60</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf961969</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -859,13 +859,13 @@
             <element>u_jobcode_24</element>
             <position>61</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf961969</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -873,13 +873,13 @@
             <element>.end_split</element>
             <position>62</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf961969</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -887,13 +887,13 @@
             <element>u_action2</element>
             <position>63</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>2c7ed7d8db2b4740d13efa9ebf961969</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5affd7ecdb638740d13efa9ebf9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -901,13 +901,13 @@
             <element>.begin_split</element>
             <position>64</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf961969</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -915,13 +915,13 @@
             <element>u_userid3</element>
             <position>65</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf96196a</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -929,13 +929,13 @@
             <element>u_jobcode3</element>
             <position>66</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf96196a</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -943,13 +943,13 @@
             <element>serial_no_3</element>
             <position>67</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf96196a</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -957,13 +957,13 @@
             <element>u_trip3</element>
             <position>68</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf96196a</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -971,13 +971,13 @@
             <element>.split</element>
             <position>69</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf96196a</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -985,13 +985,13 @@
             <element>u_name3</element>
             <position>70</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf96196a</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -999,13 +999,13 @@
             <element>u_codedescription3</element>
             <position>71</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>2c7ed7d8db2b4740d13efa9ebf96196a</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5affd7ecdb638740d13efa9ebf9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1013,13 +1013,13 @@
             <element>u_starttime3</element>
             <position>72</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf96196a</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1027,13 +1027,13 @@
             <element>u_etatime3</element>
             <position>73</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf96196b</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1041,13 +1041,13 @@
             <element>u_endtime3</element>
             <position>74</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf96196b</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1055,13 +1055,13 @@
             <element>.end_split</element>
             <position>75</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf96196b</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -1069,13 +1069,13 @@
             <element>.begin_split</element>
             <position>76</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf96196b</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -1083,13 +1083,13 @@
             <element>u_jobcode_31</element>
             <position>77</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf96196b</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1097,13 +1097,13 @@
             <element>u_jobcode_32</element>
             <position>78</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf96196b</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1111,13 +1111,13 @@
             <element>.split</element>
             <position>79</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>2c7ed7d8db2b4740d13efa9ebf96196b</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5affd7ecdb638740d13efa9ebf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -1125,13 +1125,13 @@
             <element>u_jobcode_33</element>
             <position>80</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf96196b</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1139,13 +1139,13 @@
             <element>u_jobcode_34</element>
             <position>81</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>207ed7d8db2b4740d13efa9ebf96196c</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>5effd7ecdb638740d13efa9ebf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1153,13 +1153,13 @@
             <element>.end_split</element>
             <position>82</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a07ed7d8db2b4740d13efa9ebf96196c</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>deffd7ecdb638740d13efa9ebf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -1167,13 +1167,13 @@
             <element>u_action3</element>
             <position>83</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>247ed7d8db2b4740d13efa9ebf96196c</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>52ffd7ecdb638740d13efa9ebf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1181,13 +1181,13 @@
             <element>comments</element>
             <position>84</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a47ed7d8db2b4740d13efa9ebf96196c</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d2ffd7ecdb638740d13efa9ebf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1195,13 +1195,13 @@
             <element>work_notes</element>
             <position>85</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>287ed7d8db2b4740d13efa9ebf96196c</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>56ffd7ecdb638740d13efa9ebf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1209,13 +1209,13 @@
             <element>activity.xml</element>
             <position>86</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>a87ed7d8db2b4740d13efa9ebf96196c</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>d6ffd7ecdb638740d13efa9ebf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -1223,13 +1223,13 @@
             <element>12M.x_sogd_hacn_hacn.task_sla.task</element>
             <position>87</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-05 12:43:58</sys_created_on>
-            <sys_id>ac7ed7d8db2b4740d13efa9ebf96196c</sys_id>
+            <sys_created_on>2018-01-06 07:29:08</sys_created_on>
+            <sys_id>daffd7ecdb638740d13efa9ebf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-05 12:43:58</sys_updated_on>
+            <sys_updated_on>2018-01-06 07:29:08</sys_updated_on>
             <sys_user/>
             <type>list</type>
         </sys_ui_element>
