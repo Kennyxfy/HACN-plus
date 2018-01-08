@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="sys_import_set_row" label="hacn equipment" max_length="40" name="u_hacn_equipment" type="collection">
+    <element extends="sys_import_set_row" label="hacn equipment" max_length="40" name="u_hacn_equipment" sizeclass="11576" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="u_brand" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Center" max_length="40" name="u_center" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Equipement Type" max_length="40" name="u_equipement_type" type="string"/>

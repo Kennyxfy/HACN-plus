@@ -239,7 +239,7 @@
                 <element dependent_value="上海" label="上海静安嘉里中心第二支行" sequence="9" value="上海静安嘉里中心第二支行"/>
                 <element dependent_value="上海" label="上海淮海路支行" sequence="10" value="上海淮海路支行"/>
                 <element dependent_value="上海" label="上海虹桥支行" sequence="11" value="上海虹桥支行"/>
-                <element dependent_value="上海" label="上海自贸试验区支行" sequence="12" value="上海自贸试验区支行"/>
+                <element dependent_value="上海" label="上海自贸区支行" sequence="12" value="上海自贸区支行"/>
                 <element dependent_value="上海" label="上海瑞金路支行" sequence="13" value="上海瑞金路支行"/>
                 <element dependent_value="北京" label="北京分行" sequence="14" value="北京分行"/>
                 <element dependent_value="北京" label="北京中关村支行" sequence="15" value="北京中关村支行"/>
@@ -265,8 +265,8 @@
                 <element dependent_value="江门" label="江门支行" sequence="37" value="江门支行"/>
                 <element dependent_value="汕头" label="汕头支行" sequence="38" value="汕头支行"/>
                 <element dependent_value="深圳" label="深圳分行" sequence="39" value="深圳分行"/>
-                <element dependent_value="深圳" label="深圳南山海岸城支行" sequence="40" value="深圳南山海岸城支行"/>
-                <element dependent_value="深圳" label="深圳福田中心支行" sequence="41" value="深圳福田中心支行"/>
+                <element dependent_value="深圳" label="深圳海岸城支行" sequence="40" value="深圳海岸城支行"/>
+                <element dependent_value="深圳" label="深圳福田中心区支行" sequence="41" value="深圳福田中心区支行"/>
                 <element dependent_value="深圳" label="深圳罗湖支行" sequence="42" value="深圳罗湖支行"/>
                 <element dependent_value="深圳" label="深圳后海支行" sequence="43" value="深圳后海支行"/>
                 <element dependent_value="深圳" label="深圳南山华侨城支行" sequence="44" value="深圳南山华侨城支行"/>
