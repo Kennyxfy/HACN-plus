@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_view">
+    <sys_db_view action="INSERT_OR_UPDATE">
+        <description/>
+        <label>u_hacn_sla</label>
+        <name>x_sogd_hacn_hacn_sla</name>
+        <plural>u_hacn_slas</plural>
+        <sys_class_name>sys_db_view</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-01-11 02:32:32</sys_created_on>
+        <sys_id>5ceb80d6dbe34b40d13efa9ebf96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_sogd_hacn_hacn_sla</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_db_view_5ceb80d6dbe34b40d13efa9ebf96194c</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-01-11 02:32:32</sys_updated_on>
+    </sys_db_view>
+</record_update>

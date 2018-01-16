@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="138" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="207" type="collection">
         <element label="Activities(filtered)(Formatter)" max_length="4000" name="activities_filtered_formatter" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No." max_length="40" name="serial_no" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No.1" max_length="40" name="serial_no_1" type="string"/>
@@ -12,7 +12,7 @@
         <element attributes="edge_encryption_enabled=true" label="Action3" max_length="40" name="u_action3" type="string"/>
         <element label="Activities(filtered)(Formatter)" max_length="32" name="u_activities_filtered_formatter" reference="v_cluster_transaction" type="reference"/>
         <element label="Actual arrival" max_length="40" name="u_actualarrival" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Address" mandatory="true" max_length="40" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice_field="hardware_status" choice_table="cmdb_ci_hardware" label="Asset No" max_length="40" name="u_assetno" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Assign To" mandatory="true" max_length="40" name="u_assignto" type="string">
             <choice>
@@ -80,7 +80,7 @@
                 <element dependent_value="Service" label="Other Service" sequence="26" value="Other Service"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Center" max_length="40" name="u_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Center" max_length="40" name="u_center" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="City" mandatory="true" max_length="40" name="u_city" reference="cmn_location" type="string">
             <choice>
                 <element label="上海" sequence="0" value="上海"/>
@@ -120,7 +120,7 @@
                 <element label="SOGSVSO15015M" sequence="0" value="SOGSVSO15015M"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Contract Remark" max_length="3000" name="u_contractremark" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contract Remark" max_length="6000" name="u_contractremark" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Contract Type" mandatory="true" max_length="40" name="u_contracttype" type="string">
             <choice>
                 <element label="MA" sequence="0" value="MA"/>
@@ -128,9 +128,9 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Create Note" max_length="40" name="u_createnote" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="District" mandatory="true" max_length="40" name="u_district1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="District" max_length="40" name="u_district1" read_only="true" type="string"/>
         <element label="Effective Date" max_length="40" name="u_effectivedate" type="glide_date_time"/>
-        <element label="Effective Date" max_length="40" name="u_effective_date" type="glide_date"/>
+        <element label="Effective Date" max_length="40" name="u_effective_date" read_only="true" type="glide_date"/>
         <element label="End Time" max_length="40" name="u_endtime" type="glide_date_time"/>
         <element label="End Time1" max_length="40" name="u_endtime1" type="glide_date_time"/>
         <element label="End Time2" max_length="40" name="u_endtime2" type="glide_date_time"/>
@@ -142,7 +142,9 @@
         <element label="ETA Time3" max_length="40" name="u_etatime3" type="glide_date_time"/>
         <element label="Expected Onsite Time" max_length="40" name="u_expected_onsite_time" type="glide_date_time"/>
         <element label="Expiry Date" max_length="40" name="u_expirydate" type="glide_date_time"/>
-        <element label="Expiry Date" max_length="40" name="u_expiry_date" type="glide_date"/>
+        <element label="Expiry Date" max_length="40" name="u_expiry_date" read_only="true" type="glide_date"/>
+        <element label="E-Effective Date" max_length="40" name="u_e_effective_date" read_only="true" type="glide_date"/>
+        <element label="E-Expiry Date" max_length="40" name="u_e_expiry_date" read_only="true" type="glide_date"/>
         <element default="true" label="Get IMS ticket No" max_length="40" name="u_get_ims_ticket_no" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Job" max_length="40" name="u_job" type="string"/>
         <element label="Job Code" max_length="32" name="u_jobcode" reference="u_job_code" type="reference"/>
@@ -185,7 +187,7 @@
         <element choice="2" label="Ref No" max_length="32" name="u_ref_no" reference="alm_asset" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="reference">
             <choice/>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="E-Remark" max_length="40" name="u_remark" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="E-Remark" max_length="3000" name="u_remark" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="SO-Remark" max_length="40" name="u_remark1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Reopen Reason" max_length="40" name="u_reopen_reason" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="RootCase" max_length="40" name="u_rootcase" type="string"/>
@@ -194,12 +196,12 @@
         <element attributes="edge_encryption_enabled=true" label="RootCase3" max_length="40" name="u_rootcase3" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Satisfaction Level" max_length="40" name="u_satisfaction_level" type="string">
             <choice>
-                <element label="A" sequence="0" value="A"/>
-                <element label="G" sequence="1" value="G"/>
-                <element label="N" sequence="2" value="N"/>
-                <element label="P" sequence="3" value="P"/>
-                <element label="VG" sequence="4" value="VG"/>
-                <element label="VP" sequence="5" value="VP"/>
+                <element label="A" sequence="0" value="1"/>
+                <element label="G" sequence="1" value="2"/>
+                <element label="N" sequence="2" value="3"/>
+                <element label="P" sequence="3" value="4"/>
+                <element label="VG" sequence="4" value="5"/>
+                <element label="VP" sequence="5" value="6"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Serial No" max_length="40" name="u_serialno" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
@@ -235,7 +237,7 @@
                 <element dependent_value="上海" label="上海古北支行" sequence="5" value="上海古北支行"/>
                 <element dependent_value="上海" label="上海大拇指支行" sequence="6" value="上海大拇指支行"/>
                 <element dependent_value="上海" label="上海静安支行" sequence="7" value="上海静安支行"/>
-                <element dependent_value="上海" label="上海静安嘉里中心支行" sequence="8" value="上海静安嘉里中心支行"/>
+                <element dependent_value="上海" label="上海嘉里中心支行" sequence="8" value="上海嘉里中心支行"/>
                 <element dependent_value="上海" label="上海静安嘉里中心第二支行" sequence="9" value="上海静安嘉里中心第二支行"/>
                 <element dependent_value="上海" label="上海淮海路支行" sequence="10" value="上海淮海路支行"/>
                 <element dependent_value="上海" label="上海虹桥支行" sequence="11" value="上海虹桥支行"/>

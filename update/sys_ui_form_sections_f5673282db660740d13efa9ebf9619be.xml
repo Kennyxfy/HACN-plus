@@ -32,58 +32,44 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-06 07:27:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>718f13ecdb638740d13efa9ebf961970</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_sogd_hacn_hacn" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">f5673282db660740d13efa9ebf9619be</sys_ui_form>
-            <sys_ui_section caption="Contract Remark" display_value="Contract Remark" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">fd8f13ecdb638740d13efa9ebf96196b</sys_ui_section>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-06 07:29:06</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>3</position>
-            <sys_created_by>Fayu.xu</sys_created_by>
             <sys_created_on>2017-11-22 03:22:17</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c8f73a82db660740d13efa9ebf96194f</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_sogd_hacn_hacn" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">f5673282db660740d13efa9ebf9619be</sys_ui_form>
             <sys_ui_section caption="Diagnosis" display_value="Diagnosis" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">00f73a82db660740d13efa9ebf96194d</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-06 07:29:06</sys_updated_on>
+            <sys_updated_on>2018-01-09 03:14:44</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>Fayu.xu</sys_created_by>
             <sys_created_on>2017-11-22 03:26:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d4d8be82db660740d13efa9ebf9619a8</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_sogd_hacn_hacn" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">f5673282db660740d13efa9ebf9619be</sys_ui_form>
             <sys_ui_section caption="Service Order" display_value="Service Order" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">18d8be82db660740d13efa9ebf9619a5</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-06 07:29:06</sys_updated_on>
+            <sys_updated_on>2018-01-09 03:14:44</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>Fayu.xu</sys_created_by>
             <sys_created_on>2017-11-22 03:43:20</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d0cc3646db660740d13efa9ebf9619a7</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_sogd_hacn_hacn" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">f5673282db660740d13efa9ebf9619be</sys_ui_form>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_sogd_hacn_hacn" sys_domain="global" view="Default view">dccc3646db660740d13efa9ebf9619a3</sys_ui_section>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-06 07:27:46</sys_updated_on>
+            <sys_updated_on>2018-01-09 03:14:44</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_sogd_hacn_hacn</name>
