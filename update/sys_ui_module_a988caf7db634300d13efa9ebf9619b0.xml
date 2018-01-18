@@ -8,7 +8,7 @@
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
-        <roles>x_sogd_hacn.desktop_user</roles>
+        <roles/>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>Fayu.xu</sys_created_by>
         <sys_created_on>2018-01-16 03:27:18</sys_created_on>
