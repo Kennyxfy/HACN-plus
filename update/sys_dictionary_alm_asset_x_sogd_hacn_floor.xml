@@ -52,15 +52,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Fayu.xu</sys_created_by>
         <sys_created_on>2017-11-24 02:41:12</sys_created_on>
-        <sys_id>ad61493adbaa4740d13efa9ebf9619e6</sys_id>
+        <sys_id>e62409e0db3783002cf5fa9ebf961971</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Floor</sys_name>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_dictionary_alm_asset_x_sogd_hacn_floor</sys_update_name>
-        <sys_updated_by>Fayu.xu</sys_updated_by>
-        <sys_updated_on>2017-11-24 02:41:12</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-18 06:25:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

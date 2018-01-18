@@ -39,7 +39,7 @@
         <reference_floats>false</reference_floats>
         <reference_key/>
         <reference_qual>company=28a2b629db120f00d13efa9ebf96199a^EQ</reference_qual>
-        <reference_qual_condition table="alm_asset">company=28a2b629db120f00d13efa9ebf96199a^EQ<item display_table="core_company" display_value="HACN" endquery="false" field="company" goto="false" newquery="false" operator="=" or="false" value="28a2b629db120f00d13efa9ebf96199a"/>
+        <reference_qual_condition table="alm_asset">company=28a2b629db120f00d13efa9ebf96199a^EQ<item endquery="false" field="company" goto="false" newquery="false" operator="=" or="false" value="28a2b629db120f00d13efa9ebf96199a"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <reference_type/>
@@ -49,15 +49,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Fayu.xu</sys_created_by>
         <sys_created_on>2017-11-28 07:26:26</sys_created_on>
-        <sys_id>b25922c0dbf20b40d13efa9ebf96193f</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_id>6c34c9e0db3783002cf5fa9ebf961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Ref No</sys_name>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_dictionary_x_sogd_hacn_hacn_u_ref_no</sys_update_name>
-        <sys_updated_by>Fayu.xu</sys_updated_by>
-        <sys_updated_on>2017-11-29 02:17:05</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-18 06:25:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

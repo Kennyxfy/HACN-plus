@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="sys_import_set_row" label="Imp Tmpl Alm Hardware" max_length="40" name="u_imp_tmpl_alm_hardware" sizeclass="7784" type="collection">
+    <element extends="sys_import_set_row" label="Imp Tmpl Alm Hardware" max_length="40" name="u_imp_tmpl_alm_hardware" type="collection">
         <element attributes="import_attribute_name=Acquisition method,edge_encryption_enabled=true" label="Acquisition method" max_length="40" name="u_acquisition_method" type="string"/>
         <element attributes="import_attribute_name=Asset tag,edge_encryption_enabled=true" label="Asset tag" max_length="40" name="u_asset_tag" type="string"/>
         <element attributes="import_attribute_name=Assigned,edge_encryption_enabled=true" label="Assigned" max_length="40" name="u_assigned" type="string"/>
         <element attributes="import_attribute_name=Assigned to,edge_encryption_enabled=true" label="Assigned to" max_length="40" name="u_assigned_to" type="string"/>
         <element attributes="import_attribute_name=Beneficiary,edge_encryption_enabled=true" label="Beneficiary" max_length="255" name="u_beneficiary" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="u_brand" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Center" max_length="40" name="u_center" type="string"/>
         <element attributes="import_attribute_name=Checked in,edge_encryption_enabled=true" label="Checked in" max_length="40" name="u_checked_in" type="string"/>
         <element attributes="import_attribute_name=Checked out,edge_encryption_enabled=true" label="Checked out" max_length="40" name="u_checked_out" type="string"/>
         <element attributes="import_attribute_name=Comments,edge_encryption_enabled=true" label="Comments" max_length="4000" name="u_comments" type="string"/>
@@ -23,6 +24,7 @@
         <element attributes="import_attribute_name=Due,edge_encryption_enabled=true" label="Due" max_length="40" name="u_due" type="string"/>
         <element attributes="import_attribute_name=Due in,edge_encryption_enabled=true" label="Due in" max_length="40" name="u_due_in" type="string"/>
         <element attributes="import_attribute_name=Effective Date" label="Effective Date" max_length="40" name="u_effective_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Equipement Type" max_length="40" name="u_equipement_type" type="string"/>
         <element attributes="import_attribute_name=Expenditure type,edge_encryption_enabled=true" label="Expenditure type" max_length="40" name="u_expenditure_type" type="string"/>
         <element attributes="import_attribute_name=Expiry Date" label="Expiry Date" max_length="40" name="u_expiry_date" type="glide_date"/>
         <element attributes="import_attribute_name=Floor,edge_encryption_enabled=true" label="Floor" max_length="40" name="u_floor" type="string"/>
@@ -53,6 +55,9 @@
         <element attributes="import_attribute_name=Scheduled retirement,edge_encryption_enabled=true" label="Scheduled retirement" max_length="40" name="u_scheduled_retirement" type="string"/>
         <element attributes="import_attribute_name=Seat Number,edge_encryption_enabled=true" label="Seat Number" max_length="40" name="u_seat_number" type="string"/>
         <element attributes="import_attribute_name=Serial number,edge_encryption_enabled=true" label="Serial Number" max_length="100" name="u_serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serviceone Reference No" max_length="40" name="u_serviceone_reference_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Service SLA" max_length="40" name="u_service_sla" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Service Time" max_length="40" name="u_service_time" type="string"/>
         <element attributes="import_attribute_name=State,edge_encryption_enabled=true" label="State" max_length="40" name="u_state" type="string"/>
         <element attributes="import_attribute_name=Stockroom,edge_encryption_enabled=true" label="Stockroom" max_length="40" name="u_stockroom" type="string"/>
         <element attributes="import_attribute_name=SubModel,edge_encryption_enabled=true" label="SubModel" max_length="40" name="u_submodel" type="string"/>

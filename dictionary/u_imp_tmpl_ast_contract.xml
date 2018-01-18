@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl Ast Contract" max_length="40" name="u_imp_tmpl_ast_contract" type="collection">
+        <element attributes="import_attribute_name=Contract type,edge_encryption_enabled=true" label="Contract type" max_length="80" name="u_contract_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=Ends" label="Ends" max_length="40" name="u_ends" type="glide_date"/>
+        <element attributes="import_attribute_name=Expiration level,edge_encryption_enabled=true" label="Expiration level" max_length="32" name="u_expiration_level" type="string"/>
+        <element attributes="import_attribute_name=Number,edge_encryption_enabled=true" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Short description,edge_encryption_enabled=true" label="Short description" max_length="100" name="u_short_description" type="string"/>
+        <element attributes="import_attribute_name=Starts" label="Starts" max_length="40" name="u_starts" type="glide_date"/>
+        <element attributes="import_attribute_name=State,edge_encryption_enabled=true" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="import_attribute_name=Substate,edge_encryption_enabled=true" label="Substate" max_length="40" name="u_substate" type="string"/>
+        <element attributes="import_attribute_name=Vendor,edge_encryption_enabled=true" label="Vendor" max_length="32" name="u_vendor" type="string"/>
+    </element>
+</database>

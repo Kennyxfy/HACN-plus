@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" label="Asset" max_length="40" name="alm_asset" sizeclass="7695" type="collection">
+    <element audit="true" label="Asset" max_length="40" name="alm_asset" type="collection">
         <element label="Brand" max_length="40" name="x_sogd_hacn_brand" type="string"/>
         <element label="Center" max_length="40" name="x_sogd_hacn_center" type="string"/>
         <element label="Contract Number" max_length="40" name="x_sogd_hacn_contract_number" type="string"/>
