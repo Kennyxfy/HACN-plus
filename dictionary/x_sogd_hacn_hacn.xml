@@ -184,7 +184,7 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Phone No" mandatory="true" max_length="40" name="u_phoneno" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Ref No" max_length="40" name="u_refno" reference="alm_asset" type="string"/>
-        <element choice="2" label="Ref No" max_length="32" name="u_ref_no" reference="alm_asset" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="reference">
+        <element choice="2" label="Ref No" max_length="32" name="u_ref_no" reference="alm_hardware" reference_qual="company=29139d60db7783002cf5fa9ebf9619be^EQ" reference_qual_condition="company=29139d60db7783002cf5fa9ebf9619be^EQ" type="reference">
             <choice/>
         </element>
         <element attributes="edge_encryption_enabled=true" label="E-Remark" max_length="3000" name="u_remark" type="string"/>

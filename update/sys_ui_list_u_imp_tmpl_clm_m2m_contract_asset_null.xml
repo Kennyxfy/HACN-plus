@@ -4,92 +4,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_row</element>
-            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d0ec59e8db7783002cf5fa9ebf96196f</list_id>
+            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">97de596cdb7783002cf5fa9ebf9619ff</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-18 08:12:04</sys_created_on>
-            <sys_id>d4ec59e8db7783002cf5fa9ebf96196f</sys_id>
+            <sys_created_on>2018-01-18 08:20:43</sys_created_on>
+            <sys_id>9bde596cdb7783002cf5fa9ebf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-18 08:12:04</sys_updated_on>
+            <sys_updated_on>2018-01-18 08:20:43</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_set</element>
-            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d0ec59e8db7783002cf5fa9ebf96196f</list_id>
+            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">97de596cdb7783002cf5fa9ebf9619ff</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-18 08:12:04</sys_created_on>
-            <sys_id>58ec59e8db7783002cf5fa9ebf96196f</sys_id>
+            <sys_created_on>2018-01-18 08:20:43</sys_created_on>
+            <sys_id>1fde596cdb7783002cf5fa9ebf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-18 08:12:04</sys_updated_on>
+            <sys_updated_on>2018-01-18 08:20:43</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_state</element>
-            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d0ec59e8db7783002cf5fa9ebf96196f</list_id>
+            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">97de596cdb7783002cf5fa9ebf9619ff</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-18 08:12:04</sys_created_on>
-            <sys_id>d8ec59e8db7783002cf5fa9ebf96196f</sys_id>
+            <sys_created_on>2018-01-18 08:20:43</sys_created_on>
+            <sys_id>9fde596cdb7783002cf5fa9ebf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-18 08:12:04</sys_updated_on>
+            <sys_updated_on>2018-01-18 08:20:43</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_target_table</element>
-            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d0ec59e8db7783002cf5fa9ebf96196f</list_id>
+            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">97de596cdb7783002cf5fa9ebf9619ff</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-18 08:12:04</sys_created_on>
-            <sys_id>5cec59e8db7783002cf5fa9ebf96196f</sys_id>
+            <sys_created_on>2018-01-18 08:20:43</sys_created_on>
+            <sys_id>13de996cdb7783002cf5fa9ebf961900</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-18 08:12:04</sys_updated_on>
+            <sys_updated_on>2018-01-18 08:20:43</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_target_sys_id</element>
-            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d0ec59e8db7783002cf5fa9ebf96196f</list_id>
+            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">97de596cdb7783002cf5fa9ebf9619ff</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-18 08:12:04</sys_created_on>
-            <sys_id>dcec59e8db7783002cf5fa9ebf96196f</sys_id>
+            <sys_created_on>2018-01-18 08:20:43</sys_created_on>
+            <sys_id>93de996cdb7783002cf5fa9ebf961900</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-18 08:12:04</sys_updated_on>
+            <sys_updated_on>2018-01-18 08:20:43</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_row_error</element>
-            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d0ec59e8db7783002cf5fa9ebf96196f</list_id>
+            <list_id display_value="u_imp_tmpl_clm_m2m_contract_asset" element="NULL" name="u_imp_tmpl_clm_m2m_contract_asset" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">97de596cdb7783002cf5fa9ebf9619ff</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-18 08:12:04</sys_created_on>
-            <sys_id>50ec59e8db7783002cf5fa9ebf961970</sys_id>
+            <sys_created_on>2018-01-18 08:20:43</sys_created_on>
+            <sys_id>17de996cdb7783002cf5fa9ebf961900</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-18 08:12:04</sys_updated_on>
+            <sys_updated_on>2018-01-18 08:20:43</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -103,10 +103,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-01-18 08:12:04</sys_created_on>
+            <sys_created_on>2018-01-18 08:20:43</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d0ec59e8db7783002cf5fa9ebf96196f</sys_id>
+            <sys_id>97de596cdb7783002cf5fa9ebf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_imp_tmpl_clm_m2m_contract_asset</sys_name>
             <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -114,7 +114,7 @@
             <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
             <sys_update_name>sys_ui_list_u_imp_tmpl_clm_m2m_contract_asset_null</sys_update_name>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-01-18 08:12:04</sys_updated_on>
+            <sys_updated_on>2018-01-18 08:20:43</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
