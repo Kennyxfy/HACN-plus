@@ -22,7 +22,7 @@
                 <element label="Helpdesk" sequence="5" value="Helpdesk"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="u_brand" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="u_brand" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Call From" mandatory="true" max_length="40" name="u_callfrom" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Call Source" mandatory="true" max_length="40" name="u_callsource" type="string">
             <choice>
@@ -167,8 +167,8 @@
         <element attributes="edge_encryption_enabled=true" label="Job Code 3-2" max_length="40" name="u_jobcode_32" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Job Code 3-3" max_length="40" name="u_jobcode_33" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Job Code 3-4" max_length="40" name="u_jobcode_34" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Model No" max_length="40" name="u_modelno" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Model Type" max_length="40" name="u_modeltype" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model No" max_length="40" name="u_modelno" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model Type" max_length="40" name="u_modeltype" read_only="true" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name1" max_length="40" name="u_name1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name2" max_length="40" name="u_name2" type="string"/>
@@ -204,7 +204,7 @@
                 <element label="VP" sequence="5" value="6"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Serial No" max_length="40" name="u_serialno" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial No" max_length="40" name="u_serialno" read_only="true" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Service Level" mandatory="true" max_length="40" name="u_servicelevel" type="string">
             <choice>
                 <element label="2HRS" sequence="0" value="2HRS"/>
