@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="16" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="22" type="collection">
         <element label="Activities(filtered)(Formatter)" max_length="4000" name="activities_filtered_formatter" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No." max_length="40" name="serial_no" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No.1" max_length="40" name="serial_no_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No.2" max_length="40" name="serial_no_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No.3" max_length="40" name="serial_no_3" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Action" max_length="40" name="u_action" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Action1" max_length="40" name="u_action1" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Action2" max_length="40" name="u_action2" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Action3" max_length="40" name="u_action3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Action" max_length="2000" name="u_action" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Action1" max_length="2000" name="u_action1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Action2" max_length="2000" name="u_action2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Action3" max_length="2000" name="u_action3" type="string"/>
         <element label="Activities(filtered)(Formatter)" max_length="32" name="u_activities_filtered_formatter" reference="v_cluster_transaction" type="reference"/>
         <element label="Actual arrival" max_length="40" name="u_actualarrival" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" read_only="true" type="string"/>
@@ -322,7 +322,7 @@
                 <element label="NAS Storage" sequence="6" value="NAS Storage"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Symptom" mandatory="true" max_length="40" name="u_symptom" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Symptom" mandatory="true" max_length="3000" name="u_symptom" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Trip" max_length="40" name="u_trip" type="string">
             <choice>
                 <element label="Onsite" sequence="0" value="6"/>

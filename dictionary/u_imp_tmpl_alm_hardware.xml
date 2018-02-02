@@ -17,6 +17,8 @@
         <element attributes="import_attribute_name=Contract Type,edge_encryption_enabled=true" label="Contract Type" max_length="40" name="u_contract_type" type="string"/>
         <element attributes="import_attribute_name=Cost,edge_encryption_enabled=true" label="Cost" max_length="40" name="u_cost" type="string"/>
         <element attributes="import_attribute_name=Cost center,edge_encryption_enabled=true" label="Cost center" max_length="40" name="u_cost_center" type="string"/>
+        <element label="C-Expiry Date" max_length="40" name="u_c_expiry_date" type="glide_date"/>
+        <element label="C -Effective Date" max_length="40" name="u_c__effective_date" type="glide_date"/>
         <element attributes="import_attribute_name=Department,edge_encryption_enabled=true" label="Department" max_length="40" name="u_department" type="string"/>
         <element attributes="import_attribute_name=Depreciation,edge_encryption_enabled=true" label="Depreciation" max_length="40" name="u_depreciation" type="string"/>
         <element attributes="import_attribute_name=Depreciation effective date,edge_encryption_enabled=true" label="Depreciation effective date" max_length="40" name="u_depreciation_effective_date" type="string"/>

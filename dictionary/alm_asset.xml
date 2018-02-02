@@ -6,6 +6,8 @@
         <element label="Contract Number" max_length="40" name="x_sogd_hacn_contract_number" type="string"/>
         <element label="Contract Remark" max_length="1000" name="x_sogd_hacn_contract_remark" type="string"/>
         <element label="Contract Type" max_length="40" name="x_sogd_hacn_contract_type" type="string"/>
+        <element label="C -Effective Date" max_length="40" name="x_sogd_hacn_c_effective_date" type="glide_date"/>
+        <element label="C-Expiry Date" max_length="40" name="x_sogd_hacn_c_expiry_date" type="glide_date"/>
         <element label="Effective Date" max_length="40" name="x_sogd_hacn_effective_date" type="glide_date"/>
         <element label="Equipement Type" max_length="40" name="x_sogd_hacn_equipement_type" type="string"/>
         <element label="Expiry Date" max_length="40" name="x_sogd_hacn_expiry_date" type="glide_date"/>
