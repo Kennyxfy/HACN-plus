@@ -168,7 +168,21 @@
         <element attributes="edge_encryption_enabled=true" label="Job Code 3-3" max_length="40" name="u_jobcode_33" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Job Code 3-4" max_length="40" name="u_jobcode_34" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Model No" max_length="40" name="u_modelno" read_only="true" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Model Type" max_length="40" name="u_modeltype" read_only="true" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Model Type" max_length="40" name="u_modeltype" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string">
+            <choice>
+                <element label="Desktop" sequence="0" value="1"/>
+                <element label="Disk array cabinet" sequence="1" value="2"/>
+                <element label="iPad" sequence="2" value="3"/>
+                <element label="Laptop" sequence="3" value="4"/>
+                <element label="Monitor" sequence="4" value="5"/>
+                <element label="Printer" sequence="5" value="6"/>
+                <element label="Scanner" sequence="6" value="7"/>
+                <element label="Server" sequence="7" value="8"/>
+                <element label="Tape Drives" sequence="8" value="9"/>
+                <element label="Project" sequence="9" value="10"/>
+                <element label="Others" sequence="10" value="11"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name1" max_length="40" name="u_name1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name2" max_length="40" name="u_name2" type="string"/>
