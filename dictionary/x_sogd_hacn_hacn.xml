@@ -12,7 +12,7 @@
         <element attributes="edge_encryption_enabled=true" label="Action3" max_length="2000" name="u_action3" type="string"/>
         <element label="Activities(filtered)(Formatter)" max_length="32" name="u_activities_filtered_formatter" reference="v_cluster_transaction" type="reference"/>
         <element label="Actual arrival" max_length="40" name="u_actualarrival" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice_field="hardware_status" choice_table="cmdb_ci_hardware" label="Asset No" max_length="40" name="u_assetno" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Assign To" mandatory="true" max_length="40" name="u_assignto" type="string">
             <choice>
@@ -128,7 +128,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Create Note" max_length="40" name="u_createnote" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="District" max_length="40" name="u_district1" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="District" max_length="40" name="u_district1" type="string"/>
         <element label="Effective Date" max_length="40" name="u_effectivedate" type="glide_date_time"/>
         <element label="Effective Date" max_length="40" name="u_effective_date" read_only="true" type="glide_date"/>
         <element label="End Time" max_length="40" name="u_endtime" type="glide_date_time"/>
