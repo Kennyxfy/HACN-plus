@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="sys_import_set_row" label="Imp Tmpl Alm Hardware" max_length="40" name="u_imp_tmpl_alm_hardware" type="collection">
+    <element extends="sys_import_set_row" label="Imp Tmpl Alm Hardware" max_length="40" name="u_imp_tmpl_alm_hardware" sizeclass="7786" type="collection">
         <element attributes="import_attribute_name=Acquisition method,edge_encryption_enabled=true" label="Acquisition method" max_length="40" name="u_acquisition_method" type="string"/>
         <element attributes="import_attribute_name=Asset tag,edge_encryption_enabled=true" label="Asset tag" max_length="40" name="u_asset_tag" type="string"/>
         <element attributes="import_attribute_name=Assigned,edge_encryption_enabled=true" label="Assigned" max_length="40" name="u_assigned" type="string"/>

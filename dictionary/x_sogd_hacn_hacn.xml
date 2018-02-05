@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="22" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="32" type="collection">
         <element label="Activities(filtered)(Formatter)" max_length="4000" name="activities_filtered_formatter" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No." max_length="40" name="serial_no" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No.1" max_length="40" name="serial_no_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No.2" max_length="40" name="serial_no_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No.3" max_length="40" name="serial_no_3" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Action" max_length="2000" name="u_action" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Action" mandatory="true" max_length="2000" name="u_action" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action1" max_length="2000" name="u_action1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action2" max_length="2000" name="u_action2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Action3" max_length="2000" name="u_action3" type="string"/>
@@ -183,7 +183,7 @@
                 <element label="Others" sequence="10" value="11"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="u_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name1" max_length="40" name="u_name1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name2" max_length="40" name="u_name2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name3" max_length="40" name="u_name3" type="string"/>
@@ -347,7 +347,7 @@
                 <element label="X" sequence="5" value="1"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Trip0" max_length="40" name="u_trip0" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Trip0" mandatory="true" max_length="40" name="u_trip0" type="string">
             <choice>
                 <element label="Advice" sequence="0" value="2"/>
                 <element label="Cancel" sequence="1" value="3"/>
@@ -411,7 +411,7 @@
                 <element label="X" sequence="11" value="1"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="User ID" max_length="40" name="u_userid" reference="u_ims_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="User ID" mandatory="true" max_length="40" name="u_userid" reference="u_ims_user" type="reference"/>
         <element label="User ID1" max_length="32" name="u_userid1" reference="u_ims_user" type="reference"/>
         <element label="User ID2" max_length="32" name="u_userid2" reference="u_ims_user" type="reference"/>
         <element label="User ID3" max_length="32" name="u_userid3" reference="u_ims_user" type="reference"/>
