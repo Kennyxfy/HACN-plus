@@ -34,7 +34,7 @@ function showCenteEmailTemplate(){
 function sendHkItSupportTeam(){
 	var body="Dear Center, %0d%0a %0d%0a";
 	body+='Please kindly follow up the ticket ASAP.%0d%0a %0d%0a';
-	body+="SO No："+g_form.getValue('u_sogticketno')+" %0d%0a";
+	body+="SO No："+g_form.getValue('u_sog_ticket_no')+" %0d%0a";
 	body+="Created By："+g_form.getValue('sys_created_by')+"  %0d%0a";
 	body+="CUSTOMER：恒生银行有限公司 %0d%0a";
 	body+="Center： "+g_form.getValue('u_center')+"%0d%0a %0d%0a";
@@ -90,7 +90,7 @@ function getTwo(num){
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2472afeedb3e8300d13efa9ebf96196d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Center Email</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -98,7 +98,7 @@ function getTwo(num){
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_ui_action_2472afeedb3e8300d13efa9ebf96196d</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2017-12-08 01:45:26</sys_updated_on>
+        <sys_updated_on>2018-02-06 07:08:00</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>true</ui16_compatible>
