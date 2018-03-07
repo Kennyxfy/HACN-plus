@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="274" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="285" type="collection">
         <element label="Activities(filtered)(Formatter)" max_length="4000" name="activities_filtered_formatter" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No." max_length="40" name="serial_no" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No.1" max_length="40" name="serial_no_1" type="string"/>
@@ -50,35 +50,35 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Cat1" mandatory="true" max_length="40" name="u_cat1" type="string">
             <choice>
-                <element label="Hardware" sequence="0" value="1"/>
-                <element label="Software" sequence="1" value="3"/>
-                <element label="Service" sequence="3" value="2"/>
+                <element label="Hardware" sequence="0" value="Hardware"/>
+                <element label="Software" sequence="1" value="Software"/>
+                <element label="Service" sequence="3" value="Service"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_cat1" dependent_on_field="u_cat1" label="Cat2" mandatory="true" max_length="40" name="u_cat2" type="string" use_dependent_field="true">
             <choice>
-                <element dependent_value="1" label="Desktop" sequence="0" value="8"/>
-                <element dependent_value="1" label="Laptop" sequence="1" value="15"/>
-                <element dependent_value="1" label="Server" sequence="2" value="22"/>
-                <element dependent_value="1" label="Printer" sequence="3" value="21"/>
-                <element dependent_value="1" label="Monitor" sequence="5" value="16"/>
-                <element dependent_value="1" label="POS" sequence="6" value="1"/>
-                <element dependent_value="1" label="Storage" sequence="7" value="24"/>
-                <element dependent_value="1" label="General" sequence="8" value="11"/>
-                <element dependent_value="3" label="OS" sequence="10" value="19"/>
-                <element dependent_value="3" label="POS" sequence="11" value="2"/>
-                <element dependent_value="3" label="Office" sequence="12" value="18"/>
-                <element dependent_value="3" label="Antivirus" sequence="15" value="5"/>
-                <element dependent_value="3" label="Network Setting" sequence="16" value="17"/>
-                <element dependent_value="3" label="Driver" sequence="17" value="9"/>
-                <element dependent_value="3" label="Internet Explorer" sequence="18" value="14"/>
-                <element dependent_value="3" label="Other" sequence="19" value="4"/>
-                <element dependent_value="2" label="Install" sequence="21" value="13"/>
-                <element dependent_value="2" label="Calling" sequence="22" value="6"/>
-                <element dependent_value="2" label="Health Check" sequence="23" value="12"/>
-                <element dependent_value="2" label="Delivery" sequence="24" value="7"/>
-                <element dependent_value="2" label="Standby" sequence="25" value="23"/>
-                <element dependent_value="2" label="Other" sequence="26" value="3"/>
+                <element dependent_value="Hardware" label="Desktop" sequence="0" value="Desktop"/>
+                <element dependent_value="Hardware" label="Laptop" sequence="1" value="Laptop"/>
+                <element dependent_value="Hardware" label="Server" sequence="2" value="Server"/>
+                <element dependent_value="Hardware" label="Printer" sequence="3" value="Printer"/>
+                <element dependent_value="Hardware" label="Monitor" sequence="5" value="Monitor"/>
+                <element dependent_value="Hardware" label="POS Hardware" sequence="6" value="POS Hardware"/>
+                <element dependent_value="Hardware" label="Storage" sequence="7" value="Storage"/>
+                <element dependent_value="Hardware" label="General" sequence="8" value="General"/>
+                <element dependent_value="Software" label="OS" sequence="10" value="OS"/>
+                <element dependent_value="Service" label="POS" sequence="11" value="POS"/>
+                <element dependent_value="Software" label="Office" sequence="12" value="Office"/>
+                <element dependent_value="Software" label="Antivirus" sequence="15" value="Antivirus"/>
+                <element dependent_value="Software" label="Network Setting" sequence="16" value="Network Setting"/>
+                <element dependent_value="Software" label="Driver" sequence="17" value="Driver"/>
+                <element dependent_value="Software" label="Internet Explorer" sequence="18" value="Internet Explorer"/>
+                <element dependent_value="Service" label="Other Service" sequence="19" value="Other Service"/>
+                <element dependent_value="Service" label="Install" sequence="21" value="Install"/>
+                <element dependent_value="Service" label="Calling" sequence="22" value="Calling"/>
+                <element dependent_value="Service" label="Health Check" sequence="23" value="Health Check"/>
+                <element dependent_value="Service" label="Delivery" sequence="24" value="Delivery"/>
+                <element dependent_value="Service" label="Standby" sequence="25" value="Standby"/>
+                <element dependent_value="Software" label="Other Software" sequence="26" value="Other Software"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Center" max_length="40" name="u_center" read_only="true" type="string"/>
