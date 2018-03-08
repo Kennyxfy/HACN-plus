@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>00010620db100300d13efa9ebf9619bf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="alter_type" table="sys_schema_change" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Add Column(s)</label>
+            <language>en</language>
+            <name>sys_schema_change</name>
+            <sequence>100</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8010620db100300d13efa9ebf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+            <value>add_columns</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>列の追加</label>
+            <language>ja</language>
+            <name>sys_schema_change</name>
+            <sequence>100</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68170b60db280b00d13efa9ebf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:57</sys_updated_on>
+            <value>add_columns</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>添加列</label>
+            <language>zh</language>
+            <name>sys_schema_change</name>
+            <sequence>100</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4b517a40f2cc3008e6805ace1050e53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:51</sys_updated_on>
+            <value>add_columns</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Create Index(es)</label>
+            <language>en</language>
+            <name>sys_schema_change</name>
+            <sequence>200</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c010620db100300d13efa9ebf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+            <value>create_indexes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>インデックスの作成</label>
+            <language>ja</language>
+            <name>sys_schema_change</name>
+            <sequence>200</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c170b60db280b00d13efa9ebf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:57</sys_updated_on>
+            <value>create_indexes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>创建索引</label>
+            <language>zh</language>
+            <name>sys_schema_change</name>
+            <sequence>200</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60b517a40f2cc3008e6805ace1050e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:51</sys_updated_on>
+            <value>create_indexes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Drop Index</label>
+            <language>en</language>
+            <name>sys_schema_change</name>
+            <sequence>250</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c010620db100300d13efa9ebf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+            <value>drop_index</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>インデックスの削除</label>
+            <language>ja</language>
+            <name>sys_schema_change</name>
+            <sequence>250</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6570324db280b00d13efa9ebf961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:10</sys_updated_on>
+            <value>drop_index</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>删除索引</label>
+            <language>zh</language>
+            <name>sys_schema_change</name>
+            <sequence>250</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:37:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>faf513280f2cc3008e6805ace1050ecd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:37:05</sys_updated_on>
+            <value>drop_index</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Modify Column</label>
+            <language>en</language>
+            <name>sys_schema_change</name>
+            <sequence>300</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c010620db100300d13efa9ebf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+            <value>modify_column</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>修改列</label>
+            <language>zh</language>
+            <name>sys_schema_change</name>
+            <sequence>300</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8b517a40f2cc3008e6805ace1050e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:51</sys_updated_on>
+            <value>modify_column</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>列の変更</label>
+            <language>ja</language>
+            <name>sys_schema_change</name>
+            <sequence>300</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0170b60db280b00d13efa9ebf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:57</sys_updated_on>
+            <value>modify_column</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Drop Column</label>
+            <language>en</language>
+            <name>sys_schema_change</name>
+            <sequence>400</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc010620db100300d13efa9ebf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+            <value>drop_column</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>列の削除</label>
+            <language>ja</language>
+            <name>sys_schema_change</name>
+            <sequence>400</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac170b60db280b00d13efa9ebf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:57</sys_updated_on>
+            <value>drop_column</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>删除列</label>
+            <language>zh</language>
+            <name>sys_schema_change</name>
+            <sequence>400</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecb517a40f2cc3008e6805ace1050e53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:51</sys_updated_on>
+            <value>drop_column</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Compact Table</label>
+            <language>en</language>
+            <name>sys_schema_change</name>
+            <sequence>500</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00010620db100300d13efa9ebf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+            <value>compact_table</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>テーブルを圧縮する</label>
+            <language>ja</language>
+            <name>sys_schema_change</name>
+            <sequence>500</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20170b60db280b00d13efa9ebf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:57</sys_updated_on>
+            <value>compact_table</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>压缩表</label>
+            <language>zh</language>
+            <name>sys_schema_change</name>
+            <sequence>500</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6cb517a40f2cc3008e6805ace1050e52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:51</sys_updated_on>
+            <value>compact_table</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Create Table</label>
+            <language>en</language>
+            <name>sys_schema_change</name>
+            <sequence>600</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40010620db100300d13efa9ebf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+            <value>create_table</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>テーブルの作成</label>
+            <language>ja</language>
+            <name>sys_schema_change</name>
+            <sequence>600</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0170b60db280b00d13efa9ebf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:57</sys_updated_on>
+            <value>create_table</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>创建表</label>
+            <language>zh</language>
+            <name>sys_schema_change</name>
+            <sequence>600</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28b517a40f2cc3008e6805ace1050e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:51</sys_updated_on>
+            <value>create_table</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Drop Table</label>
+            <language>en</language>
+            <name>sys_schema_change</name>
+            <sequence>700</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80010620db100300d13efa9ebf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+            <value>drop_table</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>テーブルの削除</label>
+            <language>ja</language>
+            <name>sys_schema_change</name>
+            <sequence>700</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64170b60db280b00d13efa9ebf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:57</sys_updated_on>
+            <value>drop_table</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>删除表</label>
+            <language>zh</language>
+            <name>sys_schema_change</name>
+            <sequence>700</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0b517a40f2cc3008e6805ace1050e56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:51</sys_updated_on>
+            <value>drop_table</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Batch Alter Table</label>
+            <language>en</language>
+            <name>sys_schema_change</name>
+            <sequence>800</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0010620db100300d13efa9ebf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+            <value>batch_alter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>一括 Alter テーブル</label>
+            <language>ja</language>
+            <name>sys_schema_change</name>
+            <sequence>800</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4170b60db280b00d13efa9ebf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:57</sys_updated_on>
+            <value>batch_alter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>批量更改表</label>
+            <language>zh</language>
+            <name>sys_schema_change</name>
+            <sequence>800</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1b557a40f2cc3008e6805ace1050eae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:55</sys_updated_on>
+            <value>batch_alter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Offrow Storage Migration</label>
+            <language>en</language>
+            <name>sys_schema_change</name>
+            <sequence>900</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04010620db100300d13efa9ebf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+            <value>offrow_storage_migration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>行外ストレージ移行</label>
+            <language>ja</language>
+            <name>sys_schema_change</name>
+            <sequence>900</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1474be0db280b00d13efa9ebf96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:52</sys_updated_on>
+            <value>offrow_storage_migration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>行外存储迁移</label>
+            <language>zh</language>
+            <name>sys_schema_change</name>
+            <sequence>900</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ade59be40f2cc3008e6805ace1050e30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:44</sys_updated_on>
+            <value>offrow_storage_migration</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>alter_type</element>
+            <name>sys_schema_change</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:07</sys_created_on>
+            <sys_id>08010620db100300d13efa9ebf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>alter_type</sys_name>
+            <sys_package display_value="System (apps/system_log)" source="apps/system_log">80010620db100300d13efa9ebf961995</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_schema_change_alter_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:07</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:01:06</sys_created_on>
+        <sys_id>04cf2f3f0f20d7005969b57ce1050e3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compact Table</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_04cf2f3f0f20d7005969b57ce1050e3d</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:01:06</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

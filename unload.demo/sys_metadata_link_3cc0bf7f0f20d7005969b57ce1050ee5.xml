@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>0111d869dbd08300d13efa9ebf9619ca</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="engagement" table="dmn_stakeholder_register" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supportive</label>
+            <language>en</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:35:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd11d869dbd08300d13efa9ebf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:35:03</sys_updated_on>
+            <value>supportive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>支持</label>
+            <language>zh</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54651fe00f2cc3008e6805ace1050eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:28</sys_updated_on>
+            <value>supportive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>支援</label>
+            <language>ja</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3be60b20db280b00d13efa9ebf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:22</sys_updated_on>
+            <value>supportive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Resistant</label>
+            <language>en</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:35:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0111d869dbd08300d13efa9ebf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:35:03</sys_updated_on>
+            <value>resistant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>抵制</label>
+            <language>zh</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c651fe00f2cc3008e6805ace1050eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:28</sys_updated_on>
+            <value>resistant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>耐性</label>
+            <language>ja</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73e60b20db280b00d13efa9ebf9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:22</sys_updated_on>
+            <value>resistant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Neutral</label>
+            <language>en</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:35:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4111d869dbd08300d13efa9ebf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:35:03</sys_updated_on>
+            <value>neutral</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ニュートラル</label>
+            <language>ja</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bbe60b20db280b00d13efa9ebf9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:22</sys_updated_on>
+            <value>neutral</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>中立</label>
+            <language>zh</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4651fe00f2cc3008e6805ace1050eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:28</sys_updated_on>
+            <value>neutral</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Leading</label>
+            <language>en</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:35:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8111d869dbd08300d13efa9ebf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:35:03</sys_updated_on>
+            <value>leading</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>主导</label>
+            <language>zh</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c651fe00f2cc3008e6805ace1050eea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:28</sys_updated_on>
+            <value>leading</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>先頭</label>
+            <language>ja</language>
+            <name>dmn_stakeholder_register</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3e60b20db280b00d13efa9ebf9619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:22</sys_updated_on>
+            <value>leading</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>engagement</element>
+            <name>dmn_stakeholder_register</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:35:03</sys_created_on>
+            <sys_id>8511d869dbd08300d13efa9ebf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>engagement</sys_name>
+            <sys_package display_value="Demand Management" source="com.snc.demand_management">fc11d869dbd08300d13efa9ebf961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_dmn_stakeholder_register_engagement</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:35:03</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:05:31</sys_created_on>
+        <sys_id>3cc0bf7f0f20d7005969b57ce1050ee5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resistant</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_3cc0bf7f0f20d7005969b57ce1050ee5</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:05:31</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

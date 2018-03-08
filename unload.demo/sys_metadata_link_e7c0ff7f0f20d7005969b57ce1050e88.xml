@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>01174b60db280b00d13efa9ebf961976</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="resolution_status" table="sys_upgrade_history_log" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Reviewed</label>
+            <language>en</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2f08220db100300d13efa9ebf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:00</sys_updated_on>
+            <value>not_reviewed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>未レビュー</label>
+            <language>ja</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9174b60db280b00d13efa9ebf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:00</sys_updated_on>
+            <value>not_reviewed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>未评审</label>
+            <language>zh</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ac553e40f2cc3008e6805ace1050ecb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:17</sys_updated_on>
+            <value>not_reviewed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reviewed</label>
+            <language>en</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16f08220db100300d13efa9ebf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:00</sys_updated_on>
+            <value>reviewed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>レビュー済み</label>
+            <language>ja</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81174b60db280b00d13efa9ebf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:00</sys_updated_on>
+            <value>reviewed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已评审</label>
+            <language>zh</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ec553e40f2cc3008e6805ace1050ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:17</sys_updated_on>
+            <value>reviewed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reviewed and Merged</label>
+            <language>en</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56f08220db100300d13efa9ebf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:00</sys_updated_on>
+            <value>reviewed_merged</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>レビュー済みかつ結合済み</label>
+            <language>ja</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05174b60db280b00d13efa9ebf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:00</sys_updated_on>
+            <value>reviewed_merged</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已评审且已合并</label>
+            <language>zh</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6c553e40f2cc3008e6805ace1050eca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:17</sys_updated_on>
+            <value>reviewed_merged</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reviewed and Retained</label>
+            <language>en</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96f08220db100300d13efa9ebf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:00</sys_updated_on>
+            <value>reviewed_retained</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>レビュー済みかつ保持済み</label>
+            <language>ja</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01174b60db280b00d13efa9ebf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:00</sys_updated_on>
+            <value>reviewed_retained</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已评审且已保留</label>
+            <language>zh</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76c553e40f2cc3008e6805ace1050ec9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:17</sys_updated_on>
+            <value>reviewed_retained</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reviewed and Reverted</label>
+            <language>en</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6f08220db100300d13efa9ebf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:00</sys_updated_on>
+            <value>reviewed_reverted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>レビュー済みかつ復元済み</label>
+            <language>ja</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49174b60db280b00d13efa9ebf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:00</sys_updated_on>
+            <value>reviewed_reverted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已评审且已恢复</label>
+            <language>zh</language>
+            <name>sys_upgrade_history_log</name>
+            <sequence>5</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2c553e40f2cc3008e6805ace1050ecc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:17</sys_updated_on>
+            <value>reviewed_reverted</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>resolution_status</element>
+            <name>sys_upgrade_history_log</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:10:00</sys_created_on>
+            <sys_id>daf08220db100300d13efa9ebf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>resolution_status</sys_name>
+            <sys_package display_value="System (apps/system2)" source="apps/system2">9ef08220db100300d13efa9ebf9619a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_upgrade_history_log_resolution_status</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:10:00</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:05:41</sys_created_on>
+        <sys_id>e7c0ff7f0f20d7005969b57ce1050e88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>レビュー済みかつ保持済み</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_e7c0ff7f0f20d7005969b57ce1050e88</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:05:41</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

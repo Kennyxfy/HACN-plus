@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>00b5d3a40f2cc3008e6805ace1050e54</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="grc_ucf_update_status" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>要求済み</label>
+            <language>ja</language>
+            <name>grc_ucf_update_status</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7cf68b20db280b00d13efa9ebf96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:26</sys_updated_on>
+            <value>Requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>请求时间</label>
+            <language>zh</language>
+            <name>grc_ucf_update_status</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48b5d3a40f2cc3008e6805ace1050e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:49</sys_updated_on>
+            <value>Requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已获批</label>
+            <language>zh</language>
+            <name>grc_ucf_update_status</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4b5d3a40f2cc3008e6805ace1050e53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:49</sys_updated_on>
+            <value>Approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>承認</label>
+            <language>ja</language>
+            <name>grc_ucf_update_status</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcf68b20db280b00d13efa9ebf961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:26</sys_updated_on>
+            <value>Approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>却下</label>
+            <language>ja</language>
+            <name>grc_ucf_update_status</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38f68b20db280b00d13efa9ebf961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:26</sys_updated_on>
+            <value>Rejected</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已拒绝</label>
+            <language>zh</language>
+            <name>grc_ucf_update_status</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80b5d3a40f2cc3008e6805ace1050e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:49</sys_updated_on>
+            <value>Rejected</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>更新时间</label>
+            <language>zh</language>
+            <name>grc_ucf_update_status</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8cb5d3a40f2cc3008e6805ace1050e52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:49</sys_updated_on>
+            <value>Updated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>更新済み</label>
+            <language>ja</language>
+            <name>grc_ucf_update_status</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0f68b20db280b00d13efa9ebf96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:26</sys_updated_on>
+            <value>Updated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>キャンセル</label>
+            <language>ja</language>
+            <name>grc_ucf_update_status</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4f68b20db280b00d13efa9ebf961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:26</sys_updated_on>
+            <value>Cancelled</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已取消</label>
+            <language>zh</language>
+            <name>grc_ucf_update_status</name>
+            <sequence>5</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00b5d3a40f2cc3008e6805ace1050e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:49</sys_updated_on>
+            <value>Cancelled</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>grc_ucf_update_status</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:26</sys_created_on>
+            <sys_id>38f68b20db280b00d13efa9ebf96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="I18N: Japanese Translations" source="com.snc.i18n.japanese">d32507a4dbe40b00d13efa9ebf9619d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_grc_ucf_update_status_status</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:04:06</sys_created_on>
+        <sys_id>9070fb7f0f20d7005969b57ce1050e88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>已取消</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_9070fb7f0f20d7005969b57ce1050e88</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:04:06</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

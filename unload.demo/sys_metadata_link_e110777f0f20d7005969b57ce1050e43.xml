@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>005517e00f2cc3008e6805ace1050e90</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="cmdb_ci_database" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB2</label>
+            <language>en</language>
+            <name>cmdb_ci_database</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20e2c66cdb100300d13efa9ebf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:21</sys_updated_on>
+            <value>DB2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB2 UDB</label>
+            <language>en</language>
+            <name>cmdb_ci_database</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60e2c66cdb100300d13efa9ebf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:21</sys_updated_on>
+            <value>DB2 UDB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB2 z/OS</label>
+            <language>en</language>
+            <name>cmdb_ci_database</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0e2c66cdb100300d13efa9ebf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:21</sys_updated_on>
+            <value>DB2 z/OS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Microsoft SQL Server</label>
+            <language>en</language>
+            <name>cmdb_ci_database</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24e2c66cdb100300d13efa9ebf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:21</sys_updated_on>
+            <value>Microsoft SQL Server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MySQL</label>
+            <language>en</language>
+            <name>cmdb_ci_database</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0e2c66cdb100300d13efa9ebf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:21</sys_updated_on>
+            <value>MySQL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oracle</label>
+            <language>en</language>
+            <name>cmdb_ci_database</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ece2c66cdb100300d13efa9ebf9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:21</sys_updated_on>
+            <value>Oracle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Postgres SQL</label>
+            <language>en</language>
+            <name>cmdb_ci_database</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64e2c66cdb100300d13efa9ebf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:21</sys_updated_on>
+            <value>Postgres SQL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sybase</label>
+            <language>en</language>
+            <name>cmdb_ci_database</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4e2c66cdb100300d13efa9ebf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:21</sys_updated_on>
+            <value>Sybase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB2</label>
+            <language>zh</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>005517e00f2cc3008e6805ace1050e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:10</sys_updated_on>
+            <value>DB2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB2</label>
+            <language>ja</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87d64fecdbe40b00d13efa9ebf961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:03</sys_updated_on>
+            <value>DB2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB2 UDB</label>
+            <language>ja</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03d64fecdbe40b00d13efa9ebf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:03</sys_updated_on>
+            <value>DB2 UDB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB2 UDB</label>
+            <language>zh</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>045517e00f2cc3008e6805ace1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:10</sys_updated_on>
+            <value>DB2 UDB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB2 z/OS</label>
+            <language>zh</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>405517e00f2cc3008e6805ace1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:10</sys_updated_on>
+            <value>DB2 z/OS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB2 z/OS</label>
+            <language>ja</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fd64fecdbe40b00d13efa9ebf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:03</sys_updated_on>
+            <value>DB2 z/OS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Microsoft SQL Server</label>
+            <language>zh</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>885517e00f2cc3008e6805ace1050e8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:10</sys_updated_on>
+            <value>Microsoft SQL Server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Microsoft SQL Server</label>
+            <language>ja</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7d64fecdbe40b00d13efa9ebf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:03</sys_updated_on>
+            <value>Microsoft SQL Server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MySQL</label>
+            <language>ja</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3d64fecdbe40b00d13efa9ebf961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:03</sys_updated_on>
+            <value>MySQL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MySQL</label>
+            <language>zh</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c45517e00f2cc3008e6805ace1050e89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:10</sys_updated_on>
+            <value>MySQL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oracle</label>
+            <language>ja</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43d64fecdbe40b00d13efa9ebf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:03</sys_updated_on>
+            <value>Oracle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oracle</label>
+            <language>zh</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c05517e00f2cc3008e6805ace1050e92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:10</sys_updated_on>
+            <value>Oracle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Postgres SQL</label>
+            <language>ja</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07d64fecdbe40b00d13efa9ebf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:03</sys_updated_on>
+            <value>Postgres SQL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Postgres SQL</label>
+            <language>zh</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>845517e00f2cc3008e6805ace1050e94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:10</sys_updated_on>
+            <value>Postgres SQL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sybase</label>
+            <language>zh</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c5517e00f2cc3008e6805ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:10</sys_updated_on>
+            <value>Sybase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sybase</label>
+            <language>ja</language>
+            <name>cmdb_ci_database</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bd64fecdbe40b00d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:03</sys_updated_on>
+            <value>Sybase</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>cmdb_ci_database</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:21</sys_created_on>
+            <sys_id>b8e2c66cdb100300d13efa9ebf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">4922cee4db100300d13efa9ebf9619fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_database_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:02:33</sys_created_on>
+        <sys_id>e110777f0f20d7005969b57ce1050e43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DB2</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_e110777f0f20d7005969b57ce1050e43</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:02:33</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

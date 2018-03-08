@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>003703e0db280b00d13efa9ebf961998</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="mode" table="var__m_58b212a80ab301537c7a760ef8359f88" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>如果值大于或等于间隔的一半，则向上舍入；否则，向下舍入</hint>
+            <inactive>false</inactive>
+            <label>半上</label>
+            <language>zh</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ada59f640f2cc3008e6805ace1050ede</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>half_up</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>値が間隔の半分以上の場合は切り上げ、それ以外の場合は切り捨てます</hint>
+            <inactive>false</inactive>
+            <label>半分以上は切り上げ</label>
+            <language>ja</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c43703e0db280b00d13efa9ebf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>half_up</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>如果值大于间隔的一半，则向上舍入；否则，向下舍入</hint>
+            <inactive>false</inactive>
+            <label>半下</label>
+            <language>zh</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69a59f640f2cc3008e6805ace1050ee0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>half_down</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>値が間隔の半分より大きい場合は切り上げ、それ以外の場合は切り捨てます</hint>
+            <inactive>false</inactive>
+            <label>半分以下</label>
+            <language>ja</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>483703e0db280b00d13efa9ebf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>half_down</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>値が間隔の半分以上の場合はゼロとは逆の方向に切り上げ、それ以外の場合は切り捨てます</hint>
+            <inactive>false</inactive>
+            <label>半分以上</label>
+            <language>ja</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>043703e0db280b00d13efa9ebf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>half_away</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>如果值大于或等于间隔的一半，则向远离零的方向舍入；否则，向趋于零的方向舍入</hint>
+            <inactive>false</inactive>
+            <label>半离</label>
+            <language>zh</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29a59f640f2cc3008e6805ace1050edb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>half_away</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>値が間隔の半分より大きい場合はゼロとは逆の方向に切り上げ、それ以外の場合は切り捨てます</hint>
+            <inactive>false</inactive>
+            <label>半分以下は切り捨て</label>
+            <language>ja</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>443703e0db280b00d13efa9ebf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>half_toward</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>如果值大于间隔的一半，则向远离零的方向舍入；否则，向趋于零的方向舍入</hint>
+            <inactive>false</inactive>
+            <label>半向</label>
+            <language>zh</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9a59f640f2cc3008e6805ace1050edc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>half_toward</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>如果值大于间隔的一半，则向上舍入；如果值等于间隔的一半并为偶数，则向上舍入；否则，向下舍入</hint>
+            <inactive>false</inactive>
+            <label>半偶</label>
+            <language>zh</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>5</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2da59f640f2cc3008e6805ace1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>half_even</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>値が間隔の半分より大きい場合と、値が間隔の半分に等しく、かつ偶数である場合は切り上げ、それ以外の場合は切り捨てます</hint>
+            <inactive>false</inactive>
+            <label>最近接偶数丸め</label>
+            <language>ja</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>803703e0db280b00d13efa9ebf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>half_even</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>如果值大于间隔的一半，则向上舍入；如果值等于间隔的一半并为奇数，则向上舍入；否则，向下舍入</hint>
+            <inactive>false</inactive>
+            <label>半奇</label>
+            <language>zh</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>6</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5a59f640f2cc3008e6805ace1050edf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>half_odd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>値が間隔の半分より大きい場合と、値が間隔の半分に等しく、かつ奇数である場合は切り上げ、それ以外の場合は切り捨てます</hint>
+            <inactive>false</inactive>
+            <label>奇数切り上げ</label>
+            <language>ja</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c3703e0db280b00d13efa9ebf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>half_odd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>値が間隔の整数倍に満たない場合は切り上げます</hint>
+            <inactive>false</inactive>
+            <label>上</label>
+            <language>ja</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c3703e0db280b00d13efa9ebf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>up</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>如果值不等于间隔的整数倍，则向上舍入</hint>
+            <inactive>false</inactive>
+            <label>向上</label>
+            <language>zh</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>7</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61a59f640f2cc3008e6805ace1050edc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>up</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>値が間隔の整数倍に満たない場合は切り捨てます</hint>
+            <inactive>false</inactive>
+            <label>下</label>
+            <language>ja</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>003703e0db280b00d13efa9ebf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>down</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>如果值不等于间隔的整数倍，则向下舍入</hint>
+            <inactive>false</inactive>
+            <label>向下</label>
+            <language>zh</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>8</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1a59f640f2cc3008e6805ace1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>down</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>値が間隔の整数倍に満たない場合はゼロとは逆の方向に切り上げます</hint>
+            <inactive>false</inactive>
+            <label>アウェー</label>
+            <language>ja</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c83703e0db280b00d13efa9ebf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>away</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>如果值不等于间隔的整数倍，则向远离零的方向舍入</hint>
+            <inactive>false</inactive>
+            <label>离开</label>
+            <language>zh</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>9</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65a59f640f2cc3008e6805ace1050ede</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>away</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>値が間隔の整数倍に満たない場合はゼロの方向に切り捨てます</hint>
+            <inactive>false</inactive>
+            <label>切り捨て</label>
+            <language>ja</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>883703e0db280b00d13efa9ebf961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>toward</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode</element>
+            <hint>如果值不等于间隔的整数倍，则向趋于零的方向舍入</hint>
+            <inactive>false</inactive>
+            <label>向</label>
+            <language>zh</language>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sequence>10</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21a59f640f2cc3008e6805ace1050ee0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>toward</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>mode</element>
+            <name>var__m_58b212a80ab301537c7a760ef8359f88</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_id>003703e0db280b00d13efa9ebf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>mode</sys_name>
+            <sys_package display_value="I18N: Japanese Translations" source="com.snc.i18n.japanese">d32507a4dbe40b00d13efa9ebf9619d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_var__m_58b212a80ab301537c7a760ef8359f88_mode</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:02:20</sys_created_on>
+        <sys_id>5a00377f0f20d7005969b57ce1050ec8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>下</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_5a00377f0f20d7005969b57ce1050ec8</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:02:20</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

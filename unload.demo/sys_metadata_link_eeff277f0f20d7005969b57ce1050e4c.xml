@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>003703e0db280b00d13efa9ebf961968</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="reject_handling" table="var__m_354e911f0a0a029a00e6a0e6ad74206f" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reject_handling</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reject the approval</label>
+            <language>en</language>
+            <name>var__m_354e911f0a0a029a00e6a0e6ad74206f</name>
+            <sequence>1</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-10-30 21:57:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fc24bbb0a6a803f6f587ed6213c5eef</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-11-18 23:10:07</sys_updated_on>
+            <value>reject</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reject_handling</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>承認を却下</label>
+            <language>ja</language>
+            <name>var__m_354e911f0a0a029a00e6a0e6ad74206f</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>003703e0db280b00d13efa9ebf961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:28</sys_updated_on>
+            <value>reject</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reject_handling</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>拒绝批准</label>
+            <language>zh</language>
+            <name>var__m_354e911f0a0a029a00e6a0e6ad74206f</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99a59f640f2cc3008e6805ace1050ea2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:37</sys_updated_on>
+            <value>reject</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reject_handling</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wait for other responses before deciding</label>
+            <language>en</language>
+            <name>var__m_354e911f0a0a029a00e6a0e6ad74206f</name>
+            <sequence>2</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-10-30 21:58:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fc3618b0a6a803f048cd7ca5d7e9bc8</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-11-18 23:10:12</sys_updated_on>
+            <value>wait</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reject_handling</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>决定前等待其他响应</label>
+            <language>zh</language>
+            <name>var__m_354e911f0a0a029a00e6a0e6ad74206f</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1a59f640f2cc3008e6805ace1050ea3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:37</sys_updated_on>
+            <value>wait</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reject_handling</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>決定前に他の回答を待つ</label>
+            <language>ja</language>
+            <name>var__m_354e911f0a0a029a00e6a0e6ad74206f</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>483703e0db280b00d13efa9ebf961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:28</sys_updated_on>
+            <value>wait</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>reject_handling</element>
+            <name>var__m_354e911f0a0a029a00e6a0e6ad74206f</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 12:24:51</sys_created_on>
+            <sys_id>f2121a68db540300d13efa9ebf9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>reject_handling</sys_name>
+            <sys_package display_value="Workflow Authoring Tools" source="com.glideapp.workflow.authoring">f20586e8db500300d13efa9ebf961969</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_var__m_354e911f0a0a029a00e6a0e6ad74206f_reject_handling</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 12:24:51</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:02:04</sys_created_on>
+        <sys_id>eeff277f0f20d7005969b57ce1050e4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>承認を却下</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_eeff277f0f20d7005969b57ce1050e4c</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:02:04</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

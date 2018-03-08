@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>00120ae4db100300d13efa9ebf96190c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="schedule" table="usageanalytics_count" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>schedule</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Daily</label>
+            <language>en</language>
+            <name>usageanalytics_count</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40120ae4db100300d13efa9ebf96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+            <value>Daily</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>schedule</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monthly</label>
+            <language>en</language>
+            <name>usageanalytics_count</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00120ae4db100300d13efa9ebf96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+            <value>Monthly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>schedule</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>日次</label>
+            <language>ja</language>
+            <name>usageanalytics_count</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b2703e0db280b00d13efa9ebf96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:28</sys_updated_on>
+            <value>Daily</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>schedule</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>每天</label>
+            <language>zh</language>
+            <name>usageanalytics_count</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57a553a40f2cc3008e6805ace1050ed0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:46</sys_updated_on>
+            <value>Daily</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>schedule</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>月次</label>
+            <language>ja</language>
+            <name>usageanalytics_count</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff2703e0db280b00d13efa9ebf96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:28</sys_updated_on>
+            <value>Monthly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>schedule</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>每月</label>
+            <language>zh</language>
+            <name>usageanalytics_count</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fa553a40f2cc3008e6805ace1050ed0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:46</sys_updated_on>
+            <value>Monthly</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>schedule</element>
+            <name>usageanalytics_count</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_id>44120ae4db100300d13efa9ebf96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>schedule</sys_name>
+            <sys_package display_value="Usage Analytics" source="com.glide.usageanalytics">af02c6e4db100300d13efa9ebf961992</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_usageanalytics_count_schedule</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:01:12</sys_created_on>
+        <sys_id>71cf2f3f0f20d7005969b57ce1050e90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Monthly</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_71cf2f3f0f20d7005969b57ce1050e90</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:01:12</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

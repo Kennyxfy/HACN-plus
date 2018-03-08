@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>00f55fe40f2cc3008e6805ace1050ecf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="group_type" table="cmdb_group" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>group_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Default</label>
+            <language>en</language>
+            <name>cmdb_group</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:22:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8cf3ce24db500300d13efa9ebf9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:22:56</sys_updated_on>
+            <value>default</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>group_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Health</label>
+            <language>en</language>
+            <name>cmdb_group</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:22:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccf3ce24db500300d13efa9ebf9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:22:56</sys_updated_on>
+            <value>health</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>group_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>デフォルト</label>
+            <language>ja</language>
+            <name>cmdb_group</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb474fe0db280b00d13efa9ebf961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:00</sys_updated_on>
+            <value>default</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>group_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>默认值</label>
+            <language>zh</language>
+            <name>cmdb_group</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00f55fe40f2cc3008e6805ace1050ecf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:54</sys_updated_on>
+            <value>default</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>group_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>健康</label>
+            <language>ja</language>
+            <name>cmdb_group</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3474fe0db280b00d13efa9ebf961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:00</sys_updated_on>
+            <value>health</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>group_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>卫生</label>
+            <language>zh</language>
+            <name>cmdb_group</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4f55fe40f2cc3008e6805ace1050ece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:54</sys_updated_on>
+            <value>health</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>group_type</element>
+            <name>cmdb_group</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:22:56</sys_created_on>
+            <sys_id>c0f3ce24db500300d13efa9ebf9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>group_type</sys_name>
+            <sys_package display_value="CMDB Group" source="com.snc.cmdb.group">33e3ce24db500300d13efa9ebf96198d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmdb_group_group_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:22:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:04:44</sys_created_on>
+        <sys_id>e1903f7f0f20d7005969b57ce1050ed6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>默认值</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_e1903f7f0f20d7005969b57ce1050ed6</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:04:44</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

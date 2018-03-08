@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>0082cdf50fdc43008e6805ace1050e02</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="DELETE" field="u_root_cause_lv2" table="u_coach_inc" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Hardware Broken</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3rd Party vendor devices</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>10</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8482cdf50fdc43008e6805ace1050e0c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:51:27</sys_updated_on>
+            <value>3rd Party vendor devices</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Authorization</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Account/Password Expire</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>10</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7728df50fdc43008e6805ace1050ef0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:51:38</sys_updated_on>
+            <value>Account/Password Expire</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Others</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Auto-resumption w/o RCA</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>10</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1082cdf50fdc43008e6805ace1050e35</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:51:48</sys_updated_on>
+            <value>Auto-resumption w/o RCA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>System Failure</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bug &amp; Weakness(enhancement required)</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>10</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c82cdf50fdc43008e6805ace1050e1a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:51:58</sys_updated_on>
+            <value>Bug &amp; Weakness(enhancement required)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Connectivity(Non-HW Failure)</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In-House Cabling issue</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>10</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0082cdf50fdc43008e6805ace1050e02</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:52:08</sys_updated_on>
+            <value>In-House Cabling issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Behavior</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mis-Operation</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>10</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88828df50fdc43008e6805ace1050ef8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:52:24</sys_updated_on>
+            <value>Mis-Operation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Authorization</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Account/Passwrod related inquiry</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>20</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04828df50fdc43008e6805ace1050ef2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:52:40</sys_updated_on>
+            <value>Account/Passwrod related inquiry</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Hardware Broken</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Coach Network Devices</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>20</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8082cdf50fdc43008e6805ace1050e0f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:52:50</sys_updated_on>
+            <value>Coach Network Devices</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>System Failure</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Interface/Tidal Job issue</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>20</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c82cdf50fdc43008e6805ace1050e1d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:53:01</sys_updated_on>
+            <value>Interface/Tidal Job issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Connectivity(Non-HW Failure)</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAN related Issue</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>20</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0882cdf50fdc43008e6805ace1050e04</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:53:11</sys_updated_on>
+            <value>LAN related Issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Behavior</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mis-Communication</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>20</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c828df50fdc43008e6805ace1050efa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:53:21</sys_updated_on>
+            <value>Mis-Communication</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Others</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Request</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>20</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5882cdf50fdc43008e6805ace1050e38</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:53:33</sys_updated_on>
+            <value>Service Request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Hardware Broken</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Coach Non-POS H/W</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>30</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc82cdf50fdc43008e6805ace1050e11</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:53:44</sys_updated_on>
+            <value>Coach Non-POS H/W</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Authorization</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incorrect Access Permission granted</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>30</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44828df50fdc43008e6805ace1050ef4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:53:56</sys_updated_on>
+            <value>Incorrect Access Permission granted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>System Failure</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Master Data Issue</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>30</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc82cdf50fdc43008e6805ace1050e20</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:54:06</sys_updated_on>
+            <value>Master Data Issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Behavior</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mis-Understanding</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>30</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0828df50fdc43008e6805ace1050efd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:54:17</sys_updated_on>
+            <value>Mis-Understanding</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Connectivity(Non-HW Failure)</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network circuit Down (WAN issue)</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>30</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4082cdf50fdc43008e6805ace1050e07</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:54:27</sys_updated_on>
+            <value>Network circuit Down (WAN issue)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Others</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Store Temp Closure</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>30</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d082cdf50fdc43008e6805ace1050e3c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:54:37</sys_updated_on>
+            <value>Store Temp Closure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Behavior</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mis-Configuration</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>40</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48828df50fdc43008e6805ace1050eff</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:54:48</sys_updated_on>
+            <value>Mis-Configuration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Authorization</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No User Provision/Access Rights</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>40</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4828df50fdc43008e6805ace1050ef6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:54:58</sys_updated_on>
+            <value>No User Provision/Access Rights</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>System Failure</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Outage</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>40</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8082cdf50fdc43008e6805ace1050e24</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:55:16</sys_updated_on>
+            <value>Outage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Hardware Broken</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>POS and peripherals</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>40</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c82cdf50fdc43008e6805ace1050e14</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:55:28</sys_updated_on>
+            <value>POS and peripherals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Connectivity(Non-HW Failure)</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Shopping Mall Outage (power etc)</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>40</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c882cdf50fdc43008e6805ace1050e09</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:55:39</sys_updated_on>
+            <value>Shopping Mall Outage (power etc)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Others</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TBC</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>40</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c82cdf50fdc43008e6805ace1050e3f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:55:50</sys_updated_on>
+            <value>TBC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>System Failure</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Polling Issue</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>50</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9482cdf50fdc43008e6805ace1050e27</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:56:01</sys_updated_on>
+            <value>Polling Issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Hardware Broken</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Printer</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>50</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c82cdf50fdc43008e6805ace1050e17</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:56:12</sys_updated_on>
+            <value>Printer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>System Failure</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Posting issue (Wrong Member/Duplicate Sequence etc)</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>60</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d882cdf50fdc43008e6805ace1050e2a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:56:23</sys_updated_on>
+            <value>Posting issue (Wrong Member/Duplicate Sequence etc)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>System Failure</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unstable/Poor Performance</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>70</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5082cdf50fdc43008e6805ace1050e2e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:56:35</sys_updated_on>
+            <value>Unstable/Poor Performance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>System Failure</dependent_value>
+            <element>u_root_cause_lv2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Windows Operation System boot failure</label>
+            <language>en</language>
+            <name>u_coach_inc</name>
+            <sequence>80</sequence>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2017-08-01 03:49:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1882cdf50fdc43008e6805ace1050e31</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2017-08-01 03:56:51</sys_updated_on>
+            <value>Windows Operation System boot failure</value>
+        </sys_choice>
+        <sys_choice_set action="DELETE">
+            <element>u_root_cause_lv2</element>
+            <name>u_coach_inc</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2018-03-07 04:03:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:03:22</sys_created_on>
+        <sys_id>a1403b7f0f20d7005969b57ce1050e81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>In-House Cabling issue</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_a1403b7f0f20d7005969b57ce1050e81</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:03:22</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

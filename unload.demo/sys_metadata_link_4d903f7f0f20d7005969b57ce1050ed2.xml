@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>00e6cfecdbe40b00d13efa9ebf9619dd</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="hardware_substatus" table="cmdb_ci_hardware" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Available</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Available</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Available</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb328a28db100300d13efa9ebf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>利用可能</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ce60320db280b00d13efa9ebf961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:07</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>利用可能</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4e60320db280b00d13efa9ebf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:07</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>利用可能</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbd6cfecdbe40b00d13efa9ebf961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>可用</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>245597e00f2cc3008e6805ace1050e10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:13</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>可用</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>985557e00f2cc3008e6805ace1050e81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>可用</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e05597e00f2cc3008e6805ace1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:13</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>installed</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In Use</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab328a28db100300d13efa9ebf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>in_use</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>installed</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>使用中</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>205597e00f2cc3008e6805ace1050e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:13</sys_updated_on>
+            <value>in_use</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>installed</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>使用中</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3bd6cfecdbe40b00d13efa9ebf96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>in_use</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lost</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f328a28db100300d13efa9ebf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>lost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已丢失</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>285557e00f2cc3008e6805ace1050ee7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>lost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>紛失</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cce60320db280b00d13efa9ebf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:07</sys_updated_on>
+            <value>lost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ordered</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>ordered</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已订购</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a85597e00f2cc3008e6805ace1050e24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:13</sys_updated_on>
+            <value>ordered</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>注文済み</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50e60320db280b00d13efa9ebf96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:07</sys_updated_on>
+            <value>ordered</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>defective</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Repairable</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63328a28db100300d13efa9ebf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>repairable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>defective</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>修理可能</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ce60320db280b00d13efa9ebf961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:07</sys_updated_on>
+            <value>repairable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>defective</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>可维修</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>645557e00f2cc3008e6805ace1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>repairable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Vendor Delivery</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>awaiting_vendor_delivery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ベンダー配送待ち</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40e6cfecdbe40b00d13efa9ebf9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>awaiting_vendor_delivery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>等待供应商交付</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>685557e00f2cc3008e6805ace1050eb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>awaiting_vendor_delivery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>defective</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Disposable</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3328a28db100300d13efa9ebf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>disposable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>defective</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>可处置</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e85557e00f2cc3008e6805ace1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>disposable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>defective</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>廃棄可能</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80e60320db280b00d13efa9ebf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:07</sys_updated_on>
+            <value>disposable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reserved</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f328a28db100300d13efa9ebf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reserved</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reserved</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>予約済み</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ce6cfecdbe40b00d13efa9ebf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>予約済み</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77d6cfecdbe40b00d13efa9ebf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>予約済み</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3d6cfecdbe40b00d13efa9ebf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已保留</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c5557e00f2cc3008e6805ace1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已保留</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c5597e00f2cc3008e6805ace1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:13</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已保留</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc5597e00f2cc3008e6805ace1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:13</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sold</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af328a28db100300d13efa9ebf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>sold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已售</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>685597e00f2cc3008e6805ace1050e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:13</sys_updated_on>
+            <value>sold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>販売済み</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffd6cfecdbe40b00d13efa9ebf96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>sold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Credit</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef328a28db100300d13efa9ebf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>クレジット</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14e60320db280b00d13efa9ebf961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:07</sys_updated_on>
+            <value>credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>信用</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a05557e00f2cc3008e6805ace1050ed3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Received</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>received</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>受信済み</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ce6cfecdbe40b00d13efa9ebf96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>received</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>收到时间</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e45597e00f2cc3008e6805ace1050e1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:13</sys_updated_on>
+            <value>received</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Repairable</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>repairable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Repairable</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>repairable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>修理可能</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84e6cfecdbe40b00d13efa9ebf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>repairable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>修理可能</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8e60320db280b00d13efa9ebf961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:07</sys_updated_on>
+            <value>repairable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>可维修</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d45557e00f2cc3008e6805ace1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>repairable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>可维修</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec5557e00f2cc3008e6805ace1050ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>repairable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dereferenced</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23328a28db100300d13efa9ebf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>dereferenced</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已解除引用</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d05557e00f2cc3008e6805ace1050ea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>dereferenced</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>out_of_stock</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>逆参照済み</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44e60320db280b00d13efa9ebf961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:07</sys_updated_on>
+            <value>dereferenced</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Disposable</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>disposable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Disposable</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>disposable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>可处置</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>605597e00f2cc3008e6805ace1050e06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>disposable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>可处置</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac5557e00f2cc3008e6805ace1050efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>disposable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pending_transfer</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>廃棄可能</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08e60320db280b00d13efa9ebf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:07</sys_updated_on>
+            <value>disposable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>in_transit</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>廃棄可能</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4e6cfecdbe40b00d13efa9ebf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>disposable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Divested</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>divested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>売却</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88e6cfecdbe40b00d13efa9ebf9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>divested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已剥离</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a45597e00f2cc3008e6805ace1050e4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:13</sys_updated_on>
+            <value>divested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stolen</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>stolen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已失窃</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>5</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c5557e00f2cc3008e6805ace1050e8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>stolen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>盗難</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48e6cfecdbe40b00d13efa9ebf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>stolen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Donated</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>donated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>寄贈済み</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04e6cfecdbe40b00d13efa9ebf9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>donated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已捐赠</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>6</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>945557e00f2cc3008e6805ace1050eaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>donated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scrapped</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>scrapped</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已报废</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>7</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c5597e00f2cc3008e6805ace1050e2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:13</sys_updated_on>
+            <value>scrapped</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>廃棄</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0e6cfecdbe40b00d13efa9ebf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>scrapped</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Duplicate Error</label>
+            <language>en</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27328a28db100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+            <value>duplicate_error</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>重复错误</label>
+            <language>zh</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>8</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>105557e00f2cc3008e6805ace1050e96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:12</sys_updated_on>
+            <value>duplicate_error</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>retired</dependent_value>
+            <element>hardware_substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>重複エラー</label>
+            <language>ja</language>
+            <name>cmdb_ci_hardware</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00e6cfecdbe40b00d13efa9ebf9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:06</sys_updated_on>
+            <value>duplicate_error</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>hardware_substatus</element>
+            <name>cmdb_ci_hardware</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:15:32</sys_created_on>
+            <sys_id>a7328a28db100300d13efa9ebf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>hardware_substatus</sys_name>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">4922cee4db100300d13efa9ebf9619fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_hardware_hardware_substatus</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:15:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:04:42</sys_created_on>
+        <sys_id>4d903f7f0f20d7005969b57ce1050ed2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>重複エラー</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_4d903f7f0f20d7005969b57ce1050ed2</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:04:42</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>01078360db280b00d13efa9ebf961919</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="scrum_role" table="scrum_pp_team_member" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product Owner</label>
+            <language>en</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:34:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97f0d069dbd08300d13efa9ebf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:34:39</sys_updated_on>
+            <value>product_owner</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>产品所有者</label>
+            <language>zh</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9975d3240f2cc3008e6805ace1050e9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:48</sys_updated_on>
+            <value>product_owner</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>製品所有者</label>
+            <language>ja</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41078360db280b00d13efa9ebf96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:43</sys_updated_on>
+            <value>product_owner</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scrum Master</label>
+            <language>en</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:34:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7f0d069dbd08300d13efa9ebf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:34:39</sys_updated_on>
+            <value>scrum_master</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scrum 主控</label>
+            <language>zh</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1175d3240f2cc3008e6805ace1050e9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:48</sys_updated_on>
+            <value>scrum_master</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>スクラムマスター</label>
+            <language>ja</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89078360db280b00d13efa9ebf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:43</sys_updated_on>
+            <value>scrum_master</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Developer</label>
+            <language>en</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:34:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bf0d069dbd08300d13efa9ebf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:34:39</sys_updated_on>
+            <value>developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>开发人员</label>
+            <language>zh</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d75d3240f2cc3008e6805ace1050e9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:48</sys_updated_on>
+            <value>developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>開発者</label>
+            <language>ja</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05078360db280b00d13efa9ebf96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:43</sys_updated_on>
+            <value>developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QA</label>
+            <language>en</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:34:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bf0d069dbd08300d13efa9ebf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:34:39</sys_updated_on>
+            <value>qa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QA</label>
+            <language>ja</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5078360db280b00d13efa9ebf96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:43</sys_updated_on>
+            <value>qa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QA</label>
+            <language>zh</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d575d3240f2cc3008e6805ace1050e9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:48</sys_updated_on>
+            <value>qa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Information Developer</label>
+            <language>en</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:34:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bf0d069dbd08300d13efa9ebf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:34:39</sys_updated_on>
+            <value>information_developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>信息开发人员</label>
+            <language>zh</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>5</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d175d3240f2cc3008e6805ace1050e99</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:48</sys_updated_on>
+            <value>information_developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>情報開発者</label>
+            <language>ja</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d078360db280b00d13efa9ebf96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:43</sys_updated_on>
+            <value>information_developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Support</label>
+            <language>en</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:34:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbf0d069dbd08300d13efa9ebf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:34:39</sys_updated_on>
+            <value>support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>サポート</label>
+            <language>ja</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01078360db280b00d13efa9ebf961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:43</sys_updated_on>
+            <value>support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>支持</label>
+            <language>zh</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>6</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9575d3240f2cc3008e6805ace1050e98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:48</sys_updated_on>
+            <value>support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solution Architect</label>
+            <language>en</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:34:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ff0d069dbd08300d13efa9ebf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:34:39</sys_updated_on>
+            <value>solution_architect</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ソリューションアーキテクト</label>
+            <language>ja</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d078360db280b00d13efa9ebf961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:43</sys_updated_on>
+            <value>solution_architect</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>解决方案架构师</label>
+            <language>zh</language>
+            <name>scrum_pp_team_member</name>
+            <sequence>7</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cb5d3a40f2cc3008e6805ace1050eb3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:50</sys_updated_on>
+            <value>solution_architect</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>scrum_role</element>
+            <name>scrum_pp_team_member</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-31 05:34:39</sys_created_on>
+            <sys_id>13f0d069dbd08300d13efa9ebf9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>scrum_role</sys_name>
+            <sys_package display_value="Agile Development" source="com.snc.sdlc.scrum.pp">15f05069dbd08300d13efa9ebf961985</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_scrum_pp_team_member_scrum_role</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-31 05:34:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:05:22</sys_created_on>
+        <sys_id>feb0bf7f0f20d7005969b57ce1050e88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>サポート</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_feb0bf7f0f20d7005969b57ce1050e88</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:05:22</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

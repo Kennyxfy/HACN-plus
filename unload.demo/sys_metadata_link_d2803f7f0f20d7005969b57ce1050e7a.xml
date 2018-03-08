@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>00e51be40f2cc3008e6805ace1050e52</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="final_budget_key_field" table="itfm_ca_segment_map" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 1</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc47c7e0db280b00d13efa9ebf961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_one</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 1</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40e51be40f2cc3008e6805ace1050e58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_one</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 2</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c47c7e0db280b00d13efa9ebf961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_two</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 2</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ce51be40f2cc3008e6805ace1050e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_two</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 3</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1047c7e0db280b00d13efa9ebf961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_three</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 3</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cce51be40f2cc3008e6805ace1050e56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_three</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 4</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9847c7e0db280b00d13efa9ebf961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_four</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 4</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8e51be40f2cc3008e6805ace1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_four</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 5</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9847c7e0db280b00d13efa9ebf96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_five</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 5</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>5</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80e51be40f2cc3008e6805ace1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_five</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 6</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d447c7e0db280b00d13efa9ebf96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_six</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 6</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>6</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0e51be40f2cc3008e6805ace1050e4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_six</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 7</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c47c7e0db280b00d13efa9ebf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_seven</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 7</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>7</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84e51be40f2cc3008e6805ace1050e56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_seven</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 8</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5847c7e0db280b00d13efa9ebf96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_eight</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 8</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>8</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cce51be40f2cc3008e6805ace1050e4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_eight</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 9</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5447c7e0db280b00d13efa9ebf961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_nine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 9</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>9</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8e51be40f2cc3008e6805ace1050e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_nine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 10</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d847c7e0db280b00d13efa9ebf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_ten</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 10</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>10</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ce51be40f2cc3008e6805ace1050e4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_ten</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 11</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9047c7e0db280b00d13efa9ebf961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_eleven</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 11</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>11</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88e51be40f2cc3008e6805ace1050e52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_eleven</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 12</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>12</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5847c7e0db280b00d13efa9ebf961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_twelve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 12</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>12</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04e51be40f2cc3008e6805ace1050e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_twelve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 13</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>13</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c47c7e0db280b00d13efa9ebf961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_thirteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 13</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>13</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88e51be40f2cc3008e6805ace1050e4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_thirteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 14</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>14</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d847c7e0db280b00d13efa9ebf961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_fourteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 14</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>14</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04e51be40f2cc3008e6805ace1050e4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_fourteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 15</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>15</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d047c7e0db280b00d13efa9ebf96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_fifteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 15</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>15</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08e51be40f2cc3008e6805ace1050e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_fifteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 16</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>16</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1847c7e0db280b00d13efa9ebf961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_sixteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 16</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>16</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ce51be40f2cc3008e6805ace1050e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_sixteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 17</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>17</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d447c7e0db280b00d13efa9ebf961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_seventeen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 17</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>17</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84e51be40f2cc3008e6805ace1050e4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_seventeen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>セグメント 18</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>18</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c47c7e0db280b00d13efa9ebf961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>f_segment_eighteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>片段 18</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>18</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ce51be40f2cc3008e6805ace1050e4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>f_segment_eighteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>予算モデル</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>19</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc47c7e0db280b00d13efa9ebf96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>cost_model</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>预算模型</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>19</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4e51be40f2cc3008e6805ace1050e48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>cost_model</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>业务单元</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>20</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08e51be40f2cc3008e6805ace1050e4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>business_unit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>事業部門</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>20</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5447c7e0db280b00d13efa9ebf961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>business_unit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ビジネスサービス</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>21</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9047c7e0db280b00d13efa9ebf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>business_service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>业务服务</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>21</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00e51be40f2cc3008e6805ace1050e52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>business_service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>コストセンター</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>22</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1047c7e0db280b00d13efa9ebf96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>cost_center</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>成本中心</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>22</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40e51be40f2cc3008e6805ace1050e4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>cost_center</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>部門</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>23</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c47c7e0db280b00d13efa9ebf96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>department</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>部门</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>23</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48e51be40f2cc3008e6805ace1050e53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>department</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>デマンド</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>24</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5047c7e0db280b00d13efa9ebf961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>demand</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>需求</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>24</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44e51be40f2cc3008e6805ace1050e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>demand</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IT 共享服务</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>25</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4e51be40f2cc3008e6805ace1050e51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>shared_service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IT 共有サービス</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>25</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c47c7e0db280b00d13efa9ebf961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>shared_service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>地点</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>26</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80e51be40f2cc3008e6805ace1050e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>location</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>場所</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>26</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d047c7e0db280b00d13efa9ebf961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>location</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ポートフォリオ</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>27</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1447c7e0db280b00d13efa9ebf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>portfolio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>组合</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>27</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00e51be40f2cc3008e6805ace1050e49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>portfolio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>プロジェクト</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>28</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1447c7e0db280b00d13efa9ebf961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>project</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>项目</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>28</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ce51be40f2cc3008e6805ace1050e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>project</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ベンダー</label>
+            <language>ja</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>29</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9447c7e0db280b00d13efa9ebf961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+            <value>vendor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>供应商</label>
+            <language>zh</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>29</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48e51be40f2cc3008e6805ace1050e49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:38</sys_updated_on>
+            <value>vendor</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>final_budget_key_field</element>
+            <name>itfm_ca_segment_map</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:46</sys_created_on>
+            <sys_id>5447c7e0db280b00d13efa9ebf96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>final_budget_key_field</sys_name>
+            <sys_package display_value="I18N: Japanese Translations" source="com.snc.i18n.japanese">d32507a4dbe40b00d13efa9ebf9619d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_itfm_ca_segment_map_final_budget_key_field</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:04:31</sys_created_on>
+        <sys_id>d2803f7f0f20d7005969b57ce1050e7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>业务服务</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_d2803f7f0f20d7005969b57ce1050e7a</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:04:31</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

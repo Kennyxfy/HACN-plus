@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>000386acdb100300d13efa9ebf96197d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="source" table="cmdb_health_result" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cloud Discovery</label>
+            <language>en</language>
+            <name>cmdb_health_result</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>000386acdb100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:51</sys_updated_on>
+            <value>CLOUD_DISCOVERY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cmdb Health Audit</label>
+            <language>en</language>
+            <name>cmdb_health_result</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc0386acdb100300d13efa9ebf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:51</sys_updated_on>
+            <value>CMDB_HEALTH_AUDIT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>クラウドディスカバリー</label>
+            <language>ja</language>
+            <name>cmdb_health_result</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>703743e0db280b00d13efa9ebf9619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:32</sys_updated_on>
+            <value>CLOUD_DISCOVERY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>云发现</label>
+            <language>zh</language>
+            <name>cmdb_health_result</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48d5d3e40f2cc3008e6805ace1050e0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:21</sys_updated_on>
+            <value>CLOUD_DISCOVERY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CMDB 健全性チェック</label>
+            <language>ja</language>
+            <name>cmdb_health_result</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>383743e0db280b00d13efa9ebf9619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:32</sys_updated_on>
+            <value>CMDB_HEALTH_AUDIT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cmdb 健康状况审核</label>
+            <language>zh</language>
+            <name>cmdb_health_result</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00d5d3e40f2cc3008e6805ace1050e0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:21</sys_updated_on>
+            <value>CMDB_HEALTH_AUDIT</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>source</element>
+            <name>cmdb_health_result</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:18:51</sys_created_on>
+            <sys_id>040386acdb100300d13efa9ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>source</sys_name>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">4922cee4db100300d13efa9ebf9619fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmdb_health_result_source</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:18:51</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:01:06</sys_created_on>
+        <sys_id>90cf2f3f0f20d7005969b57ce1050e42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloud Discovery</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_90cf2f3f0f20d7005969b57ce1050e42</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:01:06</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

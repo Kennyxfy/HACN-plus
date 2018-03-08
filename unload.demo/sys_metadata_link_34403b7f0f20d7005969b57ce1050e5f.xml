@@ -1,0 +1,2892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>007593240f2cc3008e6805ace1050e75</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="sales_account" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>コロンビア特別区 (DC)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c070360db280b00d13efa9ebf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>District of Columbia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>哥伦比亚特区 (DC)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c7593240f2cc3008e6805ace1050e89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>District of Columbia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>アラスカ (AK)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18070360db280b00d13efa9ebf9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Alaska</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>阿拉斯加 (AK)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>587593240f2cc3008e6805ace1050e94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Alaska</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>オーストラリア首都特別地域 (ACT)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98074360db280b00d13efa9ebf961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Australian Capital Territory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>澳大利亚首都领地 (ACT)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>147593240f2cc3008e6805ace1050e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Australian Capital Territory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>アラバマ (AL)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c074360db280b00d13efa9ebf961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Alabama</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>阿拉巴马 (AL)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c47593240f2cc3008e6805ace1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Alabama</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ジャービス湾特別地域 (JBT)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c070360db280b00d13efa9ebf9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Jervis Bay Territory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>杰维斯湾地区 (JBT)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>587593240f2cc3008e6805ace1050e75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Jervis Bay Territory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>アーカンソー (AR)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98070360db280b00d13efa9ebf9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Arkansas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>阿肯色 (AR)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d87593240f2cc3008e6805ace1050e8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Arkansas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ニューサウスウェールズ (NSW)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54074360db280b00d13efa9ebf961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>New South Wales</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>新南维尔士 (NSW)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>947593240f2cc3008e6805ace1050e97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>New South Wales</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>アリゾナ (AZ)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4074360db280b00d13efa9ebf96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Arizona</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>亚利桑那 (AZ)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>047593240f2cc3008e6805ace1050e6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Arizona</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ノーザンテリトリー (NT)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c070360db280b00d13efa9ebf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Northern Territory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>北领地 (NT)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>947593240f2cc3008e6805ace1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Northern Territory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>カリフォルニア (CA)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4070360db280b00d13efa9ebf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>California</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>加利福尼亚 (CA)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>5</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>187593240f2cc3008e6805ace1050e8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>California</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>クイーンズランド (QLD)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90074360db280b00d13efa9ebf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Queensland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>昆士兰 (QLD)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>5</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d07593240f2cc3008e6805ace1050e9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Queensland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>コロラド (CO)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14074360db280b00d13efa9ebf96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Colorado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>科罗拉多 (CO)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>6</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>407593240f2cc3008e6805ace1050e71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Colorado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>サウスオーストラリア (SA)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58070360db280b00d13efa9ebf9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>South Australia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>南澳大利亚 (SA)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>6</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d07593240f2cc3008e6805ace1050e7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>South Australia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>コネチカット (CT)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14070360db280b00d13efa9ebf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Connecticut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>康涅狄格 (CT)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>7</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>547593240f2cc3008e6805ace1050e92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Connecticut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>タスマニア (TAS)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94074360db280b00d13efa9ebf961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Tasmania</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>塔斯马尼亚 (TAS)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>7</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>107593240f2cc3008e6805ace1050e9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Tasmania</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>デラウェア (DE)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18074360db280b00d13efa9ebf961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Delaware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>特拉华 (DE)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>8</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>447593240f2cc3008e6805ace1050e73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Delaware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ビクトリア (VIC)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94070360db280b00d13efa9ebf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Victoria</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>维多利亚 (VIC)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>8</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d47593240f2cc3008e6805ace1050e8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Victoria</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>フロリダ (FL)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50070360db280b00d13efa9ebf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Florida</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>佛罗里达 (FL)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>9</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>907593240f2cc3008e6805ace1050e95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Florida</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ウェスタンオーストラリア (WA)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0074360db280b00d13efa9ebf961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Western Australia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>AU</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>西澳大利亚 (WA)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>9</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c7593240f2cc3008e6805ace1050e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Western Australia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ジョージア (GA)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54074360db280b00d13efa9ebf961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Georgia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>乔治亚 (GA)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>10</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>007593240f2cc3008e6805ace1050e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Georgia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>グアム (GU)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18070360db280b00d13efa9ebf9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Guam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>关岛 (GU)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>10</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>907593240f2cc3008e6805ace1050e76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Guam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ハワイ (HI)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0070360db280b00d13efa9ebf9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Hawaii</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>夏威夷 (HI)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>11</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>147593240f2cc3008e6805ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Hawaii</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>アイオワ (IA)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>12</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c074360db280b00d13efa9ebf961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Iowa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>爱荷华 (IA)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>12</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc7593240f2cc3008e6805ace1050e97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Iowa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>アイダホ (ID)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>13</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10074360db280b00d13efa9ebf96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Idaho</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>爱达荷 (ID)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>13</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c7593240f2cc3008e6805ace1050e6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Idaho</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>イリノイ (IL)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>14</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54070360db280b00d13efa9ebf9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Illinois</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>伊利诺斯 (IL)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>14</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc7593240f2cc3008e6805ace1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Illinois</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>インディアナ (IN)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>15</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10070360db280b00d13efa9ebf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Indiana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>印地安那 (IN)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>15</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>507593240f2cc3008e6805ace1050e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Indiana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>カンザス (KS)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>16</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8074360db280b00d13efa9ebf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Kansas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>堪萨斯 (KS)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>16</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c7593240f2cc3008e6805ace1050e9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Kansas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ケンタッキー (KY)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>17</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c074360db280b00d13efa9ebf96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Kentucky</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>肯塔基 (KY)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>17</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>887593240f2cc3008e6805ace1050e71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Kentucky</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ルイジアナ (LA)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>18</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90070360db280b00d13efa9ebf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Louisiana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>路易斯安那 (LA)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>18</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c7593240f2cc3008e6805ace1050e7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Louisiana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>マサチューセッツ (MA)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>19</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c070360db280b00d13efa9ebf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Massachusetts</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>马萨诸塞 (MA)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>19</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c7593240f2cc3008e6805ace1050e92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Massachusetts</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>メリーランド (MD)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>20</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc074360db280b00d13efa9ebf961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Maryland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>马里兰 (MD)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>20</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>587593240f2cc3008e6805ace1050e9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Maryland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>メイン (ME)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>21</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50074360db280b00d13efa9ebf961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Maine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>缅因 (ME)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>21</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c7593240f2cc3008e6805ace1050e73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Maine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ミシガン (MI)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>22</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc070360db280b00d13efa9ebf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Michigan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>密歇根 (MI)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>22</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>107593240f2cc3008e6805ace1050e8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Michigan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ミネソタ (MN)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>23</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98070360db280b00d13efa9ebf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Minnesota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>明尼苏达 (MN)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>23</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d87593240f2cc3008e6805ace1050e95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Minnesota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ミズーリ (MO)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>24</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c074360db280b00d13efa9ebf961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Missouri</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>密苏里 (MO)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>24</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>947593240f2cc3008e6805ace1050ea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Missouri</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ミシシッピー (MS)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>25</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c074360db280b00d13efa9ebf961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Mississippi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>密西西比 (MS)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>25</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>487593240f2cc3008e6805ace1050e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Mississippi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>モンタナ (MT)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>26</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50070360db280b00d13efa9ebf9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Montana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>蒙大拿 (MT)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>26</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d87593240f2cc3008e6805ace1050e76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Montana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ノースカロライナ (NC)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>27</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c070360db280b00d13efa9ebf9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>North Carolina</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>北卡罗来纳 (NC)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>27</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c7593240f2cc3008e6805ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>North Carolina</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ノースダコタ (ND)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>28</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4074360db280b00d13efa9ebf961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>North Dakota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>北达科他 (ND)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>28</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>187593240f2cc3008e6805ace1050e98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>North Dakota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ネブラスカ (NE)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>29</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58074360db280b00d13efa9ebf96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Nebraska</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>内布拉斯加 (NE)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>29</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>847593240f2cc3008e6805ace1050e6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Nebraska</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ニューハンプシャー (NH)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>30</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c070360db280b00d13efa9ebf9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>New Hampshire</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>新罕布什尔 (NH)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>30</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>187593240f2cc3008e6805ace1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>New Hampshire</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ニュージャージー (NJ)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>31</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58070360db280b00d13efa9ebf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>New Jersey</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>新泽西 (NJ)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>31</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>987593240f2cc3008e6805ace1050e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>New Jersey</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ニューメキシコ (NM)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>32</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14074360db280b00d13efa9ebf961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>New Mexico</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>新墨西哥 (NM)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>32</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>547593240f2cc3008e6805ace1050e9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>New Mexico</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ネバダ (NV)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>33</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94074360db280b00d13efa9ebf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Nevada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>内华达 (NV)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>33</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c07593240f2cc3008e6805ace1050e72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Nevada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ニューヨーク (NY)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>34</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8070360db280b00d13efa9ebf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>New York</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>纽约 (NY)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>34</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c7593240f2cc3008e6805ace1050e88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>New York</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>オハイオ (OH)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>35</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94070360db280b00d13efa9ebf9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Ohio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>俄亥俄 (OH)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>35</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d47593240f2cc3008e6805ace1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Ohio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>オクラホマ (OK)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>36</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18074360db280b00d13efa9ebf961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Oklahoma</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>俄克拉荷马 (OK)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>36</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>907593240f2cc3008e6805ace1050e9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Oklahoma</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>オレゴン (OR)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>37</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98074360db280b00d13efa9ebf961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Oregon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>俄勒冈 (OR)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>37</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c47593240f2cc3008e6805ace1050e74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Oregon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ペンシルバニア (PA)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>38</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18070360db280b00d13efa9ebf9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Pennsylvania</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>宾夕法尼亚 (PA)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>38</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>587593240f2cc3008e6805ace1050e8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Pennsylvania</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>プエルトリコ (PR)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>38</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0070360db280b00d13efa9ebf9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Puerto Rico</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>波多黎各 (PR)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>38</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>147593240f2cc3008e6805ace1050e96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Puerto Rico</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ロードアイランド (RI)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>39</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54074360db280b00d13efa9ebf96190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Rhode Island</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>罗得岛 (RI)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>39</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc7593240f2cc3008e6805ace1050ea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Rhode Island</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>サウスカロライナ (SC)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>40</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4074360db280b00d13efa9ebf961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>South Carolina</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>南卡罗来纳 (SC)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>40</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>807593240f2cc3008e6805ace1050e6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>South Carolina</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>サウスダコタ (SD)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>41</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98070360db280b00d13efa9ebf9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>South Dakota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>南达科塔 (SD)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>41</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>147593240f2cc3008e6805ace1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>South Dakota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>テネシー (TN)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>42</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54070360db280b00d13efa9ebf9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Tennessee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>田纳西 (TN)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>42</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>947593240f2cc3008e6805ace1050e8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Tennessee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>テキサス (TX)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>43</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10074360db280b00d13efa9ebf961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Texas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>德克萨斯 (TX)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>43</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>507593240f2cc3008e6805ace1050e99</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Texas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ユタ (UT)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>44</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90074360db280b00d13efa9ebf96190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Utah</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>犹他 (UT)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>44</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc7593240f2cc3008e6805ace1050e6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Utah</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>バージニア (VA)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>45</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4070360db280b00d13efa9ebf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Virginia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>维吉尼亚 (VA)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>45</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>507593240f2cc3008e6805ace1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Virginia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>バーモント (VT)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>46</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90070360db280b00d13efa9ebf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Vermont</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>佛蒙特 (VT)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>46</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d07593240f2cc3008e6805ace1050e91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Vermont</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ワシントン (WA)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>47</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c074360db280b00d13efa9ebf961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Washington</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>华盛顿 (WA)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>47</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c7593240f2cc3008e6805ace1050e9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Washington</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ウィスコンシン (WI)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>48</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc074360db280b00d13efa9ebf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Wisconsin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>威斯康星 (WI)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>48</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c7593240f2cc3008e6805ace1050e72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Wisconsin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ウェストバージニア (WV)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>49</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14070360db280b00d13efa9ebf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>West Virginia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>西弗吉尼亚 (WV)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>49</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>547593240f2cc3008e6805ace1050e89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>West Virginia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ワイオミング (WY)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>50</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc070360db280b00d13efa9ebf9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Wyoming</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>US</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>怀俄明 (WY)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>50</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>107593240f2cc3008e6805ace1050e94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Wyoming</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>アルバータ (AB)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>51</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50074360db280b00d13efa9ebf961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Alberta</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>阿尔伯达 (AB)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>51</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d87593240f2cc3008e6805ace1050e9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Alberta</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ブリティッシュコロンビア (BC)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>52</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0074360db280b00d13efa9ebf961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>British Columbia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>不列颠哥伦比亚 (BC)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>52</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>007593240f2cc3008e6805ace1050e75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>British Columbia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>マニトバ (MB)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>53</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50070360db280b00d13efa9ebf9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Manitoba</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>马尼托巴 (MB)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>53</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>907593240f2cc3008e6805ace1050e8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Manitoba</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ニューブランズウィック (NB)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>54</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c070360db280b00d13efa9ebf9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>New Brunswick</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>新布伦兹维克 (NB)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>54</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c7593240f2cc3008e6805ace1050e96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>New Brunswick</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ニューファンドランドおよびラブラドル (NL)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>55</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c074360db280b00d13efa9ebf96190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Newfoundland and Labrador</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>纽芬兰和拉布拉多 (NL)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>55</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>187593240f2cc3008e6805ace1050ea1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Newfoundland and Labrador</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ノースウェストテリトリーズ (NT)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>56</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10074360db280b00d13efa9ebf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Northwest Territories</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>西北地区 (NT)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>56</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c87593240f2cc3008e6805ace1050e6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Northwest Territories</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ノバスコシア (NS)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>57</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0070360db280b00d13efa9ebf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Nova Scotia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>新斯科舍 (NS)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>57</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c7593240f2cc3008e6805ace1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Nova Scotia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ヌナブト (NU)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>58</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c070360db280b00d13efa9ebf9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Nunavut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>努纳武特 (NU)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>58</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc7593240f2cc3008e6805ace1050e8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Nunavut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>オンタリオ (ON)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>59</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58074360db280b00d13efa9ebf961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Ontario</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>安大略 (ON)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>59</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>987593240f2cc3008e6805ace1050e99</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Ontario</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>プリンスエドワード島 (PE)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>60</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8074360db280b00d13efa9ebf96190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Prince Edward Island</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>爱德华王子岛 (PE)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>60</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>087593240f2cc3008e6805ace1050e70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Prince Edward Island</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ケベック (QC)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>61</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10070360db280b00d13efa9ebf9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Quebec</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>魁北克 (QC)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>61</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>987593240f2cc3008e6805ace1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Quebec</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>サスカチュワン (SK)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>62</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8070360db280b00d13efa9ebf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Saskatchewan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>萨斯喀彻温 (SK)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>62</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c7593240f2cc3008e6805ace1050e91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Saskatchewan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ユーコン (YT)</label>
+            <language>ja</language>
+            <name>sales_account</name>
+            <sequence>63</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4074360db280b00d13efa9ebf961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+            <value>Yukon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>CA</dependent_value>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>育空 (YT)</label>
+            <language>zh</language>
+            <name>sales_account</name>
+            <sequence>63</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d47593240f2cc3008e6805ace1050e9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:34:44</sys_updated_on>
+            <value>Yukon</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>sales_account</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:40</sys_created_on>
+            <sys_id>d0070360db280b00d13efa9ebf9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="I18N: Japanese Translations" source="com.snc.i18n.japanese">d32507a4dbe40b00d13efa9ebf9619d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sales_account_state</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:03:19</sys_created_on>
+        <sys_id>34403b7f0f20d7005969b57ce1050e5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>不列颠哥伦比亚 (BC)</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_34403b7f0f20d7005969b57ce1050e5f</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:03:19</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

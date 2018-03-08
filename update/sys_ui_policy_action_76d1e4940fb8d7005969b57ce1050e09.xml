@@ -6,18 +6,18 @@
         <mandatory>true</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>Fayu.xu</sys_created_by>
-        <sys_created_on>2018-02-05 05:40:37</sys_created_on>
-        <sys_id>a9c62d960f00d300eaa005ace1050ebc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2018-03-08 02:18:46</sys_created_on>
+        <sys_id>76d1e4940fb8d7005969b57ce1050e09</sys_id>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>u_trip0</sys_name>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
-        <sys_update_name>sys_ui_policy_action_a9c62d960f00d300eaa005ace1050ebc</sys_update_name>
+        <sys_update_name>sys_ui_policy_action_76d1e4940fb8d7005969b57ce1050e09</sys_update_name>
         <sys_updated_by>Fayu.xu</sys_updated_by>
-        <sys_updated_on>2018-02-05 05:40:37</sys_updated_on>
+        <sys_updated_on>2018-03-08 02:22:28</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
         <ui_policy display_value="notes ">a70669960f00d300eaa005ace1050ecb</ui_policy>
-        <visible>ignore</visible>
+        <visible>false</visible>
     </sys_ui_policy_action>
 </record_update>

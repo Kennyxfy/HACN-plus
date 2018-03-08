@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>00120ae4db100300d13efa9ebf96192f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="upload_type" table="ua_upload_log" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA App Usage</label>
+            <language>en</language>
+            <name>ua_upload_log</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc120ae4db100300d13efa9ebf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+            <value>ua_app</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA アプリ使用率</label>
+            <language>ja</language>
+            <name>ua_upload_log</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a474be0db280b00d13efa9ebf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:53</sys_updated_on>
+            <value>ua_app</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA 应用使用情况</label>
+            <language>zh</language>
+            <name>ua_upload_log</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31e59be40f2cc3008e6805ace1050e56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:45</sys_updated_on>
+            <value>ua_app</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA Count</label>
+            <language>en</language>
+            <name>ua_upload_log</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00120ae4db100300d13efa9ebf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+            <value>ua_count</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA カウント</label>
+            <language>ja</language>
+            <name>ua_upload_log</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02474be0db280b00d13efa9ebf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:53</sys_updated_on>
+            <value>ua_count</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA 计数</label>
+            <language>zh</language>
+            <name>ua_upload_log</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3de59be40f2cc3008e6805ace1050e53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:45</sys_updated_on>
+            <value>ua_count</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA Enforce Log</label>
+            <language>en</language>
+            <name>ua_upload_log</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40120ae4db100300d13efa9ebf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+            <value>ua_enforce_log</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA 执行日志</label>
+            <language>zh</language>
+            <name>ua_upload_log</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bde59be40f2cc3008e6805ace1050e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:45</sys_updated_on>
+            <value>ua_enforce_log</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA 適用ログ</label>
+            <language>ja</language>
+            <name>ua_upload_log</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a474be0db280b00d13efa9ebf96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:53</sys_updated_on>
+            <value>ua_enforce_log</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA App Metadata</label>
+            <language>en</language>
+            <name>ua_upload_log</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80120ae4db100300d13efa9ebf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+            <value>ua_app_meta</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA アプリメタデータ</label>
+            <language>ja</language>
+            <name>ua_upload_log</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e474be0db280b00d13efa9ebf96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:53</sys_updated_on>
+            <value>ua_app_meta</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA 应用元数据</label>
+            <language>zh</language>
+            <name>ua_upload_log</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79e59be40f2cc3008e6805ace1050e56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:45</sys_updated_on>
+            <value>ua_app_meta</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Portal Usage</label>
+            <language>en</language>
+            <name>ua_upload_log</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0120ae4db100300d13efa9ebf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+            <value>ua_sp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>サービスポータル使用率</label>
+            <language>ja</language>
+            <name>ua_upload_log</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2474be0db280b00d13efa9ebf96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:53</sys_updated_on>
+            <value>ua_sp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>服务门户使用情况</label>
+            <language>zh</language>
+            <name>ua_upload_log</name>
+            <sequence>5</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1e59be40f2cc3008e6805ace1050e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:45</sys_updated_on>
+            <value>ua_sp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA Monitor Property Audit</label>
+            <language>en</language>
+            <name>ua_upload_log</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04120ae4db100300d13efa9ebf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+            <value>ua_monitor_property_audit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA 监视器属性审核</label>
+            <language>zh</language>
+            <name>ua_upload_log</name>
+            <sequence>6</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5e59be40f2cc3008e6805ace1050e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:45</sys_updated_on>
+            <value>ua_monitor_property_audit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA 監視プロパティの監査</label>
+            <language>ja</language>
+            <name>ua_upload_log</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6474be0db280b00d13efa9ebf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:53</sys_updated_on>
+            <value>ua_monitor_property_audit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA Count Config Stats</label>
+            <language>en</language>
+            <name>ua_upload_log</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44120ae4db100300d13efa9ebf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+            <value>ua_count_cfg_stats</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA カウント設定統計</label>
+            <language>ja</language>
+            <name>ua_upload_log</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6570324db280b00d13efa9ebf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:11</sys_updated_on>
+            <value>ua_count_cfg_stats</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>upload_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA 计数配置统计</label>
+            <language>zh</language>
+            <name>ua_upload_log</name>
+            <sequence>7</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:37:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03f553280f2cc3008e6805ace1050e31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:37:07</sys_updated_on>
+            <value>ua_count_cfg_stats</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>upload_type</element>
+            <name>ua_upload_log</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:14:45</sys_created_on>
+            <sys_id>48120ae4db100300d13efa9ebf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>upload_type</sys_name>
+            <sys_package display_value="Usage Analytics" source="com.glide.usageanalytics">af02c6e4db100300d13efa9ebf961992</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_ua_upload_log_upload_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:14:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:01:12</sys_created_on>
+        <sys_id>f9cf2f3f0f20d7005969b57ce1050eb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UA Count</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_f9cf2f3f0f20d7005969b57ce1050eb8</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:01:12</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

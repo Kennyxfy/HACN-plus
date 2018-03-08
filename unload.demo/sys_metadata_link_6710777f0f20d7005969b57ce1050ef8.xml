@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>00574fe0db280b00d13efa9ebf961969</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="kb_attachment" table="cxs_table_config" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>kb_attachment</element>
+            <hint>Embeds article content into comments area</hint>
+            <inactive>false</inactive>
+            <label>Embed article</label>
+            <language>en</language>
+            <name>cxs_table_config</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a375ce6cdb500300d13efa9ebf9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:29:44</sys_updated_on>
+            <value>embed_article</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>kb_attachment</element>
+            <hint>将文章内容嵌入到注释区域</hint>
+            <inactive>false</inactive>
+            <label>嵌入文章</label>
+            <language>zh</language>
+            <name>cxs_table_config</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0f55fe40f2cc3008e6805ace1050efc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:55</sys_updated_on>
+            <value>embed_article</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>kb_attachment</element>
+            <hint>コメント領域に記事のコンテンツを埋め込む</hint>
+            <inactive>false</inactive>
+            <label>記事を埋め込む</label>
+            <language>ja</language>
+            <name>cxs_table_config</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00574fe0db280b00d13efa9ebf961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:01</sys_updated_on>
+            <value>embed_article</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>kb_attachment</element>
+            <hint>Inserts article link into comments area</hint>
+            <inactive>false</inactive>
+            <label>Embed link to article</label>
+            <language>en</language>
+            <name>cxs_table_config</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e375ce6cdb500300d13efa9ebf9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:29:44</sys_updated_on>
+            <value>embed_link</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>kb_attachment</element>
+            <hint>将文章链接插入注释区域中</hint>
+            <inactive>false</inactive>
+            <label>嵌入指向文章的链接</label>
+            <language>zh</language>
+            <name>cxs_table_config</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:36:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0f55fe40f2cc3008e6805ace1050efd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:36:55</sys_updated_on>
+            <value>embed_link</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>kb_attachment</element>
+            <hint>コメント領域に記事のリンクを挿入</hint>
+            <inactive>false</inactive>
+            <label>記事へのリンクを埋め込む</label>
+            <language>ja</language>
+            <name>cxs_table_config</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00574fe0db280b00d13efa9ebf961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:01</sys_updated_on>
+            <value>embed_link</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>kb_attachment</element>
+            <name>cxs_table_config</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:29:44</sys_created_on>
+            <sys_id>e775ce6cdb500300d13efa9ebf9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>kb_attachment</sys_name>
+            <sys_package display_value="Contextual Search" source="com.snc.contextual_search">6a758e6cdb500300d13efa9ebf9619c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cxs_table_config_kb_attachment</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:29:44</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:02:41</sys_created_on>
+        <sys_id>6710777f0f20d7005969b57ce1050ef8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>記事へのリンクを埋め込む</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_6710777f0f20d7005969b57ce1050ef8</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:02:41</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

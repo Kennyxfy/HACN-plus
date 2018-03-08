@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>0017c760db280b00d13efa9ebf9619ca</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="demo_data" table="sys_remote_app" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>demo_data</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No demo data</label>
+            <language>en</language>
+            <name>sys_remote_app</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:32:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d16c660db900300d13efa9ebf96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:32:18</sys_updated_on>
+            <value>no_demo_data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>demo_data</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>デモデータなし</label>
+            <language>ja</language>
+            <name>sys_remote_app</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0017c760db280b00d13efa9ebf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:56</sys_updated_on>
+            <value>no_demo_data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>demo_data</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>无演示数据</label>
+            <language>zh</language>
+            <name>sys_remote_app</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0b517a40f2cc3008e6805ace1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:51</sys_updated_on>
+            <value>no_demo_data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>demo_data</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Has demo data</label>
+            <language>en</language>
+            <name>sys_remote_app</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:32:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d16c660db900300d13efa9ebf96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:32:18</sys_updated_on>
+            <value>has_demo_data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>demo_data</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>デモデータあり</label>
+            <language>ja</language>
+            <name>sys_remote_app</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:31:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4817c760db280b00d13efa9ebf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:31:56</sys_updated_on>
+            <value>has_demo_data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>demo_data</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>具有演示数据</label>
+            <language>zh</language>
+            <name>sys_remote_app</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68b517a40f2cc3008e6805ace1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:51</sys_updated_on>
+            <value>has_demo_data</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>demo_data</element>
+            <name>sys_remote_app</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-07-28 11:32:18</sys_created_on>
+            <sys_id>9116c660db900300d13efa9ebf96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>demo_data</sys_name>
+            <sys_package display_value="Scoped App Client" source="sn_appclient">781f36a96fef21005be8883e6b3ee43d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Scoped App Client">781f36a96fef21005be8883e6b3ee43d</sys_scope>
+            <sys_update_name>sys_choice_sys_remote_app_demo_data</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-28 11:32:18</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:01:15</sys_created_on>
+        <sys_id>e6cf2f3f0f20d7005969b57ce1050ec3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>デモデータなし</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_e6cf2f3f0f20d7005969b57ce1050ec3</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:01:15</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

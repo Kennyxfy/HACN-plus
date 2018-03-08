@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>003703e0db280b00d13efa9ebf961984</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="timezone_type" table="var__m_3961a1da0a0a0b5c00ecd84822f70d85" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>(no time zone)</label>
+            <language>en</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2008-12-29 18:40:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>840bd2dc0a0a0bb700f9fcd18194834d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-12-31 23:39:43</sys_updated_on>
+            <value>NULL_OVERRIDE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>(タイムゾーンなし)</label>
+            <language>ja</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>003703e0db280b00d13efa9ebf961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>NULL_OVERRIDE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>（无时区）</label>
+            <language>zh</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>0</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1a59f640f2cc3008e6805ace1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>NULL_OVERRIDE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>This workflow's time zone</label>
+            <language>en</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>1</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-12-19 00:59:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cc07d340a0a0b52009c590cf6f307e4</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-12-31 23:39:46</sys_updated_on>
+            <value>workflow_timezone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>このワークフローのタイムゾーン</label>
+            <language>ja</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c3703e0db280b00d13efa9ebf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>workflow_timezone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>该工作流程的时区</label>
+            <language>zh</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1da59f640f2cc3008e6805ace1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>workflow_timezone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A specific time zone</label>
+            <language>en</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>2</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-12-19 00:59:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cc0bb9b0a0a0b5200c5939b3f3cd40c</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-12-31 23:39:50</sys_updated_on>
+            <value>user_specified_timezone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>特定のタイムゾーン</label>
+            <language>ja</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c43703e0db280b00d13efa9ebf961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>user_specified_timezone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>特定时区</label>
+            <language>zh</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51a59f640f2cc3008e6805ace1050ebd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>user_specified_timezone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A time zone field</label>
+            <language>en</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>3</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-12-19 00:59:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cc102ca0a0a0b5200582e9570899d09</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-12-31 23:39:54</sys_updated_on>
+            <value>from_field_timezone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>タイムゾーンフィールド</label>
+            <language>ja</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>483703e0db280b00d13efa9ebf961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>from_field_timezone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>时区字段</label>
+            <language>zh</language>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99a59f640f2cc3008e6805ace1050ebd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>from_field_timezone</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>timezone_type</element>
+            <name>var__m_3961a1da0a0a0b5c00ecd84822f70d85</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-01-04 21:36:44</sys_created_on>
+            <sys_id>fa125a68db540300d13efa9ebf96195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>timezone_type</sys_name>
+            <sys_package display_value="Workflow Runtime Engine" source="com.glideapp.workflow">64044664db500300d13efa9ebf96193b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_var__m_3961a1da0a0a0b5c00ecd84822f70d85_timezone_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-01-04 21:36:44</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:02:15</sys_created_on>
+        <sys_id>4d00377f0f20d7005969b57ce1050ea3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>(タイムゾーンなし)</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_4d00377f0f20d7005969b57ce1050ea3</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:02:15</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

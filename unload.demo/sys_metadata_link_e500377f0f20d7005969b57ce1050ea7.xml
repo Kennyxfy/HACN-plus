@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>003703e0db280b00d13efa9ebf96198a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="timer_type" table="var__m_4af3cf3ac3513000ed4860eb5bba8f99" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timer_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ユーザー指定の期間</label>
+            <language>ja</language>
+            <name>var__m_4af3cf3ac3513000ed4860eb5bba8f99</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>803703e0db280b00d13efa9ebf96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>NULL_OVERRIDE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timer_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>用户指定的持续时间</label>
+            <language>zh</language>
+            <name>var__m_4af3cf3ac3513000ed4860eb5bba8f99</name>
+            <sequence>1</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15a59f640f2cc3008e6805ace1050ec3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>NULL_OVERRIDE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timer_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>相关持续时间</label>
+            <language>zh</language>
+            <name>var__m_4af3cf3ac3513000ed4860eb5bba8f99</name>
+            <sequence>2</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dda59f640f2cc3008e6805ace1050ec4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>relative_duration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timer_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>相対期間</label>
+            <language>ja</language>
+            <name>var__m_4af3cf3ac3513000ed4860eb5bba8f99</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>443703e0db280b00d13efa9ebf961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>relative_duration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timer_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>日付/時間または期間フィールド</label>
+            <language>ja</language>
+            <name>var__m_4af3cf3ac3513000ed4860eb5bba8f99</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>483703e0db280b00d13efa9ebf96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>field</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timer_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>日期/时间或持续时间字段</label>
+            <language>zh</language>
+            <name>var__m_4af3cf3ac3513000ed4860eb5bba8f99</name>
+            <sequence>3</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95a59f640f2cc3008e6805ace1050ec4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>field</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timer_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>スクリプト</label>
+            <language>ja</language>
+            <name>var__m_4af3cf3ac3513000ed4860eb5bba8f99</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>003703e0db280b00d13efa9ebf96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+            <value>script</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timer_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>脚本</label>
+            <language>zh</language>
+            <name>var__m_4af3cf3ac3513000ed4860eb5bba8f99</name>
+            <sequence>4</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5da59f640f2cc3008e6805ace1050ec3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:35:38</sys_updated_on>
+            <value>script</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>timer_type</element>
+            <name>var__m_4af3cf3ac3513000ed4860eb5bba8f99</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:32:29</sys_created_on>
+            <sys_id>c83703e0db280b00d13efa9ebf961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>timer_type</sys_name>
+            <sys_package display_value="I18N: Japanese Translations" source="com.snc.i18n.japanese">d32507a4dbe40b00d13efa9ebf9619d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_var__m_4af3cf3ac3513000ed4860eb5bba8f99_timer_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:32:29</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:02:17</sys_created_on>
+        <sys_id>e500377f0f20d7005969b57ce1050ea7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>スクリプト</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_e500377f0f20d7005969b57ce1050ea7</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:02:17</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

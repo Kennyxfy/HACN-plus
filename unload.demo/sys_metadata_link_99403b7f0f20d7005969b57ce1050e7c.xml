@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>0076c35f3b8032000774229c93efc411</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="response_operation" table="var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>is</label>
+            <language>en</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-06 22:45:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4335cf1f3b8032000774229c93efc479</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-06 22:45:14</sys_updated_on>
+            <value>equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>是</label>
+            <language>zh</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>10</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:37:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bf553280f2cc3008e6805ace1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:37:07</sys_updated_on>
+            <value>equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>次の値に等しい (=)</label>
+            <language>ja</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6570324db280b00d13efa9ebf9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:11</sys_updated_on>
+            <value>equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>is not</label>
+            <language>en</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-06 22:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb55cf1f3b8032000774229c93efc4f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-06 22:45:25</sys_updated_on>
+            <value>not_equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>不是</label>
+            <language>zh</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>20</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:37:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cff553280f2cc3008e6805ace1050e3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:37:07</sys_updated_on>
+            <value>not_equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>次の値と異なる (!=)</label>
+            <language>ja</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>20</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66570324db280b00d13efa9ebf9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:11</sys_updated_on>
+            <value>not_equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>less than</label>
+            <language>en</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-06 22:46:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1775035f3b8032000774229c93efc480</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-06 22:46:01</sys_updated_on>
+            <value>less_than</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>小于</label>
+            <language>zh</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>30</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:37:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bf553280f2cc3008e6805ace1050e3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:37:07</sys_updated_on>
+            <value>less_than</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>次の値未満 (&lt;)</label>
+            <language>ja</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>30</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae570324db280b00d13efa9ebf9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:11</sys_updated_on>
+            <value>less_than</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>greater than</label>
+            <language>en</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>40</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-06 22:46:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e895035f3b8032000774229c93efc487</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-06 22:46:24</sys_updated_on>
+            <value>greater_than</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>大于</label>
+            <language>zh</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>40</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:37:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87f553280f2cc3008e6805ace1050e3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:37:07</sys_updated_on>
+            <value>greater_than</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>次の値を超える (&gt;)</label>
+            <language>ja</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>40</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e570324db280b00d13efa9ebf9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:11</sys_updated_on>
+            <value>greater_than</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>less than or is</label>
+            <language>en</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>50</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-06 22:48:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02a5435f3b8032000774229c93efc434</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-06 22:49:50</sys_updated_on>
+            <value>less_than_equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>小于或等于</label>
+            <language>zh</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>50</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:37:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3f553280f2cc3008e6805ace1050e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:37:07</sys_updated_on>
+            <value>less_than_equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>次の値以下 (&lt;=)</label>
+            <language>ja</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>50</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22570324db280b00d13efa9ebf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:11</sys_updated_on>
+            <value>less_than_equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>greater than or is</label>
+            <language>en</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>60</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-06 22:50:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0076c35f3b8032000774229c93efc411</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-06 22:50:16</sys_updated_on>
+            <value>greater_than_equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>大于或等于</label>
+            <language>zh</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>60</sequence>
+            <sys_created_by>Bruce.xu</sys_created_by>
+            <sys_created_on>2017-08-10 03:37:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43f553280f2cc3008e6805ace1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Bruce.xu</sys_updated_by>
+            <sys_updated_on>2017-08-10 03:37:07</sys_updated_on>
+            <value>greater_than_equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>response_operation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>次の値以上 (&gt;=)</label>
+            <language>ja</language>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sequence>60</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-10 02:33:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a570324db280b00d13efa9ebf9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-10 02:33:11</sys_updated_on>
+            <value>greater_than_equals</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>response_operation</element>
+            <name>var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-06 22:45:03</sys_created_on>
+            <sys_id>97345e64db940300d13efa9ebf961941</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>response_operation</sys_name>
+            <sys_package display_value="Automated Test Framework - REST Inbound" source="com.glide.automated_testing_impl.rest_inbound">52d68a64db900300d13efa9ebf9619f8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_var__m_atf_input_variable_2f4fa7309f132200ef4afa7dc67fcf0f_response_operation</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-06 22:45:03</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Fayu.xu</sys_created_by>
+        <sys_created_on>2018-03-07 04:03:21</sys_created_on>
+        <sys_id>99403b7f0f20d7005969b57ce1050e7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>greater than or is</sys_name>
+        <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+        <sys_update_name>sys_metadata_link_99403b7f0f20d7005969b57ce1050e7c</sys_update_name>
+        <sys_updated_by>Fayu.xu</sys_updated_by>
+        <sys_updated_on>2018-03-07 04:03:21</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>
