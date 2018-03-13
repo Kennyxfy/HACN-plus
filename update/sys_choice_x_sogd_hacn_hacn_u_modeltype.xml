@@ -15,10 +15,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e6bef6590fc05300eaa005ace1050e51</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>1</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:48:29</sys_updated_on>
+            <value>Desktop</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -34,10 +34,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a2bef6590fc05300eaa005ace1050e79</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>2</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:48:36</sys_updated_on>
+            <value>Disk array cabinet</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -53,10 +53,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e2bef6590fc05300eaa005ace1050e7b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>3</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:48:44</sys_updated_on>
+            <value>iPad</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -72,10 +72,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>26bef6590fc05300eaa005ace1050e7d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>4</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:48:50</sys_updated_on>
+            <value>Laptop</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -91,10 +91,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>66bef6590fc05300eaa005ace1050e7f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>5</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:48:56</sys_updated_on>
+            <value>Monitor</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -110,10 +110,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a6bef6590fc05300eaa005ace1050e81</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>6</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:49:09</sys_updated_on>
+            <value>Printer</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -129,10 +129,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e6bef6590fc05300eaa005ace1050e83</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>7</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:49:15</sys_updated_on>
+            <value>Scanner</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -148,10 +148,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>2abef6590fc05300eaa005ace1050e85</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>8</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:49:21</sys_updated_on>
+            <value>Server</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -167,10 +167,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>6abef6590fc05300eaa005ace1050e87</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>9</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:49:27</sys_updated_on>
+            <value>Tape Drives</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -186,10 +186,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>aabef6590fc05300eaa005ace1050e89</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>10</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:49:37</sys_updated_on>
+            <value>Project</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -205,10 +205,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>eabef6590fc05300eaa005ace1050e8b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 09:30:42</sys_updated_on>
-            <value>11</value>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Ling.Ling</sys_updated_by>
+            <sys_updated_on>2018-03-09 06:49:49</sys_updated_on>
+            <value>Others</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_modeltype</element>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="299" type="collection">
+    <element audit="true" extends="task" label="HACN" max_length="40" name="x_sogd_hacn_hacn" sizeclass="335" type="collection">
         <element label="Activities(filtered)(Formatter)" max_length="4000" name="activities_filtered_formatter" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No." max_length="40" name="serial_no" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial No.1" max_length="40" name="serial_no_1" type="string"/>
@@ -171,17 +171,17 @@
         <element attributes="edge_encryption_enabled=true" label="Model No" max_length="40" name="u_modelno" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Model Type" max_length="40" name="u_modeltype" reference_qual="company=28a2b629db120f00d13efa9ebf96199a^EQ" reference_qual_condition="company=28a2b629db120f00d13efa9ebf96199a^EQ" type="string">
             <choice>
-                <element label="Desktop" sequence="0" value="1"/>
-                <element label="Disk array cabinet" sequence="1" value="2"/>
-                <element label="iPad" sequence="2" value="3"/>
-                <element label="Laptop" sequence="3" value="4"/>
-                <element label="Monitor" sequence="4" value="5"/>
-                <element label="Printer" sequence="5" value="6"/>
-                <element label="Scanner" sequence="6" value="7"/>
-                <element label="Server" sequence="7" value="8"/>
-                <element label="Tape Drives" sequence="8" value="9"/>
-                <element label="Project" sequence="9" value="10"/>
-                <element label="Others" sequence="10" value="11"/>
+                <element label="Desktop" sequence="0" value="Desktop"/>
+                <element label="Disk array cabinet" sequence="1" value="Disk array cabinet"/>
+                <element label="iPad" sequence="2" value="iPad"/>
+                <element label="Laptop" sequence="3" value="Laptop"/>
+                <element label="Monitor" sequence="4" value="Monitor"/>
+                <element label="Printer" sequence="5" value="Printer"/>
+                <element label="Scanner" sequence="6" value="Scanner"/>
+                <element label="Server" sequence="7" value="Server"/>
+                <element label="Tape Drives" sequence="8" value="Tape Drives"/>
+                <element label="Project" sequence="9" value="Project"/>
+                <element label="Others" sequence="10" value="Others"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
