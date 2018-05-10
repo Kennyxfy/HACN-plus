@@ -4,152 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c6e34eba0fb81f005969b57ce1050e34</list_id>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08bd6602dba9d7007710f64a0c961992</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:41</sys_created_on>
-            <sys_id>0ee34eba0fb81f005969b57ce1050e34</sys_id>
+            <sys_created_on>2018-04-20 05:45:53</sys_created_on>
+            <sys_id>4cbd6602dba9d7007710f64a0c961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:41</sys_updated_on>
+            <sys_updated_on>2018-04-20 05:45:53</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_name</element>
-            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c6e34eba0fb81f005969b57ce1050e34</list_id>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08bd6602dba9d7007710f64a0c961992</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:41</sys_created_on>
-            <sys_id>8ee34eba0fb81f005969b57ce1050e34</sys_id>
+            <sys_created_on>2018-04-20 05:45:53</sys_created_on>
+            <sys_id>ccbd6602dba9d7007710f64a0c961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:41</sys_updated_on>
+            <sys_updated_on>2018-04-20 05:45:53</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>active</element>
-            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c6e34eba0fb81f005969b57ce1050e34</list_id>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08bd6602dba9d7007710f64a0c961992</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:41</sys_created_on>
-            <sys_id>02e34eba0fb81f005969b57ce1050e35</sys_id>
+            <sys_created_on>2018-04-20 05:45:53</sys_created_on>
+            <sys_id>40bd6602dba9d7007710f64a0c961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:41</sys_updated_on>
+            <sys_updated_on>2018-04-20 05:45:53</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>activities_filtered_formatter</element>
-            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c6e34eba0fb81f005969b57ce1050e34</list_id>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08bd6602dba9d7007710f64a0c961992</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:41</sys_created_on>
-            <sys_id>82e34eba0fb81f005969b57ce1050e35</sys_id>
+            <sys_created_on>2018-04-20 05:45:53</sys_created_on>
+            <sys_id>c0bd6602dba9d7007710f64a0c961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:41</sys_updated_on>
+            <sys_updated_on>2018-04-20 05:45:53</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>activity_due</element>
-            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c6e34eba0fb81f005969b57ce1050e34</list_id>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08bd6602dba9d7007710f64a0c961992</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:41</sys_created_on>
-            <sys_id>06e34eba0fb81f005969b57ce1050e35</sys_id>
+            <sys_created_on>2018-04-20 05:45:53</sys_created_on>
+            <sys_id>44bd6602dba9d7007710f64a0c961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:41</sys_updated_on>
+            <sys_updated_on>2018-04-20 05:45:53</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>additional_assignee_list</element>
-            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c6e34eba0fb81f005969b57ce1050e34</list_id>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08bd6602dba9d7007710f64a0c961992</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:41</sys_created_on>
-            <sys_id>86e34eba0fb81f005969b57ce1050e35</sys_id>
+            <sys_created_on>2018-04-20 05:45:53</sys_created_on>
+            <sys_id>c4bd6602dba9d7007710f64a0c961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:41</sys_updated_on>
+            <sys_updated_on>2018-04-20 05:45:53</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>approval</element>
-            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c6e34eba0fb81f005969b57ce1050e34</list_id>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08bd6602dba9d7007710f64a0c961992</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:41</sys_created_on>
-            <sys_id>0ae34eba0fb81f005969b57ce1050e35</sys_id>
+            <sys_created_on>2018-04-20 05:45:53</sys_created_on>
+            <sys_id>48bd6602dba9d7007710f64a0c961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:41</sys_updated_on>
+            <sys_updated_on>2018-04-20 05:45:53</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>approval_history</element>
-            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c6e34eba0fb81f005969b57ce1050e34</list_id>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08bd6602dba9d7007710f64a0c961992</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:41</sys_created_on>
-            <sys_id>8ae34eba0fb81f005969b57ce1050e35</sys_id>
+            <sys_created_on>2018-04-20 05:45:53</sys_created_on>
+            <sys_id>c8bd6602dba9d7007710f64a0c961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:41</sys_updated_on>
+            <sys_updated_on>2018-04-20 05:45:53</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>approval_set</element>
-            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c6e34eba0fb81f005969b57ce1050e34</list_id>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08bd6602dba9d7007710f64a0c961992</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:41</sys_created_on>
-            <sys_id>0ee34eba0fb81f005969b57ce1050e35</sys_id>
+            <sys_created_on>2018-04-20 05:45:53</sys_created_on>
+            <sys_id>4cbd6602dba9d7007710f64a0c961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:41</sys_updated_on>
+            <sys_updated_on>2018-04-20 05:45:53</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c6e34eba0fb81f005969b57ce1050e34</list_id>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08bd6602dba9d7007710f64a0c961992</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:41</sys_created_on>
-            <sys_id>8ee34eba0fb81f005969b57ce1050e35</sys_id>
+            <sys_created_on>2018-04-20 05:45:53</sys_created_on>
+            <sys_id>ccbd6602dba9d7007710f64a0c961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:41</sys_updated_on>
+            <sys_updated_on>2018-04-20 05:45:53</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -163,10 +163,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>IMS.SOG</sys_created_by>
-            <sys_created_on>2018-03-16 03:51:38</sys_created_on>
+            <sys_created_on>2018-04-26 01:35:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>dde3c6be0fb81f005969b57ce1050eed</sys_id>
+            <sys_id>e80ee804dbb113007710f64a0c9619c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_sogd_hacn_hacn</sys_name>
             <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -174,7 +174,7 @@
             <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
             <sys_update_name>sys_ui_list_x_sogd_hacn_hacn_null</sys_update_name>
             <sys_updated_by>IMS.SOG</sys_updated_by>
-            <sys_updated_on>2018-03-16 03:51:38</sys_updated_on>
+            <sys_updated_on>2018-04-26 01:35:54</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

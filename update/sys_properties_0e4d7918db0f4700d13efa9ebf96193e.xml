@@ -12,16 +12,16 @@
         <sys_created_by>Fayu.xu</sys_created_by>
         <sys_created_on>2017-12-11 09:08:03</sys_created_on>
         <sys_id>0e4d7918db0f4700d13efa9ebf96193e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>glide.ui.x_sogd_hacn_hacn_activity.fields</sys_name>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
         <sys_update_name>sys_properties_0e4d7918db0f4700d13efa9ebf96193e</sys_update_name>
         <sys_updated_by>Fayu.xu</sys_updated_by>
-        <sys_updated_on>2017-12-29 07:47:50</sys_updated_on>
+        <sys_updated_on>2018-04-03 02:53:38</sys_updated_on>
         <type>string</type>
-        <value>opened_by,work_notes,u_action,u_action1,u_action2,u_action3,u_assetno,u_assignto,u_address,u_callfrom,u_calltype,u_callsource,u_cancel_reason,u_cat1,u_cat2,u_center,u_city,u_contactperson,u_contactphoneno,contact_type,u_contractno,u_district1,u_pendingreason,u_phoneno,u_refno,u_createnote,u_ref_no,u_reopen_reason,state,u_clientref,u_clientuserid,close_notes,closed_by,company,u_completedate,u_contractremark,u_contracttype,sys_created_on,sys_created_by,delivery_plan,u_remark,u_etatime,u_etatime1,u_etatime2,u_etatime3,u_effective_date,u_effectivedate,u_endtime,u_endtime1,u_endtime2,u_endtime3,u_equipmentemail,expected_start,u_expected_onsite_time,u_expiry_date,u_expirydate,u_job,u_jobcode,u_jobcode1,u_jobcode2,u_jobcode3,location,u_name,u_name1,u_name2,u_name3,number,u_trip,u_trip0,u_trip1,u_trip2,u_trip3,*Email*</value>
+        <value>opened_by,work_notes,u_action,u_action1,u_action2,u_action3,u_assetno,u_assignto,u_address,u_callfrom,u_calltype,u_callsource,u_cancel_reason,u_cat1,u_cat2,u_center,u_city,u_contactperson,u_contactphoneno,contact_type,u_contractno,u_district1,u_pendingreason,u_phoneno,u_refno,u_createnote,u_ref_no,u_reopen_reason,state,u_clientref,u_clientuserid,close_notes,closed_by,company,u_completedate,u_contractremark,u_contracttype,sys_created_on,sys_created_by,delivery_plan,u_remark,u_etatime,u_etatime1,u_etatime2,u_etatime3,u_effective_date,u_effectivedate,u_endtime,u_endtime1,u_endtime2,u_endtime3,u_equipmentemail,expected_start,u_expected_onsite_time,u_expiry_date,u_expirydate,u_job,u_jobcode,u_jobcode1,u_jobcode2,u_jobcode3,location,u_name,u_name1,u_name2,u_name3,number,u_trip,u_trip0,u_trip1,u_trip2,u_trip3,*Email*,comments</value>
         <write_roles/>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=0e4d7918db0f4700d13efa9ebf96193e"/>

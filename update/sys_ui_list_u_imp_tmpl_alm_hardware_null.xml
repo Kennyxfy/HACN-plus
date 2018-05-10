@@ -4,92 +4,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_row</element>
-            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">014e5d950fcc1300eaa005ace1050e20</list_id>
+            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7df752ccdb7513007710f64a0c96190a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-02-02 02:29:16</sys_created_on>
-            <sys_id>094e5d950fcc1300eaa005ace1050e20</sys_id>
+            <sys_created_on>2018-04-26 09:18:49</sys_created_on>
+            <sys_id>35f752ccdb7513007710f64a0c96190b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 02:29:16</sys_updated_on>
+            <sys_updated_on>2018-04-26 09:18:49</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_set</element>
-            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">014e5d950fcc1300eaa005ace1050e20</list_id>
+            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7df752ccdb7513007710f64a0c96190a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-02-02 02:29:16</sys_created_on>
-            <sys_id>8d4e5d950fcc1300eaa005ace1050e20</sys_id>
+            <sys_created_on>2018-04-26 09:18:49</sys_created_on>
+            <sys_id>b9f752ccdb7513007710f64a0c96190b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 02:29:16</sys_updated_on>
+            <sys_updated_on>2018-04-26 09:18:49</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_state</element>
-            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">014e5d950fcc1300eaa005ace1050e20</list_id>
+            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7df752ccdb7513007710f64a0c96190a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-02-02 02:29:16</sys_created_on>
-            <sys_id>014e5d950fcc1300eaa005ace1050e21</sys_id>
+            <sys_created_on>2018-04-26 09:18:49</sys_created_on>
+            <sys_id>3df752ccdb7513007710f64a0c96190b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 02:29:16</sys_updated_on>
+            <sys_updated_on>2018-04-26 09:18:49</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_target_table</element>
-            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">014e5d950fcc1300eaa005ace1050e20</list_id>
+            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7df752ccdb7513007710f64a0c96190a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-02-02 02:29:16</sys_created_on>
-            <sys_id>814e5d950fcc1300eaa005ace1050e21</sys_id>
+            <sys_created_on>2018-04-26 09:18:49</sys_created_on>
+            <sys_id>bdf752ccdb7513007710f64a0c96190b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 02:29:16</sys_updated_on>
+            <sys_updated_on>2018-04-26 09:18:49</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_target_sys_id</element>
-            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">014e5d950fcc1300eaa005ace1050e20</list_id>
+            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7df752ccdb7513007710f64a0c96190a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-02-02 02:29:16</sys_created_on>
-            <sys_id>054e5d950fcc1300eaa005ace1050e21</sys_id>
+            <sys_created_on>2018-04-26 09:18:49</sys_created_on>
+            <sys_id>31f752ccdb7513007710f64a0c96190c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 02:29:16</sys_updated_on>
+            <sys_updated_on>2018-04-26 09:18:49</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_row_error</element>
-            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">014e5d950fcc1300eaa005ace1050e20</list_id>
+            <list_id display_value="u_imp_tmpl_alm_hardware" element="NULL" name="u_imp_tmpl_alm_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7df752ccdb7513007710f64a0c96190a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-02-02 02:29:16</sys_created_on>
-            <sys_id>854e5d950fcc1300eaa005ace1050e21</sys_id>
+            <sys_created_on>2018-04-26 09:18:49</sys_created_on>
+            <sys_id>b1f752ccdb7513007710f64a0c96190c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 02:29:16</sys_updated_on>
+            <sys_updated_on>2018-04-26 09:18:49</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -103,10 +103,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>Fayu.xu</sys_created_by>
-            <sys_created_on>2018-02-02 02:29:16</sys_created_on>
+            <sys_created_on>2018-04-26 09:18:49</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>014e5d950fcc1300eaa005ace1050e20</sys_id>
+            <sys_id>7df752ccdb7513007710f64a0c96190a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_imp_tmpl_alm_hardware</sys_name>
             <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
@@ -114,7 +114,7 @@
             <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
             <sys_update_name>sys_ui_list_u_imp_tmpl_alm_hardware_null</sys_update_name>
             <sys_updated_by>Fayu.xu</sys_updated_by>
-            <sys_updated_on>2018-02-02 02:29:16</sys_updated_on>
+            <sys_updated_on>2018-04-26 09:18:49</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
