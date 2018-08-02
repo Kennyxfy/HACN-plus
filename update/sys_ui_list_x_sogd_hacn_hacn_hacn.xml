@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_sogd_hacn_hacn" version="2" view="hacn">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>2d1a227dbb389b0089401272dbdb7544</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_sog_ticket_no</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>ad1a227dbb389b0089401272dbdb7544</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_phoneno</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>211a227dbb389b0089401272dbdb7545</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>a11a227dbb389b0089401272dbdb7545</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_contractno</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>251a227dbb389b0089401272dbdb7545</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_contracttype</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>a51a227dbb389b0089401272dbdb7545</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>291a227dbb389b0089401272dbdb7545</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_symptom</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>a91a227dbb389b0089401272dbdb7545</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_assignto</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>2d1a227dbb389b0089401272dbdb7545</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cat1</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>ad1a227dbb389b0089401272dbdb7545</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cat2</element>
+            <list_id display_value="x_sogd_hacn_hacn" element="NULL" name="x_sogd_hacn_hacn" parent="NULL" relationship="NULL" sys_domain="global" view="f42dc67dbbf49b0089401272dbdb7598">e51a227dbb389b0089401272dbdb7544</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>fengquan.hu</sys_created_by>
+            <sys_created_on>2018-03-13 04:04:35</sys_created_on>
+            <sys_id>211a227dbb389b0089401272dbdb7546</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fengquan.hu</sys_updated_by>
+            <sys_updated_on>2018-03-13 04:04:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_sogd_hacn_hacn</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Fayu.xu</sys_created_by>
+            <sys_created_on>2018-07-03 07:38:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c31d44cadbc31b807710f64a0c96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>Fayu.xu</sys_updated_by>
+            <sys_updated_on>2018-07-03 07:38:29</sys_updated_on>
+            <sys_user display_value="Fayu Xu">80541d150f5043008e6805ace1050e34</sys_user>
+            <view display_value="HACN" name="hacn">f42dc67dbbf49b0089401272dbdb7598</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

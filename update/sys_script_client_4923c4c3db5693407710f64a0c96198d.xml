@@ -8,16 +8,17 @@
         <field>u_city</field>
         <global>true</global>
         <messages/>
-        <name>getCenterFromCity</name>
+        <name>getCenterFromCity2</name>
         <order/>
-        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
-	if (isLoading || newValue === '') {
-		return;
-	}
-	
-	getCenter();
-	
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+　　if(g_form.getValue("u_center")=="")　{
+	   // g_form.addInfoMessage(">>>>>>"+g_form.getValue("u_center"));
+		getCenter();
+    }
+   
 }
+
 function getCenter(){
 	var ga = new GlideAjax('CmnLocation'); 
 	ga.addParam('sysparm_name','getCmnLocation'); 
@@ -29,25 +30,24 @@ function callback(response) {
 	var location = response.responseXML.documentElement.getAttribute("answer");
 	location=JSON.parse(location);
 	g_form.setValue('u_center',location.center);
-}
-]]></script>
+}]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>Peng.yanyong</sys_created_by>
-        <sys_created_on>2018-01-03 05:47:56</sys_created_on>
+        <sys_created_on>2018-05-30 02:41:46</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>7a0cefe70f1f8f008e6805ace1050ef9</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>getCenterFromCity</sys_name>
+        <sys_id>4923c4c3db5693407710f64a0c96198d</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>getCenterFromCity2</sys_name>
         <sys_overrides/>
         <sys_package display_value="HACN" source="x_sogd_hacn">7f3b2e0adb260740d13efa9ebf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="HACN">7f3b2e0adb260740d13efa9ebf9619da</sys_scope>
-        <sys_update_name>sys_script_client_7a0cefe70f1f8f008e6805ace1050ef9</sys_update_name>
+        <sys_update_name>sys_script_client_4923c4c3db5693407710f64a0c96198d</sys_update_name>
         <sys_updated_by>Peng.yanyong</sys_updated_by>
-        <sys_updated_on>2018-05-30 02:45:40</sys_updated_on>
+        <sys_updated_on>2018-05-30 02:48:19</sys_updated_on>
         <table>x_sogd_hacn_hacn</table>
-        <type>onChange</type>
+        <type>onLoad</type>
         <ui_type>10</ui_type>
         <view/>
     </sys_script_client>
